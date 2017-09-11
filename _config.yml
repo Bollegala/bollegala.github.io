@@ -216,3 +216,5 @@ sass:
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+theme: jekyll-theme-minimal
