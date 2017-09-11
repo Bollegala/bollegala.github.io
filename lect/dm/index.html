@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="COMP 527 web site">
+    <meta name="author" content="Danushka Bollegala">
+
+    <title>COMP 527: Data Mining and Visualization</title>
+</head>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+      <!-- Custom styles for this template -->
+    <link href="../../scripts/css/navbar-fixed-top.css" rel="stylesheet">
+
+   <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="scripts/dist/assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+
+ <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.drjulians.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+
+    
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">COMP 527</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#home">Home</a></li>
+              <li><a href="#location">Days/Location</a></li>
+              <li><a href="#lectures">Lectures</a></li>
+              <li><a href="#assignments">Assignments</a></li>
+              <li><a href="#lab">Lab Sessions</a></li>  
+              <li><a href="#references">References</a></li> 
+              <li><a href="https://vital.liv.ac.uk/webapps/discussionboard/do/conference?action=list_forums&course_id=_228959_1&nav=cp_discussion_board&conf_id=44310">QA</a></li>  
+              <li><a href="http://intranet.csc.liv.ac.uk/teaching/modules/module.php?code=COMP527">
+              Module Specifications</a></li>           
+            </ul>
+          </div>
+        </div>
+      </nav>
+      
+
+      <div class="container">
+      <div class="jumbotron" id="home">
+        <h1>Data Mining</h1>
+        <p>Data Mining is a multideciplinary field touching important topics across machine learning,
+        natural language processing, information retrieval, and optimization. This lecture is delivered in the second semester at the Department of Computer Science, The University of Liverpool as master level module.</p>
+        </div>
+
+
+       <div class="jumbotron" id="location">
+        <h2>Days and Locations</h2>
+        <ul>
+        <li><p>Mondays 09:00-10:00 BROD-406/406a (building 233, Map C8)</p></li>
+        <li><p>Wednesdays 11:00-12:00 <a href="https://www.liverpool.ac.uk/timetabling/online-room-catalogue/life-building/">LIFS-SR2</a> </p></li>
+        <li><p>Fridays 11:00-12:00 SCTH-SR6 (building 120, Map E2)</p></li>
+        </ul>
+      </div>
+
+      <div style="background:transparent !important" class="jumbotron" id="lectures">
+       <h2> Lecture schedule and slides </h2> 
+
+       <!--
+        <p> Videos of me explaining the slides are <a href="https://www.youtube.com/playlist?list=PL6xw6_f_qDLjLMITd0KpPVNY-iWBajr4p">here</a></p>
+        -->
+
+        <div class="table-responsive">
+          <table class="table table-striped">
+          <tr class="warning"> <td class="col-md-1"> # </td> <td class="col-md-2">Date</td> <td>Title </td> 
+          <td class="col-md-1">slides</td> </tr>
+          
+          <tr> <td> 1. </td> <td> Jan 30</td> <td> Introduction to Data Mining</td> 
+            <td><a href="intro.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>      
+
+          <tr> <td> 2. </td> <td> Feb 1</td> <td> Data representation</td> 
+            <td><a href="types.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 3. </td> <td> Feb 3</td> <td> Missing value handling, labeleing and noisy data </td>
+            <td><a href="missing-values.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 4. </td> <td> Feb 6</td> <td> k-NN classifier</td>
+             <td><a href="kNN.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 5. </td> <td> Feb 8</td> <td> Perceptron</td> 
+             <td><a href="Percept.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 6. </td> <td> Feb 10</td> <td> Classifier Evaluation</td> 
+              <td><a href="classeval.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 7. </td> <td> Feb 13</td> <td> Decision Tree Learner</td>
+             <td><a href="DecisionTrees.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 8. </td> <td> Feb 15</td> <td> Naive Bayes classifier</td>
+             <td><a href="naivebayes.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 9. </td> <td> Feb 17</td> <td> Logistic regression. Part 1</td> 
+             <td><a href="logreg.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+          <tr> <td> 10. </td> <td> Feb 20</td> <td>  Logistic regression. Part 2</td> <td>[above]</td></tr>   
+
+          <tr> <td> 11. </td> <td> Feb 22</td> <td> Support Vector Machines. Part 1</td>
+             <td><a href="SVM.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+          <tr> <td> 12. </td> <td> Feb 24</td> <td> Support Vector Machines. Part 2</td><td>[above]</td> </tr>  
+          <tr> <td> 13. </td> <td> Feb 27</td> <td>  Support Vector Machines. Part 3</td> <td>[above]</td></tr>   
+
+          <tr> <td> 14. </td> <td> March 1</td> <td> k-means clustering </td> 
+            <td><a href="Clustering.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>
+
+          <tr> <td> 15. </td> <td> March 3</td> <td> Cluster evaluation measures </td><td>[above]</td> </tr>  
+
+          <tr> <td> 16. </td> <td> March 6</td> <td>  Text mining. Part 1</td> 
+           <td><a href="TextMining.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>    
+          <tr> <td> 17. </td> <td> March 8</td> <td> Text mining. Part 2 </td> <td>[above]</td></tr> 
+
+          <tr> <td> 18. </td> <td> March 10</td> <td> Information Retrieval </td>
+          <td><a href="IR.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr> 
+
+          <tr> <td> 19. </td> <td> March 13</td> <td> Graph mining. Part 1 </td> 
+          <td><a href="GraphMining.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr> 
+
+          <tr> <td> 20. </td> <td> March 15</td> <td> Graph mining. Part 2 </td> 
+          <td><a href="spectral.py">[code]</a></td></tr>  
+
+          <tr> <td> 21. </td> <td> March 17</td> <td> Dimensionality reduction (SVD)</td> 
+          <td><a href="DimRed.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr> 
+
+          <tr> <td> 22. </td> <td> March 20</td> <td> Dimensionality reduction (PCA)</td> 
+          <td> [above] </td></tr> 
+
+          <tr> <td> 23. </td> <td> March 22</td> <td> Data visualization</td> 
+          <td><a href="Viz.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td></tr>    
+         
+          <tr> <td> 24. </td> <td> March 24</td> <td> Data visualization </td> <td>[above]</td></tr>  
+
+          <tr> <td> 25. </td> <td> March 27</td> <td> Neural networks and Deep Learning. Part 1</td>
+          <td><a href="NeuralNetworks.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>  
+
+          <tr> <td> 26. </td> <td> March 29</td> <td>  Neural networks and Deep Learning. Part 2</td> 
+           <td><a href="DeepLearning.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>  
+
+          <tr> <td> 27. </td> <td> April 24</td> <td> Sequential data </td>   
+            <td><a href="SequentialData.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>
+
+          <!-- <tr> <td> 28. </td> <td> April 25</td> <td> Privacy and Ethical issues </td> 
+               <td><a href="PPDM.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>
+               -->
+
+          <tr> <td> 28. </td> <td> April 26</td> <td> Word Representations </td> 
+              <td><a href="wordreps.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>
+
+          <!-- <tr> <td> 29. </td> <td> April 29</td> <td> Word Representations </td> <td>[above]</td></tr>  -->
+
+          <tr> <td> 30. </td> <td> April 28</td> <td> Revision </td> 
+              <td><a href="Revision_Questions.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>
+
+          <tr> <td> 31. </td> <td> May 3</td> <td> Revision </td> 
+              <td><a href="Revision_Questions.pdf"><img src="../../images/PDF.png" width="35" height="17"/></a></td> </tr>
+          </table>
+        </div>
+      </div> 
+
+
+      <div class="jumbotron" id="lab">
+        <h2>Assignment 1 (12% of course marks)</h2>
+        <ul>
+        <h4><li><p> Release date: February 8 </p></li></h4>
+        <h4><li><p><a href="Perceptron.pdf">Implementing the Perceptron Algorithm</a> 
+        Download <a href="CA1data.zip">CA1data.zip</a></p></li></h4>
+        <h4><li><p>Submission deadline: March 10 15:00 HRS</p></li></h4>
+        </ul>
+
+        <h2>Assignment 2 (13% of course marks)</h2>
+        <ul>
+        <h4><li><p> Release date: March 1 </p></li></h4>
+         <h4><li><p><a href="kmeans.pdf">Implementing the k-means Clustering Algorithm</a> 
+        Download <a href="CA2data.txt">CA2data.txt</a></p></li></h4>
+        <h4><li><p> Submission deadline: March 31 15:00 HRS </p></li></h4>
+
+        </ul>
+
+        <h2>Final Exam (75% of course marks)</h2>
+        <ul>
+        <h4><li><p>Exam date: TBD </p></li></h4>
+        <h4><li><p>For your reference, 2016 Final and Resit Exam papers with answers are available <a href="pastexams.zip">here.</a></p></li></h4>
+        </ul>
+      </div>
+
+
+      <div class="jumbotron" id="lab">
+        <h2>Resit Assignment 1 (12% of course marks)</h2>
+        <ul>
+        <h4><li><p> Release date: July 14 </p></li></h4>
+        <h4><li><p><a href="https://www.dropbox.com/s/xestkpak2utuh00/kNN.pdf?dl=0">Implementing the k-NN Algorithm</a> 
+        Download <a href="https://www.dropbox.com/s/1gwoe7kf1ue2xse/CA1data.zip?dl=0">CA1data.zip</a></p></li></h4>
+        <h4><li><p>Submission deadline: August 4 15:00 HRS (via Email to danushka)</p></li></h4>
+        </ul>
+
+        <h2>Resit Assignment 2 (13% of course marks)</h2>
+        <ul>
+        <h4><li><p> Release date: July 14 </p></li></h4>
+         <h4><li><p><a href="https://www.dropbox.com/s/ybeeyhufpqfbszv/GAAC.pdf?dl=0">Implementing Hierarchical Clustering Algorithm</a> 
+        Download <a href="https://www.dropbox.com/s/dl87crfw3cb5kcu/CA2data.txt?dl=0">CA2data.txt</a></p></li></h4>
+        <h4><li><p> Submission deadline: August 11 15:00 HRS (via Email to danushka)</p></li></h4>
+
+        </ul>
+
+        <h2>Final Exam (75% of course marks)</h2>
+        <ul>
+        <h4><li><p>Exam date: TBD </p></li></h4>
+        <h4><li><p>For your reference, 2016 Final and Resit Exam papers with answers are available <a href="pastexams.zip">here.</a></p></li></h4>
+        </ul>
+      </div>
+
+      <div class="jumbotron" id="lab">
+      <h2>Lab Sessions / Tutorials</h2>
+      <p>The concepts that we will be learning in the lectures will be further developed using a series of programming
+      tutorials. We will both implement some of the algorithms we learn in the course using Python as well as
+      use some of the machine learning and data mining tools freely available. 
+      Pavithra Rajendran and Xia Cui will be your TAs.</p>
+
+      <h3>Location: Mondays 11:00-12:00 GHOLT-H105 (Lab 3) </h3>
+      <h3>Location: Wednesdays 10:00-11:00 GHOLT-H116 (Lab 2) </h3>
+      
+
+      <h2> Lab Tasks </h2>
+      <ul>
+      <li><h3>Python basics</h3> 
+        <p>Following the <a href="Python-basics.ipynb">notebook</a>, try various data structures, functions and classes from Python.
+        You can refer <a href="https://docs.python.org/2/tutorial/">Official Tutorial</a>,
+      <a href="http://www.umiacs.umd.edu/~hal/courses/2013S_ML/p0/"> excellent and biref overview</a>
+      for further details. You can get <a href="http://ipython.org/">IPython shell</a></p>
+      <p> Task: Write a python program to measure the similarity between two given sentences. 
+      First, compute the set of words in each sentence, and then use the <a href="https://en.wikipedia.org/wiki/Jaccard_index">
+      Jaccard coefficient</a> to measure the similarity between the two given sentences.
+      You can see the solution <a href="Python-basics.html">here.</a></p>
+      <p> The sample code we used in the lab is <a href="python_basics.py">here</a> </p>
+      </li>
+
+      <li><h3>Numpy basics</h3>
+       <p> Numpy is a python library that provides data structures useful for data mining such as arrays, and various functions
+       on those data structures. Follow <a href="http://wiki.scipy.org/Tentative_NumPy_Tutorial">the official numpy tutorial</a>
+       and familiarize yourself with numpy.</p>
+       <p> Task: Using numpy measure the cosine similarity between two given sentences. You can see the
+       solution here <a href="Numpy-basics.html">[HTML]</a> <a href="Numpy-basics.ipynb">[notebook]</a>.
+       </li>
+
+       <li><h3>Implement a k-NN Classifier</h3>
+       <p>Lets implement a k-NN classifier to perform binary classification and evaluate its accuracy.
+       You can download the <a href="k-NN.ipynb">[notebook]</a> and the <a href="k-NN.html">[HTML]</a> versions for this task.
+       </p>
+       </li>
+
+       <li><h3> Data preprocessing</h3>
+       <p> Lets perform various preprocessing steps on a set of feature vectors such as L1/L2 normalization and
+       [0,1] scaling, Gaussian scaling using numpy. You can download the <a href="datapreprocessing.ipynb">[notebook]</a>
+       and the <a href="datapreprocessing.html">[HTML]</a> versions for this task.
+       </p>
+       </li>
+
+
+       <li><h3> Naive Bayes Classifier</h3>
+       <p> Lets implement a naive Bayes classifier to classify the data used in CA1. You can download a sample program here <a href="NaiveBayes.zip">[Naive Bayes]</a>
+       Uncompress the zip archive and run the python program to obtain the classification accuracy on test data. Modify the code and see what happens if we do not use Laplace smoothing.
+       </p>
+       </li>
+
+       <li><h3> Co-occurrence Measures</h3>
+       <p> We will count the co-occurrences of words in a given collection of documents, and compute pointwise
+       mutual information, chi-squared measure, and the log-likelihood ratio. See the lecture notes on text mining
+       for the definition of those word association measures. The sample program that implements the pointwise mutual
+       information can be downloaded from <a href="cooc.zip">here</a>. When you uncompress the archive you will find
+       two files: corpus.txt (contains 2000 sentences one per each line, we will assume each line to be a co-occurrence
+       window) and cooc.py (computes the co-occurrences between words from corpus.txt and prints the top-ranked
+       word-pairs in terms of their pointwise mutual information values). You are required to implement the Chi-squared
+       measure and the log-likelihood ratio. There is a larger 100,000 sentence corpus (large_corpus.txt) also provided
+       if you wish to experiment with larger text datasets.
+       </p>
+       </li>
+
+
+       <li><h3> Principal Component Analysis</h3>
+       <p> Let us implement PCA and project some data points from high dimensional space to low dimensional space.
+        You can download the <a href="PCA.ipynb">[notebook]</a> and the <a href="PCA.html">[HTML]</a> versions for this task.
+       </p>
+       </li>
+
+        <!--
+      <li><p><a href="numpy-note.pdf">ipython notebook from the lab session</a></p></li>
+      <li><p><a href="featspace.py">Python program</a> for computing the union of the features</p></li>
+
+      <li><p>k-NN implementation: <a href="knn.py">source code</a></p></li>
+      <li><p>naive Bayes implementation: <a href="nb.py">source code</a></p></li>
+      <li><p>Co-occurrence measures: <a href="cooc.py">source code</a></p></li>
+      <li><p>Train an SVM with different kernels using sciki-learn: <a href="svm.py">source code</a></p></li>
+       <li><p>Train a multi-layer feed-forward neural network <a href="NN_tutorial.zip">source code</a></p></li>
+       <li><p>Learn word representations using skip-gram model <a href="corpus.txt">corpus</a></p></li>
+       -->
+      </ul>
+      </div>
+
+      <div class="jumbotron" id="problems">
+      <h2>Problem Sets</h2>
+      <p> The following problem sets are for evaluating your understanding on the various topics that we
+      have covered in the lectures. Try these by yourselves first. We will dicusss the solutions during the
+      lectures and lab sessions later. You are not required to submit your solutions and they will not be marked
+      or counting towards your final mark of the module. The problem sets are for self-assessment only.</p>
+      <ul>
+      <li> <p> <a href="ProblemSet0.pdf">Problem Set 0</a> is out. </p> </li> 
+      <li> <p> <a href="ProblemSet1.pdf">Problem Set 1</a> is out. </p> </li>
+      <li> <p> <a href="ProblemSet2.pdf">Problem Set 2</a> is out. </p> </li>
+      <li> <p> <a href="ProblemSet3.pdf">Problem Set 3</a> is out. </p> </li>
+
+      </ul>
+      </div>
+
+       <div class="jumbotron" id="projects">
+      <h2><a name="projects">MSc projects</a></h2>
+      <p> The following summer MSc projects are available to CS students at UoL. If you are interested please contact me.</p>
+      <ul>
+      <li> <h3> Exploring the World of Deep Learning through GANs </h3>
+      <p>
+        Deep learning has received much attention lately due to its impressive performance in various real-world applications.
+        Deep Learning systems have already outperformed humans in various tasks. For example, in Large Scale Visual Recognition Challenge (<a href="http://www.image-net.org/challenges/LSVRC/">ILSVRC</a>) every year, deeper and complex neural network models have outperformed humans in recognising objects in images. Machine translation systems  such as Google’s machine translation and Microsoft’s real time voice-to-voice translation <a href="https://translator.microsoft.com/">system</a> are powered by bi-directional sequence-to-sequence models and neural language models.      
+        In this project, we will explore the frontiers of deep learning. Specifically, we will explore the power of a recently proposed deep learning architecture called  <a href="https://arxiv.org/pdf/1701.00160.pdf">Generative Adversarial Networks</a> or GANs. A GAN consists of two components: a discriminative model and a generative model. The generative model (counterfeit money producer) would like to generate data that can fool the discriminator (police) and the discriminator would like to separate actual data from the noise. By optimising both discriminator and the generator jointly, we will be able to learn a highly accurate discriminative model at the sametime generate new training data using the generative model. An example use of GAN to generate images can be seen <a href="https://github.com/junyanz/iGAN">here</a>       
+        In this MSc project, we will implement two variants of GANs, <a href="https://arxiv.org/abs/1606.00709">f-GAN</a> and <a href="https://arxiv.org/abs/1701.07875">WGAN</a>, and compare their performance in an NLP task.  </p>
+        </li>
+
+        <li> <h3> Leveraging Computational Semantics to Synthesise Psycholinguistic Data</h3>
+        <p>
+          Emotion detection, sentiment analysis and the like have emerged as a core part of the real world tasks currently expected of natural language processing (NLP) systems and services being used in production. However, such tasks effectively attempt to replicate human knowledge, immediately exposing an inherent flaw within such systems, that they are only as good as the models we can build of such knowledge. While there are various attempts to formalise such models (e.g. rule-based accounts), over the last decade data-oriented modelling approaches are emerging as more reliable and accurate, with wider coverage and scalability. Within the field of Computational Semantics, vector space models (VSMs) of linguistic meaning have emerged as a robust data-oriented approach to building models of such knowledge. However, a key bottleneck for all applications targeting phenomena such as emotion, mood, sentiment and the like, is the quality of the data used to model the underlying human knowledge. Bringing both threads together, we aim to employ VSMs to synthesise this knowledge, by bootstrapping on currently available psycholinguistically validated collections of emotion and affective meanings for selected words. For example, beginning with a <a href="http://websites.psychology.uwa.edu.au/school/MRCDatabase/uwa_mrc.htm">collection</a>, which is essentially a list of words and their affective meanings (presented as scores collected during psycholinguistics studies), we proceed to develop VSMs for these words, via deep learning, essentially generating a network of words related to the original list of words, then propagate the scores from the original list throughout this newly formed network. This approach will provide us with a powerful approach to essentially being able to synthesise all manner of the deeper, more cognitive dimensions of the natural language semantics.
+          </p>
+          </li>
+        </ul>
+        </div>
+
+
+      <div class="jumbotron" id="references">
+      <h2>References</h2>
+      <p> There is no specific official text book for this course. The following is a recommended list of text books,
+      papers, web sites for the various topics covered in this course. </p>
+      <ol>
+      <li> <p> <a href="http://research.microsoft.com/en-us/um/people/cmbishop/prml/">
+      Pattern Recognition and Machine Learning, by Chris Bishop. </a> For machine learning related topics</p></li>
+
+      <li> <p> <a href="http://ciml.info/">
+      A Course in Machine Learning, by Hal Daume III. </a> Excellent introductory material on various topics on machine learning.
+      </p> </li>
+ 
+      <li> <p> <a href="http://www.amazon.com/gp/product/0123748569/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687782&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0123814790&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=12Y6BDPGN2350CHF87M5">Data Mining: Practical Machine Learning Tools and Techniques by Ian Witten.</a> For decision tree learners, associative rule mining, data pre-processing related topics.</p></li>
+
+      <li> <p> <a href="http://nlp.stanford.edu/fsnlp/">
+      Foundations of Statistical Natural Language Processing by Christopher Manning. </a>For text processing/mining related topics</p></li>
+
+      <li><a href="http://www.numpy.org/"><p>numpy (Python numeric processing)</p></a></li>
+
+     <li><a href="http://www.scipy.org/"><p>scipy (Python MATLAB like functions)</p></a></li>
+
+     <li><a href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/"><p>LIBSVM (SVM library available written in C and with bindings for numerous languages including Python)</p></a></li>
+
+      <li><a href="http://scikit-learn.org/stable/"><p>scikit-learn (Machine Learning in Python)</p></a></li>
+      </ol>
+      </div>
+      
+
+      </div>  
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../dist/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+  </html>
