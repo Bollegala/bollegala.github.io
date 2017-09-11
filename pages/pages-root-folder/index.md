@@ -25,7 +25,7 @@ permalink: /index.html
         <a href="http://www.liv.ac.uk/">
           The University of Liverpool.</a><br/>
         <br/>
-        <br/> </br>
+        <br/> 
         RM 224, Ashton Building, Ashton Street, Liverpool, L69 3BX, UK.<br/>
         Phone: +44-1517954283<br/>
         Mail: danushka (dot) bollegala (atmark) liverpool.ac.uk <br/>
@@ -36,8 +36,6 @@ permalink: /index.html
         type="text/javascript"></script>        
       </p>
 
-<div style="width: 100%; overflow: hidden;">
-    <div style="width: 450px; float: left;"> 
   <p>  
         I am Danushka Bollegala, a Senior Lecturer (Associate Professor) at the
           <a href="http://www.liv.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liv.ac.uk/">The University of Liverpool</a>, United Kingdom. 
@@ -50,8 +48,7 @@ permalink: /index.html
           I am a science advisor to <a href="https://cookpad.com/">Cookpad</a>.
           <br/> <br/>
 
-        My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning. <br/><br/>
-
+        My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning.
         I am particularly interested in how the meaning of words and sentences used by humans can be represented in a format
         that could be understood by machines such as computers or robots. This subfield of AI is called natural language processing.
         Human languages are ambigous, use complex syntactic structures and require knowledge not necessarily explicitly stated 
@@ -71,12 +68,7 @@ permalink: /index.html
 
         I have experience in industrial collaborations in the form of startups, knowledge transfer partnetships
         and consultencies. If you are interested in discussing such industrial collaborations please feel free to contact me.
-      </p>  
-      </div>
-   <div style="margin-left: 460px;">     
-<a class="twitter-timeline" align="right" data-width="250" data-height="1000" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Bollegala">Tweets by Bollegala</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
-</div>
-
+      </p>    
 
 <h3>Books written by me</h3>
 <table>
@@ -87,9 +79,8 @@ permalink: /index.html
 </tr>
 </table>
 
-  
+<a class="twitter-timeline" data-width="610" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Bollegala">Tweets by Bollegala</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
-</div>
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
