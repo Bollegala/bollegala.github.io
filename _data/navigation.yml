@@ -1,0 +1,36 @@
+#
+#   Navigation to the left › side: left
+#
+
+- title: About
+  url: "/"
+  side: left
+
+- title: CV
+  url: "/cv/"
+  side: left
+
+- title: "Teaching"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Data Mining"
+    url: "/lect/dm/"
+
+- title: Publications
+  url: "/publications/"
+  side: left
+ 
+- title: Software
+  url: "/software/"
+  side: left
+
+- title: Members
+  url: "/members/"
+  side: left
+
+- title: 日本語
+  url: "/japanese/"
+  side: left
+
+
