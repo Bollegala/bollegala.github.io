@@ -23,7 +23,7 @@ description: "This is the Danushka Bollegala's official web site. Department of 
 author: danushka
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-baseurl: '/~danushka'
+baseurl: ''
 
 page.title: ""
 
@@ -61,8 +61,6 @@ exclude:
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
-
-plugins_dir: ['jekyll-twitter-plugin']
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
