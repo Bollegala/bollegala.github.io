@@ -99,6 +99,20 @@ Year = {2017},
 pages = {xxx--xxx}
 }</pre></div></li>
 
+<li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
+<strong>Spectral Analysis of Keystroke Streams: Towards Effective Real-Time and Continuous User Authentication</strong>,
+International Workshop on Spatial and Spatio-temporal Data Mining at the IEEE International Conference on Data Mining (ICDM), New Orleans, USA. (2017.11)
+<a href = "javascript:unhide('icdm17');" class="bibtex"><img src="../images/bib.png" alt="Alsheri ICDM 2017" width="30" height ="10"></a>
+<div id = "icdm17" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Alsheri:ICDM:2017,
+Title = {Spectral Analysis of Keystroke Streams: Towards Effective Real-Time and Continuous User Authentication},
+Author = {Abdullah Alsheri and Frans Coenen and and Danushka Bollegala},
+Booktitle = {Proc. of Workshop on Spatial and Spatio-temporal Data Mining (SSTDM) at the IEEE International Conference on Data Mining (SSTDM)},
+Year = {2017},
+pages = {xxx--xxx}
+}</pre></div></li>
+
 <li>Xia Cui, Frans Coenen, and Danushka Bollegala:
 <strong>Effect of Data Imbalance on Unsupervised Domain Adaptation of Part-of-Speech Tagging and Pivot Selection Strategies</strong>, Wokshop on Learning With Imbalanced Domains: Theory and Applications (LIDTA) at the
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), pp. XX-XX. (2017.09)
