@@ -10,6 +10,52 @@ title:     publications
 <ol reversed>
 <h2>2017</h2>
 
+
+<li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
+<strong>An Optimality Proof for the PairDiff operator for Representing Relations between Words</strong>,
+arXiv (pre-print), 2017.
+<a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="pairdiff 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('pairdiff-17');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
+<div id = "pairdiff-17" class="hidden">
+<pre style="text-align: left">
+@ARTICLE{2017arXiv170906673H,
+   author = {{Hakami}, H. and {Hayashi}, K. and {Bollegala}, D.},
+    title = "{An Optimality Proof for the PairDiff operator for Representing Relations between Words}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1709.06673},
+ primaryClass = "cs.CL",
+ keywords = {Computer Science - Computation and Language, Computer Science - Artificial Intelligence, Computer Science - Learning, Computer Science - Neural and Evolutionary Computing},
+     year = 2017,
+    month = sep,
+   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170906673H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
+<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>,
+arXiv (pre-print), 2017.
+<a href="https://arxiv.org/abs/1709.06671"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('lle-17');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
+<div id = "lle-17" class="hidden">
+<pre style="text-align: left">
+@ARTICLE{2017arXiv170906671B,
+   author = {{Bollegala}, D. and {Hayashi}, K. and {Kawarabayashi}, K.-i.
+  },
+    title = "{Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1709.06671},
+ primaryClass = "cs.CL",
+ keywords = {Computer Science - Computation and Language, Computer Science - Learning, Computer Science - Neural and Evolutionary Computing},
+     year = 2017,
+    month = sep,
+   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170906671B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+</pre></div></li>
+
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>,
 arXiv (pre-print), 2017.
