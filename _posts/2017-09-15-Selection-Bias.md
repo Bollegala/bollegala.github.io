@@ -5,6 +5,15 @@ header: no
 # Content
 #
 title: "You can delete this file"
+categories:
+  - Research
+tags:
+  - PhD
+#
+# Styling
+#
+---
+
 The problem of domain adaptation concerns with adapting a  model (e.g. a classifier) on one particular domain (source domain) to be applicable in a different domain (target domain). The main difficulty in doing so is that the distributions from which data points (x, y) are sampled differ between the source and the target domains. This can be a severe problem in many practical applications such as developing systems to diagnose diseases where it is relatively easy to obtain samples from patients diagnosed with that particular disease but difficult to obtain samples from healthy individuals. Even if we obtain samples from healthy individuals, those samples might be clearly different from the patients with the particular disease that we are interested in detecting automatically. Therefore, we can in practice design systems that obtain near perfect classification accuracies with training data but perform very poorly on test data (in the wild). Therefore, domain adaptation is an important research problem that has been studied extensively in the field on machine learning.
 
 In domain adaptation there can be two main scenarios. The first case is where we have the conditional distributions p(y|x) fixed across source and target domains but the marginals p(x) are different. This case is known as the covariate shift. The second scenario is when we have p(x) is the same but label distributions, p(y|x) are different across source and target domains.
@@ -20,13 +29,6 @@ s is independent of y given x (p(s|y, x) = p(s|x)). There is a biasedness only o
 s is independent of x given y (p(s|x, y) = p(s|y)). There is a bias but only on the label y. This can be resolved by using a cost-matrix.
 s depends on both x and y. There is a bias but this case is too difficult to analyze.
 The paper focuses on the second case and shows that there are two types of classifier learners: local and global. Local classifiers model p(y|x) and and global classifiers model p(x). Note that this distinction is closely related to the discriminative vs. generative classification. It turns out that, local classifiers are not affected (asymptotically speaking) by the sample selection bias and the global classifiers do get affected by it. Also it is shown in the paper that Bayesian classifier, logistic regression, and SVM (hard margin) are local classifiers whereas, naive Bayes, decision tree learner, and SVM (soft margin) are global classifiers. Although it looks as if one should never use global classifiers it must also be pointed out that they can incorporate unlabeled data and can be useful in semi-supervised settings. Of course, the argument as to discriminative vs. generative is a more subtle one and it can be shown that although the asymptotical empirical error of a discriminative learner is lower than its generative counter part (selected from the same hypothesis class), the generative version reaches this asymptotical error more quickly (requiring logarithmic amount of examples) whereas, the amount of examples required by the discriminative version is linear. Therefore, there are two regimes that concerns the two types of learners in theory. For more details on this matter see this paper.
-categories:
-  - Research
-tags:
-  - PhD
-#
-# Styling
-#
----
+
 
 

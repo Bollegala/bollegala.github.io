@@ -10,7 +10,6 @@ title:     publications
 <ol reversed>
 <h2>2017</h2>
 
-
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
 <strong>An Optimality Proof for the PairDiff operator for Representing Relations between Words</strong>,
 arXiv (pre-print), 2017.
@@ -19,7 +18,7 @@ arXiv (pre-print), 2017.
 <div id = "pairdiff-17" class="hidden">
 <pre style="text-align: left">
 @ARTICLE{2017arXiv170906673H,
-   author = {{Hakami}, H. and {Hayashi}, K. and {Bollegala}, D.},
+   author = {Huda Hakami and Kohei Hayashi. and Danushka Bollegala},
     title = "{An Optimality Proof for the PairDiff operator for Representing Relations between Words}",
   journal = {ArXiv e-prints},
 archivePrefix = "arXiv",
@@ -41,8 +40,7 @@ arXiv (pre-print), 2017.
 <div id = "lle-17" class="hidden">
 <pre style="text-align: left">
 @ARTICLE{2017arXiv170906671B,
-   author = {{Bollegala}, D. and {Hayashi}, K. and {Kawarabayashi}, K.-i.
-  },
+   author = {Danushka Bollegala and Koheu Hayashi and Ken-ichi Kawarabayashi},
     title = "{Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words}",
   journal = {ArXiv e-prints},
 archivePrefix = "arXiv",
