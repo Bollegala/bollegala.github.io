@@ -89,7 +89,7 @@ defaults:
       type: "pages"
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      #sidebar: left   		# Possible values › left, right › by default there will be no sidebar
       comments: true
       author: danushka     # Default author for pages
 
