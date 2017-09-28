@@ -50,25 +50,20 @@ permalink: /index.html
 
         My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning.
         I am particularly interested in how the meaning of words and sentences used by humans can be represented in a format
-        that could be understood by machines such as computers or robots. This subfield of AI is called natural language processing.
-        Human languages are ambigous, use complex syntactic structures and require knowledge not necessarily explicitly stated 
-        in order to fully understand. What does it mean to understand human languages by a computer afterall? This is a 
-        question that fuels my research. <br/><br/>
-
-        I have worked on various topics related to above fields such as
-        measuring semantic and relational similarity from Web data, domain adaptation,
-        sentiment analysis, social media, personal name disambiguation,
-        name alias extraction, and information ordering in multi-document text summarization. <br/><br/>
-
-        For an overview of my research activities please see <a href="./research/">here</a>.
-        I have published my work in various conferences in Web, AI and NLP fields.
-        See my list of <a href="./publications/">publications</a>.
-        I teach <a href="./lect/dm/">Data Mining</a> in the graduate school.
-        Details about the members of my current research group can be found <a href="./members/">here</a>. <br/><br/>
-
+        that could be understood by machines such as computers or robots. This subfield of AI is called natural language processing (NLP). 
+        <br/>
+        I have worked in a wide-range of problems in NLP see <a href="./research/">here</a> and 
+        my <a href="./publications/">publications</a>.
+        I teach <a href="./lect/dm/">Data Mining</a>, a masters-level module.
+        Details about my current/past students/post-docs are <a href="./members/">here</a>.
         I have experience in industrial collaborations in the form of startups, knowledge transfer partnetships
-        and consultencies. If you are interested in discussing such industrial collaborations please feel free to contact me.
+        and consultencies. If you are interested in collaborations please contact.
       </p>    
+
+<h3>News</h3>
+<ul>
+  <li>28/09/17: I am looking for a PhD student for the project <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=89096">Deep Learning for Procedural Natural Language Understanding.</a></li>
+</ul>
 
 <h3>Books written by me</h3>
 <table>
