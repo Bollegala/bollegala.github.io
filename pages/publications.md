@@ -369,7 +369,7 @@ Location = {Porto, Portugal}
 
 <li>Danushka Bollegala, Mohammed Alsuhaibani, Takanori Maehara, and Ken-ichi Kawarabayashi:
 <strong>Joint Word Representation Learning using a Corpus and a Semantic Lexicon</strong>,
-30th AAAI Conference on Aritificial Intelligence (AAAI), pp. 2690-2696, Arizona, USA. (2016.2) 
+30th AAAI Conference on Artificial Intelligence (AAAI), pp. 2690-2696, Arizona, USA. (2016.2) 
 <a href="../papers/jointreps.pdf"><img src="../images/PDF.png" alt="AAAI 2016" width="30" height ="10"></a>
 <a href = "javascript:unhide('aaai16');" class="bibtex"><img src="../images/bib.png" alt="AAAI 2016" width="30" height ="10"></a>
 <a href="http://www.csc.liv.ac.uk/~suhaibani/jointreps/">[project page/code/embeddings]</a>
@@ -378,7 +378,7 @@ Location = {Porto, Portugal}
 @inproceedings{Bollegala:AAAI:2016,
 Title = {Joint Word Representation Learning using a Corpus and a Semantic Lexicon},
 Author = {Danushka Bollegala and Mohammed Alsuhaibani and Takanori Maehara and Ken-ichi Kawarabayashi},
-Booktitle = {Proc. of 30th AAAI Conference on Aritificial Intelligence (AAAI)},
+Booktitle = {Proc. of 30th AAAI Conference on Artificial Intelligence (AAAI)},
 Year = {2016},
 pages = {2690-- 2696},
 Location = {Arizona, USA}
@@ -501,7 +501,7 @@ no = {4}
 
 <li>Danushka Bollegala, Takanori Maehara, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>Learning Word Representations from Relational Graphs</strong>,
-29th AAAI Conference on Aritificial Intelligence (AAAI 2015), pp. 2146-2152, Texas, USA. (2015.1) 
+29th AAAI Conference on Artificial Intelligence (AAAI 2015), pp. 2146-2152, Texas, USA. (2015.1) 
 <a href="../papers/AAAI_2015.pdf"><img src="../images/PDF.png" alt="AAAI 2015" width="30" height ="10"></a>
 <a href = "javascript:unhide('aaai15');" class="bibtex"><img src="../images/bib.png" alt="AAAI 2015" width="30" height ="10"></a>
 <div id = "aaai15" class="hidden">
@@ -509,7 +509,7 @@ no = {4}
 @inproceedings{Bollegala:AAAI:2015,
 Title = {Learning Word Representations from Relational Graphs},
 Author = {Danushka Bollegala and Takanori Maehara and Yuichi Yoshida and Ken-ichi Kawarabayashi},
-Booktitle = {Proc. of 29th AAAI Conference on Aritificial Intelligence (AAAI)},
+Booktitle = {Proc. of 29th AAAI Conference on Artificial Intelligence (AAAI)},
 Year = {2015},
 pages = {2146--2152},
 Location = {Texas, USA}

@@ -60,25 +60,35 @@ permalink: /index.html
         and consultencies. If you are interested in collaborations please contact.
       </p>    
 
-<h3>News</h3>
-<ul>
-  <li>28/09/17: I am looking for a PhD student for the project <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=89096">Deep Learning for Procedural Natural Language Understanding.</a></li>
-</ul>
+
+<div style="width: 100%; overflow: hidden;">
+  <div style="width: 420px; float: left;"> 
+  <h3>News</h3>
+  <ul>
+    <li>28/09/17: I am looking for a PhD student for the project <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=89096">Deep Learning for Procedural Natural Language Understanding.</a></li>
+  </ul>
+  </div>
+
+  <div style="margin-left: 430px;"> 
+    <a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Bollegala">Tweets by Bollegala</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  </div>
+</div>
 
 <h3>Books written by me</h3>
 <table>
 <tr>
-<td> <a href="https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92-Deep-Learning-%E9%BA%BB%E7%94%9F-%E8%8B%B1%E6%A8%B9-ebook/dp/B01B768QJW/ref=sr_1_1?ie=UTF8&qid=1471211449&sr=8-1&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/dlbook.jpg" align="left" width="148" height="208" vspace="4" hspace="25"/></a> </td>
-<td> <a href="https://www.amazon.co.jp/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB%E3%83%BB%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9/dp/4061529188/ref=sr_1_2?ie=UTF8&qid=1471211449&sr=8-2&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/webbook.jpg" align="middle" width="148" height="208" vspace="4" hspace="25"/> </a></td>
-<td> <a href="https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E6%95%99%E7%A8%8B-%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-%E7%9F%A5%E8%AD%98%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86-%E4%BC%8A%E5%BA%AD-%E6%96%89%E5%BF%97/dp/4621300237/ref=sr_1_3?ie=UTF8&qid=1471211449&sr=8-3&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/knowbook.jpg" align="right" width="148" height="208" vspace="4" hspace="25"/> </a></td>
+<td> <a href="https://www.amazon.co.uk/Attributional-Relational-Similarity-Web-Measurement/dp/3846548944/ref=sr_1_1?ie=UTF8&qid=1506808009&sr=8-1&keywords=bollegala"><img src="./images/sembook.jpg"  align="left" width="130" height="208" vspace="4" hspace="10"/></a> </td>
+<td> <a href="https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92-Deep-Learning-%E9%BA%BB%E7%94%9F-%E8%8B%B1%E6%A8%B9-ebook/dp/B01B768QJW/ref=sr_1_1?ie=UTF8&qid=1471211449&sr=8-1&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/dlbook.jpg" align="left" width="130" height="208" vspace="4" hspace="10"/></a> </td>
+<td> <a href="https://www.amazon.co.jp/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB%E3%83%BB%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9/dp/4061529188/ref=sr_1_2?ie=UTF8&qid=1471211449&sr=8-2&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/webbook.jpg" align="middle" width="130" height="208" vspace="4" hspace="10"/> </a></td>
+<td> <a href="https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E6%95%99%E7%A8%8B-%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-%E7%9F%A5%E8%AD%98%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86-%E4%BC%8A%E5%BA%AD-%E6%96%89%E5%BF%97/dp/4621300237/ref=sr_1_3?ie=UTF8&qid=1471211449&sr=8-3&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/knowbook.jpg" align="right" width="130" height="208" vspace="4" hspace="10"/> </a></td>
 </tr>
-</table>
+</table> 
 
-<a class="twitter-timeline" data-width="610" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Bollegala">Tweets by Bollegala</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
+         
 </div>
+
+
+ 
+    
+
+
