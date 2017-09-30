@@ -121,6 +121,11 @@ Awards
 
 Funding
 ========
+1. *Deep Learning of Procedural Natural Language Understanding*, PhD Studentship, University of Liverpool, PI (GBP 60k), 2017-2020.
+
+1. *Maritime Wide Area Surveillance*, Defence Science Technology Laboratory (DSTL), Co-I (GBP 700k), 2017-2019.
+
+1. *Digital Legal Assistant*, Knowledge Transfer Partnership (Innovate UK), PI (GBP 492k), 2017-2020.
 
 1. *WEB-RADR: Recognising Adverse Drug Reactions*, (European Commission) Innovative Medicine Initiative, Co-PI (GBP 471k), 2014-2017.
 
