@@ -116,8 +116,8 @@ PLoS ONE, 2017.
 
 <li>Huda Hakami and Danushka Bollegala:
 <strong>Compositional approaches for Representing Relations Between Words: A Comparative Study</strong>,
-Knowledge-Based Systems, 2017.
-<a href="../papers/Huda_KBS_2017.pdf"><img src="../images/PDF.png" alt="Huda KBS 2017" width="30" height ="10"></a>
+Knowledge-Based Systems, 136C, pp. 172-182, 2017.
+<a href="http://www.sciencedirect.com/science/article/pii/S095070511730388X"><img src="../images/PDF.png" alt="Huda KBS 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('huda-kbs17');" class="bibtex"><img src="../images/bib.png" alt="Huda KBS 2017" width="30" height ="10"></a>
 <div id = "huda-kbs17" class="hidden">
 <pre style="text-align: left">
@@ -126,6 +126,8 @@ Knowledge-Based Systems, 2017.
   Journal = {Knowledge-Based Systems},
   Month = {September},
   Title = {Compositional approaches for Representing Relations Between Words: A Comparative Study},
+  pages = {172--182},
+  volume = {136C},
   Year = {2017}}
   </pre></div></li>
 
