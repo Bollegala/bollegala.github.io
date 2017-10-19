@@ -98,6 +98,22 @@ archivePrefix = "arXiv",
 }
 </pre></div></li>
 
+
+<li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
+<strong>Spectral Analysis of Keystroke Streams: Towards Effective Real-Time Continuous User Authentication</strong>,
+4th International Conference on Information Systems Security and Privacy (ICISSP), Madeira, Portugal. (2017.11).
+<a href="../papers/Abdullah_ICISSP_2017.pdf"><img src="../images/PDF.png" alt="Abdullah ICISSP 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('icissp17');" class="bibtex"><img src="../images/bib.png" alt="Abdullah ICISSP 2017" width="30" height ="10"></a>
+<div id = "icissp17" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Alsheri:ICISSP:2017,
+Title = {Spectral Analysis of Keystroke Streams: Towards Effective Real-Time Continuous User Authentication},
+Author = {Abdullah Alsheri and Frans Coenen and and Danushka Bollegala},
+Booktitle = {4th International Conference on Information Systems Security and Privacy (ICISSP)},
+Year = {2017},
+pages = {xxx--xxx}
+}</pre></div></li>
+
 <li>Danushka Bollegala, Kohei Hayashi, and Ken-ichi Kawarabayashi:
 <strong>Learning Linear Transformations between Counting-based and Prediction-based Word Embeddings</strong>,
 PLoS ONE, 2017.
