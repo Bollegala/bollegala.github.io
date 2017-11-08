@@ -65,6 +65,7 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
+    <li>08/11/17: Our paper on k-way embeddings accepted to AAAI 2018! See you at New Orleans.</li>
     <li>28/09/17: I am looking for a PhD student for the project <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=89096">Deep Learning for Procedural Natural Language Understanding.</a></li>
   </ul>
   </div>

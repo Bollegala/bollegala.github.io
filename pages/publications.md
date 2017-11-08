@@ -55,8 +55,8 @@ archivePrefix = "arXiv",
 </pre></div></li>
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
-<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>,
-arXiv (pre-print), 2017.
+<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, to appear in the Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA,
+arXiv (pre-print), 2018.
 <a href="https://arxiv.org/abs/1709.01199"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
