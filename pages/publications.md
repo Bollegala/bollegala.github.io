@@ -8,6 +8,24 @@ title:     publications
 <h4><a href="https://scholar.google.com/citations?user=kLqCYLMAAAAJ&hl=en">Google Scholar</a>, and <a href="http://dblp.uni-trier.de/pers/hd/b/Bollegala:Danushka">DBLP</a></h4>
 
 <ol reversed>
+
+<h2>2018</h2>
+
+<li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
+<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, to appear in the Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA,
+arXiv (pre-print), 2018.
+<a href="https://arxiv.org/abs/1709.01199"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
+<div id = "k-way-17" class="hidden">
+<pre style="text-align: left">
+@ARTICLE{Bollegala:AAAI:2018,
+   author = {Danushka Bollegala and Yuichi Yoshida and Ken-ichi Kawarabayashi},
+    title = "{Using $k$-way Co-occurrences for Learning Word Embeddings}",
+  inproceedings = {Proc. of AAAI},
+     year = {2018}
+}
+  </pre></div></li>
+
 <h2>2017</h2>
 
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
@@ -53,28 +71,6 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 </pre></div></li>
-
-<li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
-<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, to appear in the Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA,
-arXiv (pre-print), 2018.
-<a href="https://arxiv.org/abs/1709.01199"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
-<a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
-<div id = "k-way-17" class="hidden">
-<pre style="text-align: left">
-@ARTICLE{2017arXiv170901199B,
-   author = {Danushka Bollegala and Yuichi Yoshida and Ken-ichi Kawarabayashi},
-    title = "{Using $k$-way Co-occurrences for Learning Word Embeddings}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1709.01199},
- primaryClass = "cs.CL",
- keywords = {Computer Science - Computation and Language},
-     year = 2017,
-    month = sep,
-   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170901199B},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-  </pre></div></li>
 
 <li>Krasen Samardzhiev, Andrew Gargett, and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
@@ -177,7 +173,7 @@ pages = {xxx--xxx}
 
 <li>Xia Cui, Frans Coenen, and Danushka Bollegala:
 <strong>Effect of Data Imbalance on Unsupervised Domain Adaptation of Part-of-Speech Tagging and Pivot Selection Strategies</strong>, Wokshop on Learning With Imbalanced Domains: Theory and Applications (LIDTA) at the
-European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), pp. XX-XX. (2017.09)
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), PRML 74:103-115. (2017.09)
 <a href="../papers/Xia_LIDTA_2017.pdf"><img src="../images/PDF.png" alt="Xia LIDTA 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('lidta-xia-17');" class="bibtex"><img src="../images/bib.png" alt="Xia ECML 2017" width="30" height ="10"></a>
 <div id = "lidta-xia-17" class="hidden">
@@ -186,8 +182,9 @@ European Conference on Machine Learning and Principles and Practice of Knowledge
 Title = {Effect of Data Imbalance on Unsupervised Domain Adaptation of Part-of-Speech Tagging and Pivot Selection Strategies},
 Author = {Xia Cui and Frans Coenen and Danushka Bollegala},
 Booktitle = {Proc. of the Wokshop on Learning With Imbalanced Domains: Theory and Applications (LIDTA) at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
+issue = {74},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {103--115}
 }</pre></div></li>
 
 <li>Xia Cui, Frans Coenen, and Danushka Bollegala:
