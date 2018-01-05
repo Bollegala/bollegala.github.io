@@ -16,7 +16,7 @@ title:     publications
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18a" class="hidden">
 <pre style="text-align: left">
-@ARTICLE{Alsuhaibani:LREC:2018,
+@inproceedings{Alsuhaibani:LREC:2018,
    author = {Mohammed Alsuhaibani and Danushka Bollegala},
     title = {Joint Learning of Sense and Word Embeddings},
   inproceedings = {Proc. of LREC},
@@ -29,7 +29,7 @@ title:     publications
 <a href = "javascript:unhide('lrec-18b');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18b" class="hidden">
 <pre style="text-align: left">
-@ARTICLE{Rajendran:LREC:2018,
+@inproceedings{Rajendran:LREC:2018,
    author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
     title = {Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions.},
   inproceedings = {Proc. of LREC},
@@ -42,7 +42,7 @@ title:     publications
 <a href = "javascript:unhide('lrec-18c');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18c" class="hidden">
 <pre style="text-align: left">
-@ARTICLE{Mandya:LREC:2018,
+@inproceedings{Mandya:LREC:2018,
    author = {Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},
     title = {A Dataset for Inter-Sentence Relation Extraction using Distant Supervision},
   inproceedings = {Proc. of LREC},
