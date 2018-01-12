@@ -11,6 +11,23 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
+<strong>Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach</strong>,
+KI - Künstliche Intelligenz, to appear, 2018.
+<a href = "javascript:unhide('KI');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
+<div id = "KI" class="hidden">
+<pre style="text-align: left">
+@article{Abdullah:KI:2018,
+  author = {Abdullah Alsheri and Frans Coenen and Danushka Bollegala},
+  title = {Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach},
+  journal = {KI - Künstliche Intelligenz},
+  volume = {X},
+  number = {X},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Mohammed Alsuhaibani and  and Danushka Bollegala:
 <strong>Joint Learning of Sense and Word Embeddings</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
@@ -151,7 +168,7 @@ pages = {xxx--xxx}
 
 <li>Danushka Bollegala, Kohei Hayashi, and Ken-ichi Kawarabayashi:
 <strong>Learning Linear Transformations between Counting-based and Prediction-based Word Embeddings</strong>,
-PLoS ONE, 2017.
+PLoS ONE, Vol. 12, no. 9, pp. 1-21, 2017.
 <a href="../papers/LinearTrans.pdf"><img src="../images/PDF.png" alt="LinearTrans 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('lineartrans-17');" class="bibtex"><img src="../images/bib.png" alt="Linear Trans 2017" width="30" height ="10"></a>
 <div id = "lineartrans-17" class="hidden">
@@ -159,6 +176,9 @@ PLoS ONE, 2017.
 @article{Bollegala:PLoS:2017,
   Author = {Danushka Bollegala and Kohei Hayashi and Ken-ichi Kawarabayashi},
   Journal = {PLoS ONE},
+  volume = {12},
+  number = {9},
+  pages = {1--21},
   Month = {September},
   Title = {Learning Linear Transformations between Counting-based and Prediction-based Word Embeddings},
   Year = {2017}}
@@ -252,6 +272,8 @@ PLoS ONE, 2017.
 @article{Kajiwara:2017,
   Author = {Tomoyuki Kajiwara and Danushka Bollegala and Yuichi Yoshida and Ken-ichi Kawarabayashi},
   Journal = {PLoS ONE},
+  Volume = {12},
+  number = {9},
   Month = {July},
   Title = {An Iterative Approach for the Global Estimation of Sentence Similarity},
   Year = {2017}}
@@ -571,7 +593,7 @@ Location = {Texas, USA}
 
 <li>Danushka Bollegala, Georgios Kontonatsios, and Sophia Ananiadou:
         <strong> A Cross-lingual Similarity Measure for Detecting Biomedical Term Translations</strong>,
-        PLoS ONE, pp. 1-10, Vol. 10, no. 6, 2015.
+        PLoS ONE, pp. 1-28, Vol. 10, no. 6, 2015.
         <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126196">[DOI]</a>
         <a href="../papers/plos_medpred.pdf" target="_top">
        <img src="../images/PDF.png" alt="NSF" width="30" height="10"/></a>  
@@ -583,7 +605,7 @@ Title = {A Cross-lingual Similarity Measure for Detecting Biomedical Term Transl
 Author = {Danushka Bollegala and Georgios Kontonatsios and Sophia Ananiadou},
 Journal = {PLoS ONE},
 Year = {2015},
-pages = {1--10},
+pages = {1--28},
 vol = {10},
 no = {6}
 }</pre></div>
