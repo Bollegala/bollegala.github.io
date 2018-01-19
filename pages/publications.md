@@ -14,6 +14,7 @@ title:     publications
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach</strong>,
 KI - Künstliche Intelligenz, to appear, 2018.
+<a href="../papers/Abdullah_KI.pdf"><img src="../images/PDF.png" alt="Abdullah KI 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('KI');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
 <div id = "KI" class="hidden">
 <pre style="text-align: left">
