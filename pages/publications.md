@@ -1582,7 +1582,7 @@ Location = {Daegu, South Korea},
       
 <li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
 <strong>Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web</strong>,
-Proceedings of the 19th International World Wide Web Conferece (WWW 2010), pp. 151-160, North Carolina, USA. (2010.04)
+Proceedings of the 19th International World Wide Web Conference (WWW 2010), pp. 151-160, North Carolina, USA. (2010.04)
 <a href="../papers/WWW2010.pdf" target="_top"><img src="../images/PDF.png" alt="WWW2010" width="30" height="10" /></a>
 <a href="../slides/WWW2010_slides.pdf"><img src="../images/ppt.png" alt="NSF" width="30" height="10"/></a>
 <a href = "javascript:unhide('www10');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
