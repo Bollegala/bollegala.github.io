@@ -11,6 +11,24 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Mohammed Alsuhaibani and Danushka Bollegala and Takanori Maehara and Ken-ichi Kawarabayashi:
+<strong>Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base</strong>,
+Plos One, accepted.
+<a href="../papers/jointEmbed.pdf"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
+<a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
+<div id = "KI" class="hidden">
+<pre style="text-align: left">
+@article{Mohammed:PlosOne:2018,
+  author = {Mohammed Alsuhaibani and Danushka Bollegala and Takanori Maehara and Ken-ichi Kawarabayashi},
+  title = {Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base},
+  journal = {Plos One},
+  volume = {X},
+  number = {X},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach</strong>,
 KI - Künstliche Intelligenz, to appear, 2018.
@@ -29,7 +47,7 @@ KI - Künstliche Intelligenz, to appear, 2018.
 }
 </pre></div></li>
 
-<li>Mohammed Alsuhaibani and  and Danushka Bollegala:
+<li>Mohammed Alsuhaibani and Danushka Bollegala:
 <strong>Joint Learning of Sense and Word Embeddings</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18a" class="hidden">
