@@ -189,7 +189,7 @@ pages = {xxx--xxx}
 <strong>Learning Linear Transformations between Counting-based and Prediction-based Word Embeddings</strong>,
 PLoS ONE, Vol. 12, no. 9, pp. 1-21, 2017.
 <a href="../papers/LinearTrans.pdf"><img src="../images/PDF.png" alt="LinearTrans 2017" width="30" height ="10"></a>
-<a href = "javascript:unhide('lineartrans-17');" class="bibtex"><img src="../images/bib.png" alt="Linear Trans 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('lineartrans-17');" class="bibtex"><img src="../images/bib.png" alt="Linear Trans 2017" width="30" height ="10"></a> <a href="https://github.com/hayasick/LinearWordEmbed">code</a>
 <div id = "lineartrans-17" class="hidden">
 <pre style="text-align: left">
 @article{Bollegala:PLoS:2017,
