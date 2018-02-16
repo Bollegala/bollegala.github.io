@@ -11,12 +11,30 @@ title:     publications
 
 <h2>2018</h2>
 
-<li>Mohammed Alsuhaibani and Danushka Bollegala and Takanori Maehara and Ken-ichi Kawarabayashi:
+<li>Xia Cui, Noor Al-Bazzaz, Danushka Bollegala and Frans Coenen:
+<strong>A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</strong>,
+The Knowledge Engineering Review, accepted.
+<a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
+<a href = "javascript:unhide('Xia:KER:2018');" class="bibtex"><img src="../images/bib.png" alt="KER 2018" width="30" height ="10"></a>
+<div id = "Xia:KER:2018" class="hidden">
+<pre style="text-align: left">
+@article{Xia:KER:2018,
+  author = {Xia Cui and Noor Al-Bazzaz and Danushka Bollegala and Frans Coenen},
+  title = {A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification},
+  journal = {The Knowledge Engineering Review},
+  volume = {X},
+  number = {X},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
+<li>Mohammed Alsuhaibani, Danushka Bollegala, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base</strong>,
 Plos One, accepted.
 <a href="../papers/jointEmbed.pdf"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
-<a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
-<div id = "KI" class="hidden">
+<a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="Joint Emb 2018" width="30" height ="10"></a>
+<div id = "Mohammed:PlosOne:2018" class="hidden">
 <pre style="text-align: left">
 @article{Mohammed:PlosOne:2018,
   author = {Mohammed Alsuhaibani and Danushka Bollegala and Takanori Maehara and Ken-ichi Kawarabayashi},
@@ -60,7 +78,7 @@ KI - Künstliche Intelligenz, to appear, 2018.
 }
   </pre></div></li>
 
-<li>Pavithra Rajendran and Danushka Bollegala and Simon Parsons:
+<li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
 <a href = "javascript:unhide('lrec-18b');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18b" class="hidden">
@@ -73,7 +91,7 @@ KI - Künstliche Intelligenz, to appear, 2018.
 }
   </pre></div></li>
 
-<li>Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson:
+<li>Angrosh Mandya, Danushka Bollegala, Frans Coenen and Katie Atkinson:
 <strong>A Dataset for Inter-Sentence Relation Extraction using Distant Supervision</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
 <a href = "javascript:unhide('lrec-18c');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18c" class="hidden">
