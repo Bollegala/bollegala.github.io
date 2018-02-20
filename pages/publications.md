@@ -285,7 +285,7 @@ pages = {103--115}
 
 <li>Xia Cui, Frans Coenen, and Danushka Bollegala:
 <strong>TSP: Learning Task-Specific Pivots for Unsupervised Domain Adaptation</strong>,
-European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), pp. XX-XX. (2017.09)
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), pp. 754-771. (2017.09)
 <a href="../papers/Xia_ECML_2017.pdf"><img src="../images/PDF.png" alt="Xia ECML 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ecml-xia-17');" class="bibtex"><img src="../images/bib.png" alt="Xia ECML 2017" width="30" height ="10"></a>
 <div id = "ecml-xia-17" class="hidden">
@@ -295,7 +295,7 @@ Title = {TSP: Learning Task-Specific Pivots for Unsupervised Domain Adaptation},
 Author = {Xia Cui and Frans Coenen and Danushka Bollegala},
 Booktitle = {Proc. of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {754--771}
 }</pre></div></li>
 
 
