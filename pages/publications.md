@@ -11,9 +11,41 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Joshua Coates and Danushka Bollegala:
+<strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
+ 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+ <!-- <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>-->
+<a href = "javascript:unhide('Coates:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
+<div id = "Coates:NAACL:2018" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Coates:NAACL:2018,
+  author = {Joshua Coates and Danushka Bollegala},
+  title = {Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings},
+  booktitle = {16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
+<li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
+<strong>Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.</strong>
+ 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+ <!-- <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>-->
+<a href = "javascript:unhide('Rajendran:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
+<div id = "Rajendran:NAACL:2018" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Rajendran:NAACL:2018,
+  author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
+  title = {Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset},
+  booktitle = {16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Xia Cui, Noor Al-Bazzaz, Danushka Bollegala and Frans Coenen:
 <strong>A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</strong>,
-The Knowledge Engineering Review, accepted.
+The Knowledge Engineering Review, accepted, 2018.
 <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Xia:KER:2018');" class="bibtex"><img src="../images/bib.png" alt="KER 2018" width="30" height ="10"></a>
 <div id = "Xia:KER:2018" class="hidden">
@@ -31,7 +63,7 @@ The Knowledge Engineering Review, accepted.
 
 <li>Mohammed Alsuhaibani, Danushka Bollegala, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base</strong>,
-Plos One, accepted.
+Plos One, accepted, 2018.
 <a href="../papers/jointEmbed.pdf"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
 <a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="Joint Emb 2018" width="30" height ="10"></a>
 <div id = "Mohammed:PlosOne:2018" class="hidden">
