@@ -10,11 +10,14 @@ title:  Data Mining and Machine Learning Research Group
 
 <br>
 
-### Membership
+### Members
 The members of the DMML group are listed [here](https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/people/#d.en.695953)
 
- #### The announcements of the DMML meetings, talks, slides etc. will be made available through this web site.
- #### If you would like to give a talk please contact Danushka.
+### Schedule
+The announcements of the DMML meetings, talks, slides etc. will be made available through this web site.
+If you would like to give a talk please contact Danushka.
+
+(Room keys: 2.08 Ashton Building 2nd floor meeting room, 1.01 Ashton Building 1st floor meeting room, 5.07 EEE 5th floor meeting room)
 
 | Date              | Time        | Venue | Speaker          |                                 Title                           | Slides   |
 | ------------------| ------------| ------|------------------|-----------------------------------------------------------------|----------|
