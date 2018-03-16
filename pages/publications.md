@@ -11,6 +11,23 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Danushka Bollegala, Richard Slone, Simon Maskell, Joanne Hajne and Munir Pirmohammed:
+<strong>Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media</strong>,
+Journal of Medical Internet Research Public Health Surveillance (forthcoming). doi:10.2196/publichealth.8214, 2018.
+<a href="http://dx.doi.org/10.2196/publichealth.8214">[DOI]</a>
+<a href = "javascript:unhide('Bollegala:JMIR:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala JMIR 2018" width="30" height ="10"></a>
+<div id = "Bollegala:JMIR:2018" class="hidden">
+<pre style="text-align: left">
+@artile{Bollegala:JMIR:2018,
+  author = {Danushka Bollegala and Richard Slone and Simon Maskell and Joanne Hajne and Munir Pirmohammed},
+  title = {Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media},
+  journal = {Journal of Medical Internet Research Public Health Surveillance},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
+
 <li>Joshua Coates and Danushka Bollegala:
 <strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
  16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
