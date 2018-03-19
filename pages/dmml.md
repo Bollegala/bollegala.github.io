@@ -21,7 +21,7 @@ If you would like to give a talk please contact Danushka.
 
 | Date              | Time        | Venue | Speaker          |                             Title                           | Slides   |
 | ------------------| ------------| -----|------------------|-----------------------------------------------------------------|----------|
-| April 9th   | 11:00-12:00 | 2.08  | Simon Harding    |                   TBA                                           | [slides] |
+| April 9th   | 11:00-12:00 | 2.08  | Simon Harding    | Opportunities to develop machine learning approaches to image analysis in diabetic retinopathy – automation, AI and deep learning                                           | [slides] |
 | April 17th  | 10:00-11:00 | 2.08  | Shan Luo         | Robot perception with multiple sensing inputs                                          | [slides] |
 | April 20th  | 11:00-12:00 | 5.07  | Kirkwood Graeme  | EPR and big data research in clinical cardiology –challenges and collaborative opportunities| [slides]|
 | April 27th | 11:00-12:00 | 2.08| Huda Hakami | Relation Representation | [slides]|
