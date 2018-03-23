@@ -24,7 +24,7 @@ If you would like to give a talk please contact Danushka.
 | April 9th   | 11:00-12:00 | 2.08  | Simon Harding    | Opportunities to develop machine learning approaches to image analysis in diabetic retinopathy – automation, AI and deep learning                                           | [slides] |
 | April 17th  | 10:00-11:00 | 2.08  | Shan Luo         | Robot perception with multiple sensing inputs                                          | [slides] |
 | April 20th  | 11:00-12:00 | 5.07  | Kirkwood Graeme  | EPR and big data research in clinical cardiology –challenges and collaborative opportunities| [slides]|
-| April 27th | 11:00-12:00 | 2.08| Huda Hakami | Relation Representation | [slides]|
+| April 27th | 11:00-12:00 | 2.08| Alsuhaibani Mohammed | Joint learning of sense and word embeddings | [slides]|
 | May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  | |
 | May 11th | 11:00-12:00 | | | | |
 | May 18th | 11:00-12:00 | | | | |
@@ -32,7 +32,7 @@ If you would like to give a talk please contact Danushka.
 | June 1st | 11:00-12:00 | | | | |
 | June 8th | 11:00-12:00 | | | | |
 | June 15th | 11:00-12:00 | | | | |
-| June 22nd | 11:00-12:00 | | | | |
+| June 22nd | 11:00-12:00 | |Huda Hakami | Relation Representation|[slides]|
 | June 29th | 11:00-12:00 | | | | |
 
 
