@@ -18,7 +18,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 <a href = "javascript:unhide('Bollegala:JMIR:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala JMIR 2018" width="30" height ="10"></a>
 <div id = "Bollegala:JMIR:2018" class="hidden">
 <pre style="text-align: left">
-@artile{Bollegala:JMIR:2018,
+@article{Bollegala:JMIR:2018,
   author = {Danushka Bollegala and Richard Slone and Simon Maskell and Joanne Hajne and Munir Pirmohammed},
   title = {Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media},
   journal = {Journal of Medical Internet Research Public Health Surveillance},
@@ -249,7 +249,7 @@ Title = {Spectral Analysis of Keystroke Streams: Towards Effective Real-Time Con
 Author = {Abdullah Alsheri and Frans Coenen and and Danushka Bollegala},
 Booktitle = {4th International Conference on Information Systems Security and Privacy (ICISSP)},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {62--73}
 }</pre></div></li>
 
 <li>Danushka Bollegala, Kohei Hayashi, and Ken-ichi Kawarabayashi:
@@ -312,8 +312,7 @@ International Workshop on Spatial and Spatio-temporal Data Mining at the IEEE In
 Title = {Spectral Analysis of Keystroke Streams: Towards Effective Real-Time and Continuous User Authentication},
 Author = {Abdullah Alsheri and Frans Coenen and and Danushka Bollegala},
 Booktitle = {Proc. of Workshop on Spatial and Spatio-temporal Data Mining (SSTDM) at the IEEE International Conference on Data Mining (SSTDM)},
-Year = {2017},
-pages = {xxx--xxx}
+Year = {2017}
 }</pre></div></li>
 
 <li>Xia Cui, Frans Coenen, and Danushka Bollegala:

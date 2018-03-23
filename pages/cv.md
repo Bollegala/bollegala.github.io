@@ -5,7 +5,7 @@ header: no
 title:  CV
 ---
 
-<h2>My most recent CV is <a href="https://www.dropbox.com/s/da36wuxq3j77ybu/CV.pdf?raw=1">here</a></h2>
+<h2>My most recent CV is <a href="../CV/CV.pdf">here</a></h2>
 
 <h2>Education</h2>
 <div class="itemizedlist"><ul class="itemizedlist" type="disc">

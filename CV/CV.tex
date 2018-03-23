@@ -1,0 +1,181 @@
+% !TEX TS-program = xelatexmk
+
+\documentclass[a4paper,11pt]{article}
+
+%A Few Useful Packages
+\usepackage{url}
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+% Citeall
+%\usepackage{biblatex}
+%\usepackage{citeall}
+\usepackage{cite}
+%\usepackage{natbib}
+\usepackage{multibib}
+
+\newcites{pri}{Referred Journal Papers}
+\newcites{sec}{Referred Conference Papers}
+
+\newcounter{firstbib}
+ 
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
+%%% modified for Karol Kozioł for ShareLaTeX use
+\setmainfont[
+SmallCapsFont = Fontin-SmallCaps.otf,
+BoldFont = Fontin-Bold.otf,
+ItalicFont = Fontin-Italic.otf
+]
+{Fontin.otf}
+%%%
+
+
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+%Tweak a bit the top margin
+%\addtolength{\voffset}{-1.3cm}
+
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+%--------------------BEGIN DOCUMENT----------------------
+\begin{document}
+
+
+\pagestyle{empty} % non-numbered pages
+
+\font\fb=''[cmr10]'' %for use with \LaTeX command
+
+%--------------------TITLE-------------
+\par{\centering
+		{\Huge Danushka \textsc{Bollegala}
+	}\bigskip\par}
+
+%--------------------SECTIONS-----------------------------------
+%Section: Personal Data
+\section{Contract Information}
+
+\begin{tabular}{rl}
+    \textsc{Name:} & Dr. Danushka Bollegala (PhD)\\
+    \textsc{Position:} & Senior Lecturer / Associate Professor\\
+    \textsc{Address:}   & Department of Computer Science, University of Liverpool, L69 3BX, UK. \\
+    \textsc{Phone:}     & +44-1517954283\\
+    \textsc{Email:}     & \href{mailto:danushka@liverpool.ac.uk}{danushka@liverpool.ac.uk} \\
+    \textsc{Web:} & \href{http://www.csc.liv.ac.uk/~danushka}{www.csc.liv.ac.uk/~danushka}
+\end{tabular}
+
+\section{Education}
+\begin{tabular}{r|p{10cm}}
+\textsc{2007 -- 2009} & PhD Computer Science, The University of Tokyo, Japan.  \emph{Summa Cum Laude} \\
+\textsc{2005 -- 2007} & M.Sc. Computer Science, The University of Tokyo, Japan. \emph{Summa Cum Laude} \\
+\textsc{2001-- 2005} & B.Sc. Computer Science, The University of Tokyo, Japan. \emph{Summa Cum Laude} \\
+\end{tabular}
+
+\section{Employment History}
+\begin{tabular}{r|p{11cm}}
+ \emph{Current} & Senior Lecturer, \textsc{University of Liverpool}, UK. \\\textsc{August 2013} \\\multicolumn{2}{c}{} \\
+ \textsc{April 2012 -- August 2013} & Senior Assistant Professor, (\emph{koshi})  \textsc{University of Tokyo}, Japan. \\\multicolumn{2}{c}{} \\
+\textsc{April 2010 -- March 2012} & Assistant Professor, \textsc{University of Tokyo}, Japan. \\\multicolumn{2}{c}{} \\
+\textsc{October 2009 -- March 2010} & JSPS Post-doctoral Research Fellow, \textsc{University of Sussex}, UK. \\\multicolumn{2}{c}{} \\
+\textsc{April 2007 -- September 2010} & Japan Society for Promotion of Science (JSPS), Doctoral Research Fellow (DC1) \textsc{University of Tokyo}, Japan. \\\multicolumn{2}{c}{} \\
+\textsc{April 2005 -- March 2007} & Research Assistant, \textsf{National Institute of Advanced Industrial Science and Technology} (AIST), Japan. \\\multicolumn{2}{c}{} \\
+\textsc{June 2005 -- March 2010} & Research Consultant, \textsf{FAST a Microsoft Subsidiary} (former FAST Search \& Transfer), Norway.
+\end{tabular}
+
+%\input{promotion-case}
+
+\section{Honours and Awards}
+
+\begin{enumerate}
+\item EPSRC Top Peer Reviewer's Award 2017.
+\item Best Journal Paper of the Year 2014-2015, Japanese Society for Artificial Intelligence.
+\item IEEE Japan Chapter Young Author Award 2011.
+\item Best paper award at 2011 Genetic and Evolutionary Computation (GECCO) Conference.
+\item Best poster paper at 2010 Pacific Rim International Conference on Artificial Intelligence (PRICAI).
+\item Annual Conference Award for the Best Paper at 2010 Japanese Society for Artificial Intelligence (JSAI).
+\item Dean’s Award for the Best Doctoral Thesis of the Year 2010.
+\item Dean’s Award for the Best Masters Thesis of the Year 2007.
+\item Dean’s Award for the Best Undergraduate Thesis of the Year 2005.
+\end{enumerate}
+
+\section{Research Grants}
+
+Total research income so far GBP 2,516,000.
+
+\begin{enumerate}
+\item \textbf{Deep Learning of Procedural Natural Language Understanding}, PhD Studentship, University of Liverpool, PI (GBP 60k), 2017-2020.
+
+\item \textbf{Maritime Wide Area Surveillance}, Defence Science Technology Laboratory (DSTL), Co-I (GBP 700k), 2017-2019.
+
+\item \textbf{Digital Legal Assistant}, Knowledge Transfer Partnership (Innovate UK), PI (GBP 492k), 2017-2020.
+
+\item \textbf{WEB-RADR}: Recognising Adverse Drug Reactions, (European Commission) Innovative Medicine Initiative, Co-PI (GBP 471k), 2014-2017.
+
+\item \textbf{I knew that relation from news}, Innovation Voucher Scheme, University of Liverpool, PI (GBP 5k), 2015-2016.
+
+\item \textbf{The Revierview Law Contract Map Project}, Knowledge Transfer Partnership (Innovate UK), Co-PI (GBP 269k), 2015-2018.
+
+\item \textbf{Resolving Relational Ambiguity between Entities on the Web}, Microsoft Research (MSR) CORE-9 Research Grant, PI, (GBP 10K), 2013–2015.
+
+\item \textbf{Domain Adaptation for Semantic Relation Extraction}, Japanese Society for the Promotion of Science (JSPS), Research Grant for Young Researchers (B). PI (GBP 20K), 2012–2015.
+
+\item \textbf{Cross-Language Relational Search}, Microsoft Research (MSR) CORE-7 Research Grant, PI, (GBP 20K), 2011-2012.
+
+\item \textbf{Developing a Cross-Language Web Search Engine}, Information Technology Promotion Agency of Japan (IPA) grant for explorative software development (Mito Project), PI, (GBP 26.5K), 2010-2011.
+
+\item \textbf{A Latent Relational Search Engine}, Google Research Award, Co-PI, (GBP 18.6K), 2010–2011.
+
+\item \textbf{Developing a Relational Search Engine to Retrieve Semantic Relations between Entities}, Japanese Society for the Promotion of Science (JSPS) research grant, PI. (GBP 29.8K), 2010-2012.
+
+\item \textbf{Research grant for overseas visiting scholars}, Global Centre of Excellence (GCOE), Japan. PI. (GBP 9.7K), April 2011–June 2011.
+
+\item \textbf{Extracting Attributes for Entities using Web Data}, Global Centre of Excellence (GCOE), Japan. Sole PI. (GBP 7.5K), 2010-2011.
+
+\item \textbf{Learning to Rank Entities on the Web}, Microsoft Research (MSR) CORE-6 Research Grant, Co-PI, (GBP 19.4K), 2010-2011.
+
+\item \textbf{Using Web Mining to Provide Useful Information to Drivers}, Toyota InfoTechnology Centre, Co-PI, (GBP 29.8K) 2009-2012.
+
+\item \textbf{Disambiguating Personal Names on the Web}, Japan Society for the Promotion of Science (JSPS) Research Grant PI. (GBP 29.8K), 2007-2009.
+
+\item \textbf{Using Network Theory and Machine Learning to Structure and Represent Information Available on the Web}, Co-PI, (GBP 298K), 2009–2012.
+\end{enumerate}
+
+
+\newpage
+\section{Publications}
+
+Dr.~Bollegala has published over 100 papers in top international venues in Natural Language Processing, Machine Learning, Data Mining, Artificial Intelligence, and Social Media Analysis.
+His papers have been cited over 2400 times and Dr.~Bollegala has an $h$-index of 25.
+For a full list of his publications see his \href{https://goo.gl/mnhgp6}{Google Scholar Profile}.
+He leads the Natural Language Processing and Machine Learning Research Groups in the Department of Computer Science, University of Liverpool.
+
+\bibliographystylepri{plainyr-rev}
+\bibliographypri{journals}
+\nocitepri{*}
+
+\bibliographystylesec{plainyr-rev}
+\bibliographysec{confs}
+\nocitesec{*}
+
+
+\end{document}
