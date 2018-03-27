@@ -11,6 +11,22 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Danushka Bollegala, Vincent Atanasov, Takanori Maehara and Ken-ichi Kawarabayashi:
+<strong>ClassiNet -- Predicting Missing Features for Short-Text Classification</strong>,
+ACM Transactions on Knowledge Discovery from Data (TKDD)
+<a href = "javascript:unhide('Bollegala:TKDD:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala TKDD 2018" width="30" height ="10"></a>
+<div id = "Bollegala:TKDD:2018" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala:TKDD:2018,
+  author = {Danushka Bollegala and Vincent Atanasov and Takanori Maehara and Ken-ichi Kawarabayashi},
+  title = {ClassiNet -- Predicting Missing Features for Short-Text Classification},
+  journal = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
+
 <li>Danushka Bollegala, Richard Slone, Simon Maskell, Joanne Hajne and Munir Pirmohammed:
 <strong>Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media</strong>,
 Journal of Medical Internet Research Public Health Surveillance (forthcoming). doi:10.2196/publichealth.8214, 2018.
