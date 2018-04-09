@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala:
+<strong>Learning Neural Word Salience Scores</strong>,
+The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<a href = "javascript:unhide('Bollegala:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala SEM 2018" width="30" height ="10"></a>
+<div id = "Bollegala:SEM:2018" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Smardzhiev:SEM:2018,
+  author = {Krasen Samardzhiev and Andrew Gargett and Danushka Bollegala},
+  title = {Learning Neural Word Salience Scores},
+  booktitle = {Seventh Joint Conference on Lexical and Computational Semantics},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Danushka Bollegala, Vincent Atanasov, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>ClassiNet - Predicting Missing Features for Short-Text Classification</strong>,
 ACM Transactions on Knowledge Discovery from Data (TKDD)
