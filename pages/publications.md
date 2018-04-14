@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Xia Cui, Kojaku Sadamori, Naoki Masuda and Danushka Bollegala:
+<strong>Solving Feature Spareness in Text Classification using Core-Periphery Decomposition</strong>,
+The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<a href = "javascript:unhide('Cui:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Cui SEM 2018" width="30" height ="10"></a>
+<div id = "Cui:SEM:2018" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Cui:SEM:2018,
+  author = {Xia Cui and Kojaku Sadamori and Naoki Masuda and Danushka Bollegala},
+  title = {Solving Feature Spareness in Text Classification using Core-Periphery Decomposition},
+  booktitle = {Seventh Joint Conference on Lexical and Computational Semantics},
+  pages = {X-X},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
 The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
@@ -63,7 +78,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 <li>Joshua Coates and Danushka Bollegala:
 <strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
  16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
- <a href="../papers/average-meta-embedding.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>-->
+ <a href="../papers/average-meta-embedding.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Coates:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Coates:NAACL:2018" class="hidden">
 <pre style="text-align: left">
@@ -113,7 +128,7 @@ The Knowledge Engineering Review, accepted, 2018.
 <li>Mohammed Alsuhaibani, Danushka Bollegala, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base</strong>,
 Plos One, accepted, 2018.
-<a href="../papers/jointEmbed.pdf"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193094"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
 <a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="Joint Emb 2018" width="30" height ="10"></a>
 <div id = "Mohammed:PlosOne:2018" class="hidden">
 <pre style="text-align: left">
@@ -121,9 +136,10 @@ Plos One, accepted, 2018.
   author = {Mohammed Alsuhaibani and Danushka Bollegala and Takanori Maehara and Ken-ichi Kawarabayashi},
   title = {Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base},
   journal = {Plos One},
-  volume = {X},
-  number = {X},
-  pages = {X-X},
+  volume = {13},
+  number = {3},
+  pages = {e0193094},
+  doi = {doi.org/10.1371/journal.pone.0193094},
   year = {2018}
 }
 </pre></div></li>
@@ -139,9 +155,8 @@ KI - Künstliche Intelligenz, to appear, 2018.
   author = {Abdullah Alsheri and Frans Coenen and Danushka Bollegala},
   title = {Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach},
   journal = {KI - Künstliche Intelligenz},
-  volume = {X},
-  number = {X},
-  pages = {X-X},
+  volume = {32},
+  number = {1},
   year = {2018}
 }
 </pre></div></li>
@@ -186,8 +201,7 @@ KI - Künstliche Intelligenz, to appear, 2018.
   </pre></div></li>
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
-<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, to appear in the Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA,
-arXiv (pre-print), 2018.
+<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA, 2018.
 <a href="https://arxiv.org/abs/1709.01199"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
@@ -195,7 +209,7 @@ arXiv (pre-print), 2018.
 @ARTICLE{Bollegala:AAAI:2018,
    author = {Danushka Bollegala and Yuichi Yoshida and Ken-ichi Kawarabayashi},
     title = "{Using $k$-way Co-occurrences for Learning Word Embeddings}",
-  inproceedings = {Proc. of AAAI},
+  inproceedings = {Proc. of the 32-nd AAAI Conference on Artificial Intelligence},
      year = {2018}
 }
   </pre></div></li>
@@ -203,24 +217,27 @@ arXiv (pre-print), 2018.
 <h2>2017</h2>
 
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
-<strong>An Optimality Proof for the PairDiff operator for Representing Relations between Words</strong>,
+<strong>Why PairDiff works? -- A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection</strong>,
 arXiv (pre-print), 2017.
 <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="pairdiff 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('pairdiff-17');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
 <div id = "pairdiff-17" class="hidden">
 <pre style="text-align: left">
-@ARTICLE{2017arXiv170906673H,
-   author = {Huda Hakami and Kohei Hayashi. and Danushka Bollegala},
-    title = "{An Optimality Proof for the PairDiff operator for Representing Relations between Words}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1709.06673},
- primaryClass = "cs.CL",
- keywords = {Computer Science - Computation and Language, Computer Science - Artificial Intelligence, Computer Science - Learning, Computer Science - Neural and Evolutionary Computing},
-     year = 2017,
-    month = sep,
-   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170906673H},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{DBLP:journals/corr/abs-1709-06673,
+  author    = {Huda Hakami and
+               Kohei Hayashi and
+               Danushka Bollegala},
+  title     = {An Optimality Proof for the PairDiff operator for Representing Relations
+               between Words},
+  journal   = {CoRR},
+  volume    = {abs/1709.06673},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1709.06673},
+  archivePrefix = {arXiv},
+  eprint    = {1709.06673},
+  timestamp = {Thu, 05 Oct 2017 09:42:59 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1709-06673},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 </pre></div></li>
 
@@ -246,6 +263,7 @@ archivePrefix = "arXiv",
 }
 </pre></div></li>
 
+<!--
 <li>Krasen Samardzhiev, Andrew Gargett, and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
 arXiv (pre-print), 2017.
@@ -267,6 +285,7 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 </pre></div></li>
+-->
 
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
