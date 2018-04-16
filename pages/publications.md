@@ -28,14 +28,15 @@ The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018
 
 <li>Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
-The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<a href="https://arxiv.org/abs/1709.01186"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala SEM 2018" width="30" height ="10"></a>
 <div id = "Bollegala:SEM:2018" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Smardzhiev:SEM:2018,
   author = {Krasen Samardzhiev and Andrew Gargett and Danushka Bollegala},
   title = {Learning Neural Word Salience Scores},
-  booktitle = {Seventh Joint Conference on Lexical and Computational Semantics},
+  booktitle = {Proc. of the Seventh Joint Conference on Lexical and Computational Semantics},
   pages = {X-X},
   year = {2018}
 }
@@ -43,7 +44,8 @@ The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018
 
 <li>Danushka Bollegala, Vincent Atanasov, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>ClassiNet - Predicting Missing Features for Short-Text Classification</strong>,
-ACM Transactions on Knowledge Discovery from Data (TKDD)
+To appear in ACM Transactions on Knowledge Discovery from Data (TKDD).
+<a href="../papers/ClassiNet.pdf"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:TKDD:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala TKDD 2018" width="30" height ="10"></a>
 <div id = "Bollegala:TKDD:2018" class="hidden">
 <pre style="text-align: left">
@@ -94,7 +96,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.</strong>
  16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
- <!-- <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>-->
+ <a href="../papers/Pavithra_NAACL_2018.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Rajendran:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Rajendran:NAACL:2018" class="hidden">
 <pre style="text-align: left">
@@ -127,7 +129,7 @@ The Knowledge Engineering Review, accepted, 2018.
 
 <li>Mohammed Alsuhaibani, Danushka Bollegala, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>Jointly Learning Word Embeddings Using a Corpus and a Knowledge Base</strong>,
-Plos One, accepted, 2018.
+Plos One, Vol. 13, No. 3, pp. 1-26, 2018.
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193094"><img src="../images/PDF.png" alt="Joint Embed" width="30" height ="10"></a>
 <a href = "javascript:unhide('Mohammed:PlosOne:2018');" class="bibtex"><img src="../images/bib.png" alt="Joint Emb 2018" width="30" height ="10"></a>
 <div id = "Mohammed:PlosOne:2018" class="hidden">
@@ -138,7 +140,7 @@ Plos One, accepted, 2018.
   journal = {Plos One},
   volume = {13},
   number = {3},
-  pages = {e0193094},
+  pages = {1--26},
   doi = {doi.org/10.1371/journal.pone.0193094},
   year = {2018}
 }
@@ -146,7 +148,7 @@ Plos One, accepted, 2018.
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach</strong>,
-KI - Künstliche Intelligenz, to appear, 2018.
+KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
 <a href="../papers/Abdullah_KI.pdf"><img src="../images/PDF.png" alt="Abdullah KI 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('KI');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
 <div id = "KI" class="hidden">
@@ -162,7 +164,7 @@ KI - Künstliche Intelligenz, to appear, 2018.
 </pre></div></li>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
-<strong>Joint Learning of Sense and Word Embeddings</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
+<strong>Joint Learning of Sense and Word Embeddings</strong>, Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18a" class="hidden">
 <pre style="text-align: left">
@@ -342,6 +344,7 @@ Knowledge-Based Systems, 136C, pp. 172-182, 2017.
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Accurate Continuous and Non-intrusive User Authentication with Multivariate Keystroke Streaming</strong>,
 9th International Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K), Madeira, Portugal. (2017.11)
+<a href="../papers/kdir17_3DTime_cont.pdf"><img src="../images/PDF.png" alt="Huda KBS 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ic3k17');" class="bibtex"><img src="../images/bib.png" alt="Xia ECML 2017" width="30" height ="10"></a>
 <div id = "ic3k17" class="hidden">
 <pre style="text-align: left">
@@ -1867,7 +1870,7 @@ Location = {Beijing, China},
 
 <li>Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka:
 <strong>Identification of Personal Name Aliases on the Web</strong>, Online Proceedings of WWW 2008 Workshop on Social Web Search and Mining <a href="http://keg.cs.tsinghua.edu.cn/SWSM2008/#program">(SWSM 2008)</a>, 8 pages, Beijing, China (2008.04)
-<a href="../papers/SWSM08.pdf" <img src="../images/PDF.png" width="30" height="10"></a>  
+<a href="../papers/SWSM08.pdf"> <img src="../images/PDF.png" width="30" height="10"></a>  
 <a href = "javascript:unhide('www08b');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
 <div id = "www08b" class="hidden">
 <pre style="text-align: left">

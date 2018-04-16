@@ -49,7 +49,7 @@ permalink: /index.html
           I am also a member of the <a href="http://www.liv.ac.uk/risk-and-uncertainty/">Institute for Risk and Uncertainty</a> of the University of Liverpool, and <a href="http://bigdata.nii.ac.jp/wp/english/">Global Research Center for Big Data Mathematics National Institute of Informatics (NII)</a>,
           and an associate member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
           I hold visiting fellowships at <a href="http://www.sussex.ac.uk/informatics/">School of Informatics at University of Sussex</a> and <a href="http://www.nii.ac.jp/en/">National Institute of Informatics</a>.
-          I am a science advisor to <a href="https://cookpad.com/">Cookpad</a>.
+          I also senior fellow at <a href="https://cookpad.com/">Cookpad</a> and scientific advisor to <a href="https://www.lexsnap.com/">LexSnap</a>.
           <br/> <br/>
 
         My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning.
@@ -69,10 +69,10 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
+    <li>Knowledge Representation for Natural Language (<a href="https://sites.google.com/view/krnl-2018/home">KRNL</a>) Workshop accepted to KR-2018. Send in the submissions! </li>
+    <li>Two funded PhD scholarships available with me: <a href="https://www.findaphd.com/search/projectdetails.aspx?PJID=94062">Discovery of high-temperate superconductors using Machine Learning</a> and <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=95398">Deep Learning for Health Text Analysis: Developing Models to Predict Core Outcomes from Multiple Medical Textual Records</a></li>
+    <li>Two papers accepted to NAACL-18 and another two accepted to *SEM. See you in New Orleans! (again after AAAI)</li>
     <li>19/02/18: Cookpad cooking skill evaluation project is in <a href="https://www.insidermedia.com/insider/southwest/recipe-sharing-website-appoints-machine-learning-expert">news!</a></li>
-    <li>10/02/18: Our paper on Joint Word Embedding Learning from a Dictionary and a Lexicon is accepted to PlosOne. Project web site is <a href="http://cgi.csc.liv.ac.uk/~suhaibani/jointreps/">here</a></li>
-    <li>08/11/17: Our paper on k-way embeddings accepted to AAAI 2018! See you at New Orleans.</li>
-    <li>28/09/17: I am looking for a PhD student for the project <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=89096">Deep Learning for Procedural Natural Language Understanding.</a></li>
   </ul>
   </div>
 
