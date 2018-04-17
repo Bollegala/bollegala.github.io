@@ -11,6 +11,22 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
+<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>,
+to appear in IJCAI-EACI, 2018.
+<a href="https://arxiv.org/abs/1709.06671"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+<a href = "javascript:unhide('ijcai-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
+<div id = "ijcai-18" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:IJCAI:2018,
+   author = {Danushka Bollegala and Koheu Hayashi and Ken-ichi Kawarabayashi},
+    title = {Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words},
+  booktitle = {Proc. of IJCAI-EACI},
+  pages = {XX-XX},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Xia Cui, Kojaku Sadamori, Naoki Masuda and Danushka Bollegala:
 <strong>Solving Feature Spareness in Text Classification using Core-Periphery Decomposition</strong>,
 The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
@@ -243,6 +259,7 @@ arXiv (pre-print), 2017.
 }
 </pre></div></li>
 
+<!--
 <li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
 <strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>,
 arXiv (pre-print), 2017.
@@ -264,6 +281,7 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 </pre></div></li>
+-->
 
 <!--
 <li>Krasen Samardzhiev, Andrew Gargett, and Danushka Bollegala:

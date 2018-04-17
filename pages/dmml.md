@@ -25,7 +25,7 @@ If you would like to give a talk please contact Danushka.
 | April 17th  | 10:00-11:00 | 2.08  | Shan Luo         | Robot perception with multiple sensing inputs                                          | [slides] |
 | April 20th  | 11:00-12:00 | 5.07  | Kirkwood Graeme  | EPR and big data research in clinical cardiology –challenges and collaborative opportunities| [slides]|
 | April 27th | 11:00-12:00 | 2.08| Alsuhaibani Mohammed | Joint learning of sense and word embeddings | [slides]|
-| May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  | |
+| May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  Clonal heterogeneity in lymphoma - making sense of the data deluge| [slides]|
 | May 11th | 11:00-12:00 | | | | |
 | May 18th | 11:00-12:00 | | | | |
 | May 25th | 11:00-12:00 | | | | |
