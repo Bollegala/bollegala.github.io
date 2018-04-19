@@ -398,6 +398,19 @@
        </p>
        </li>
 
+       <li><h3> Build your own search engine!</h3>
+        <p> Let us build an inverted index and process queries containing two keywords. Download and unzip 
+          <a href="./search_engine.zip">this</a> file and run the search.py script. It will index the 
+          <a href="https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups">20 newsgroups dataset</a>.
+          We will assign integer ids to file names and sort the posting lists. Next, issue a query at the prompt
+          containing two words separated by a space. We will then find the corresponding posting lists and
+          find their intersection. Once you have carefully studied the behaviour of the matching algorithm
+          (uncomment the print statements inside get_results function if needed), extend search.py to handle
+          (a) queries containing arbitrary number of keywords and
+          (b) use skip-pointers to speed up the look up.
+        </p>
+      </li>
+
         <!--
       <li><p><a href="numpy-note.pdf">ipython notebook from the lab session</a></p></li>
       <li><p><a href="featspace.py">Python program</a> for computing the union of the features</p></li>
