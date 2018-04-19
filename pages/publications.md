@@ -27,8 +27,8 @@ to appear in IJCAI-EACI, 2018.
 }
 </pre></div></li>
 
-<li>Xia Cui, Kojaku Sadamori, Naoki Masuda and Danushka Bollegala:
-<strong>Solving Feature Spareness in Text Classification using Core-Periphery Decomposition</strong>,
+<li>Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala:
+<strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>,
 The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
 <a href = "javascript:unhide('Cui:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Cui SEM 2018" width="30" height ="10"></a>
 <div id = "Cui:SEM:2018" class="hidden">
