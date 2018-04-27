@@ -26,7 +26,7 @@ If you would like to give a talk please contact Danushka.
 | April 20th  | 11:00-12:00 | 5.07  | Kirkwood Graeme  | EPR and big data research in clinical cardiology –challenges and collaborative opportunities| [slides]|
 | April 27th | 11:00-12:00 | 2.08| Alsuhaibani Mohammed | Joint learning of sense and word embeddings | [slides]|
 | May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  Clonal heterogeneity in lymphoma - making sense of the data deluge| [slides]|
-| May 11th | 11:00-12:00 | 5.07| Xia Cui| | Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition|
+| May 11th | 11:00-12:00 | 5.07| Xia Cui| Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition| [slides]|
 | May 18th | 11:00-12:00 | | | | |
 | May 25th | 11:00-12:00 | | | | |
 | June 1st | 11:00-12:00 | | | | |
