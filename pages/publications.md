@@ -11,9 +11,55 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
+  <strong>Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href = "javascript:unhide('huda-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
+<div id = "huda-coling-18" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Huda:COLING:2018,
+   author = {Danushka Bollegala and Kohei Hayashi and Danushka Bollegala},
+    title = {Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection},
+  booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
+  pages = {XX-XX},
+  year = {2018}
+}
+</pre></div></li>
+
+
+<li>Cong Bao and Danushka Bollegala:
+  <strong>Learning Word Meta-Embeddings by Autoencoding</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href = "javascript:unhide('cong-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
+<div id = "cong-coling-18" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Cong:COLING:2018,
+   author = {Cong Bao and Danushka Bollegala},
+    title = {Learning Word Meta-Embeddings by Autoencoding},
+  booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
+  pages = {XX-XX},
+  year = {2018}
+}
+</pre></div></li>
+
+
+<li>Khai Mai, Thai­Hoang Pham, Minh Trung Nguyen, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano and Satoshi Sekine:
+  <strong>Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href = "javascript:unhide('huda-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
+<div id = "huda-coling-18" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Huda:COLING:2018,
+   author = {Khai Mai and Thai­Hoang Pham and Minh Trung Nguyen and Nguyen Tuan Duc and Danushka Bollegala and Ryohei Sasano and Satoshi Sekine},
+    title = {Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition},
+  booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
+  pages = {XX-XX},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
-<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>,
-to appear in IJCAI-EACI, 2018.
+<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>, Proc. of IJCAI-EACI, 2018.
 <a href="https://arxiv.org/abs/1709.06671"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ijcai-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
 <div id = "ijcai-18" class="hidden">
@@ -28,8 +74,7 @@ to appear in IJCAI-EACI, 2018.
 </pre></div></li>
 
 <li>Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala:
-<strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>,
-The Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>, Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
 <a href = "javascript:unhide('Cui:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Cui SEM 2018" width="30" height ="10"></a>
 <div id = "Cui:SEM:2018" class="hidden">
 <pre style="text-align: left">
@@ -60,7 +105,7 @@ Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*S
 
 <li>Danushka Bollegala, Vincent Atanasov, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>ClassiNet - Predicting Missing Features for Short-Text Classification</strong>,
-To appear in ACM Transactions on Knowledge Discovery from Data (TKDD).
+ACM Transactions on Knowledge Discovery from Data (TKDD).
 <a href="../papers/ClassiNet.pdf"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:TKDD:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala TKDD 2018" width="30" height ="10"></a>
 <div id = "Bollegala:TKDD:2018" class="hidden">
@@ -77,7 +122,7 @@ To appear in ACM Transactions on Knowledge Discovery from Data (TKDD).
 
 <li>Danushka Bollegala, Richard Slone, Simon Maskell, Joanna Hajne and Munir Pirmohamed:
 <strong>Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media</strong>,
-Journal of Medical Internet Research Public Health Surveillance (forthcoming). doi:10.2196/publichealth.8214, 2018.
+Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/publichealth.8214, 2018.
 <a href="../papers/jmir.pdf"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href="http://dx.doi.org/10.2196/publichealth.8214">[DOI]</a>
 <a href = "javascript:unhide('Bollegala:JMIR:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala JMIR 2018" width="30" height ="10"></a>
@@ -95,7 +140,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 
 <li>Joshua Coates and Danushka Bollegala:
 <strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
- 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+ Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
  <a href="../papers/average-meta-embedding.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Coates:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Coates:NAACL:2018" class="hidden">
@@ -111,7 +156,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.</strong>
- 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
  <a href="../papers/Pavithra_NAACL_2018.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Rajendran:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Rajendran:NAACL:2018" class="hidden">
@@ -127,7 +172,7 @@ Journal of Medical Internet Research Public Health Surveillance (forthcoming). d
 
 <li>Xia Cui, Noor Al-Bazzaz, Danushka Bollegala and Frans Coenen:
 <strong>A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</strong>,
-The Knowledge Engineering Review, accepted, 2018.
+The Knowledge Engineering Review, 2018.
 <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Xia:KER:2018');" class="bibtex"><img src="../images/bib.png" alt="KER 2018" width="30" height ="10"></a>
 <div id = "Xia:KER:2018" class="hidden">
@@ -234,6 +279,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
 
 <h2>2017</h2>
 
+<!--
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
 <strong>Why PairDiff works? -- A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection</strong>,
 arXiv (pre-print), 2017.
@@ -258,6 +304,7 @@ arXiv (pre-print), 2017.
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 </pre></div></li>
+-->
 
 <!--
 <li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
