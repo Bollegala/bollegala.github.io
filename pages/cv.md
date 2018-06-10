@@ -123,7 +123,11 @@ Funding
 ========
 1. *Deep Learning of Procedural Natural Language Understanding*, PhD Studentship, University of Liverpool, PI (GBP 60k), 2017-2020.
 
-1. *Maritime Wide Area Surveillance*, Defence Science Technology Laboratory (DSTL), Co-I (GBP 700k), 2017-2019.
+1. *Legal Advisor Dialgoue Engine*, LexSnap, PI (GBP 12k), 2017-2018.
+
+1. *Algorithm Design for Automatic Classification of Transactions into a Taxonomy*, Rosslyn Data Technologies, PI (GBP 5k), 2018-2018.
+
+1. *Track Analytics for Effective Triage of Wide Area*, Defence Science Technology Laboratory (DSTL), Co-I (GBP 243k), 2017-2019.
 
 1. *Digital Legal Assistant*, Knowledge Transfer Partnership (Innovate UK), PI (GBP 492k), 2017-2020.
 
@@ -132,7 +136,6 @@ Funding
 1. *I knew that relation from news*, Innovaion Voucher Scheme, University of Liverpool, PI (GBP 5k), 2015-2016.
 
 1. *The Revierview Law Contract Map Project*, Knowledge Transfer Partnership (Innovate UK), Co-PI (GBP 269k),    2015-2018.
-
 
 1. *Resolving Relational Ambiguity between Entities on the Web*, Microsoft Research (MSR) CORE-9 Research Grant, PI, (USD 17K), 2013–2015.
 
