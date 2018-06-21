@@ -46,10 +46,10 @@ title:     publications
 <li>Khai Mai, Thai­Hoang Pham, Minh Trung Nguyen, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano and Satoshi Sekine:
   <strong>Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
   <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
-  <a href = "javascript:unhide('huda-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
-<div id = "huda-coling-18" class="hidden">
+  <a href = "javascript:unhide('mai-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
+<div id = "mai-coling-18" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Huda:COLING:2018,
+@inproceedings{Mai:COLING:2018,
    author = {Khai Mai and Thai­Hoang Pham and Minh Trung Nguyen and Nguyen Tuan Duc and Danushka Bollegala and Ryohei Sasano and Satoshi Sekine},
     title = {Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition},
   booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
@@ -65,7 +65,7 @@ title:     publications
 <div id = "ijcai-18" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Bollegala:IJCAI:2018,
-   author = {Danushka Bollegala and Koheu Hayashi and Ken-ichi Kawarabayashi},
+   author = {Danushka Bollegala and Kohei Hayashi and Ken-ichi Kawarabayashi},
     title = {Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words},
   booktitle = {Proc. of IJCAI-EACI},
   pages = {XX-XX},
@@ -75,6 +75,7 @@ title:     publications
 
 <li>Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala:
 <strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>, Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<a href="http://www.aclweb.org/anthology/S18-2030"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Cui:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Cui SEM 2018" width="30" height ="10"></a>
 <div id = "Cui:SEM:2018" class="hidden">
 <pre style="text-align: left">
@@ -82,7 +83,7 @@ title:     publications
   author = {Xia Cui and Kojaku Sadamori and Naoki Masuda and Danushka Bollegala},
   title = {Solving Feature Spareness in Text Classification using Core-Periphery Decomposition},
   booktitle = {Seventh Joint Conference on Lexical and Computational Semantics},
-  pages = {X-X},
+  pages = {255-264},
   year = {2018}
 }
 </pre></div></li>
@@ -90,7 +91,7 @@ title:     publications
 <li>Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
 Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
-<a href="https://arxiv.org/abs/1709.01186"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href="http://aclweb.org/anthology/S18-2004"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala SEM 2018" width="30" height ="10"></a>
 <div id = "Bollegala:SEM:2018" class="hidden">
 <pre style="text-align: left">
@@ -98,7 +99,7 @@ Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*S
   author = {Krasen Samardzhiev and Andrew Gargett and Danushka Bollegala},
   title = {Learning Neural Word Salience Scores},
   booktitle = {Proc. of the Seventh Joint Conference on Lexical and Computational Semantics},
-  pages = {X-X},
+  pages = {33-42},
   year = {2018}
 }
 </pre></div></li>
@@ -114,7 +115,7 @@ ACM Transactions on Knowledge Discovery from Data (TKDD).
   author = {Danushka Bollegala and Vincent Atanasov and Takanori Maehara and Ken-ichi Kawarabayashi},
   title = {ClassiNet -- Predicting Missing Features for Short-Text Classification},
   journal = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
-  pages = {X-X},
+  pages = {1-29},
   year = {2018}
 }
 </pre></div></li>
@@ -132,7 +133,7 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
   author = {Danushka Bollegala and Richard Slone and Simon Maskell and Joanna Hajne and Munir Pirmohamed},
   title = {Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media},
   journal = {Journal of Medical Internet Research Public Health Surveillance},
-  pages = {X-X},
+  pages = {1-20},
   year = {2018}
 }
 </pre></div></li>
@@ -141,15 +142,15 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
 <li>Joshua Coates and Danushka Bollegala:
 <strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
  Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
- <a href="../papers/average-meta-embedding.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
+ <a href="http://aclweb.org/anthology/N18-2031"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Coates:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Coates:NAACL:2018" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Coates:NAACL:2018,
   author = {Joshua Coates and Danushka Bollegala},
   title = {Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings},
-  booktitle = {16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  pages = {X-X},
+  booktitle = {Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages = {194--198},
   year = {2018}
 }
 </pre></div></li>
@@ -157,15 +158,15 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.</strong>
 Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
- <a href="../papers/Pavithra_NAACL_2018.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
+ <a href="http://aclweb.org/anthology/N18-2005"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Rajendran:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Rajendran:NAACL:2018" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Rajendran:NAACL:2018,
   author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
   title = {Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset},
-  booktitle = {16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  pages = {X-X},
+  booktitle = {Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages = {28--34},
   year = {2018}
 }
 </pre></div></li>
@@ -220,52 +221,76 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
   journal = {KI - Künstliche Intelligenz},
   volume = {32},
   number = {1},
+  pages = {1--13},
   year = {2018}
 }
 </pre></div></li>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
-<strong>Joint Learning of Sense and Word Embeddings</strong>, Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
+<strong>Joint Learning of Sense and Word Embeddings</strong>, Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, pp. 1-7, Miyazaki, Japan, May, 2018.
+<a href="../papers/Mohammed_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18a" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Alsuhaibani:LREC:2018,
-   author = {Mohammed Alsuhaibani and Danushka Bollegala},
-    title = {Joint Learning of Sense and Word Embeddings},
-  inproceedings = {Proc. of LREC},
-     year = {2018}
-}
+@InProceedings{ALSUHAIBANI18.393,
+  author = {Mohammed Alsuhaibani and Danushka Bollegala},
+  title = "{Joint Learning of Sense and Word Embeddings}",
+  booktitle = {Proc. of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  year = {2018},
+  address = {Miyazaki, Japan},
+  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {979-10-95546-00-9},
+  pages = {1--7},
+  language = {english}
+  }
   </pre></div></li>
 
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
-<strong>Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
+<strong>Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, pp. 1-7, 7-12, Miyazaki, Japan, May, 2018.
+<a href="../papers/Pavithra_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18b');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18b" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Rajendran:LREC:2018,
-   author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
-    title = {Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions.},
-  inproceedings = {Proc. of LREC},
-     year = {2018}
-}
+@InProceedings{RAJENDRAN18.126,
+  author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
+  title = "{Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions.}",
+  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  year = {2018},
+  month = {May 7-12, 2018},
+  address = {Miyazaki, Japan},
+  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {979-10-95546-00-9},
+   pages = {1--7},
+  language = {english}
+  }
   </pre></div></li>
 
 <li>Angrosh Mandya, Danushka Bollegala, Frans Coenen and Katie Atkinson:
-<strong>A Dataset for Inter-Sentence Relation Extraction using Distant Supervision</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, Miyazaki, Japan, May, 2018.
+<strong>A Dataset for Inter-Sentence Relation Extraction using Distant Supervision</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, pp. 1-7, 7-12, Miyazaki, Japan, May, 2018.
+<a href="../papers/Angrosh_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18c');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18c" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Mandya:LREC:2018,
-   author = {Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},
-    title = {A Dataset for Inter-Sentence Relation Extraction using Distant Supervision},
-  inproceedings = {Proc. of LREC},
-     year = {2018}
-}
+@InProceedings{MANDYA18.790,
+  author = {Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},
+  title = "{A Dataset for Inter-Sentence Relation Extraction using Distant Supervision}",
+  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  year = {2018},
+  month = {May 7-12, 2018},
+  address = {Miyazaki, Japan},
+  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {979-10-95546-00-9},
+   pages = {1--7},
+  language = {english}
+  }
   </pre></div></li>
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA, 2018.
-<a href="https://arxiv.org/abs/1709.01199"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17172/16784"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
 <pre style="text-align: left">
@@ -273,6 +298,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
    author = {Danushka Bollegala and Yuichi Yoshida and Ken-ichi Kawarabayashi},
     title = "{Using $k$-way Co-occurrences for Learning Word Embeddings}",
   inproceedings = {Proc. of the 32-nd AAAI Conference on Artificial Intelligence},
+  pages = {5037--5044},
      year = {2018}
 }
   </pre></div></li>
@@ -357,7 +383,7 @@ archivePrefix = "arXiv",
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Spectral Analysis of Keystroke Streams: Towards Effective Real-Time Continuous User Authentication</strong>,
-4th International Conference on Information Systems Security and Privacy (ICISSP), Madeira, Portugal. (2017.11).
+4th International Conference on Information Systems Security and Privacy (ICISSP), pp. 62-73, Madeira, Portugal. (2017.11).
 <a href="../papers/Abdullah_ICISSP_2017.pdf"><img src="../images/PDF.png" alt="Abdullah ICISSP 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('icissp17');" class="bibtex"><img src="../images/bib.png" alt="Abdullah ICISSP 2017" width="30" height ="10"></a>
 <div id = "icissp17" class="hidden">
@@ -408,7 +434,7 @@ Knowledge-Based Systems, 136C, pp. 172-182, 2017.
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Accurate Continuous and Non-intrusive User Authentication with Multivariate Keystroke Streaming</strong>,
-9th International Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K), Madeira, Portugal. (2017.11)
+9th International Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KDIR), pp. 61-70, Madeira, Portugal. (2017.11)
 <a href="../papers/kdir17_3DTime_cont.pdf"><img src="../images/PDF.png" alt="Huda KBS 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ic3k17');" class="bibtex"><img src="../images/bib.png" alt="Xia ECML 2017" width="30" height ="10"></a>
 <div id = "ic3k17" class="hidden">
@@ -418,7 +444,8 @@ Title = {Accurate Continuous and Non-intrusive User Authentication with Multivar
 Author = {Abdullah Alsheri and Frans Coenen and and Danushka Bollegala},
 Booktitle = {Proc. of the 9th International Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K)},
 Year = {2017},
-pages = {xxx--xxx}
+DOI = {10.5220/0006497200610070},
+pages = {61--70}
 }</pre></div></li>
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
@@ -468,7 +495,7 @@ pages = {754--771}
 
 <li>Tomoyuki Kajiwara, Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>An Iterative Approach for the Global Estimation of Sentence Similarity</strong>,
-PLoS ONE, 2017.
+PLoS ONE, Vol. 12, no 9, pp. 1-15, 2017.
 <a href="../papers/Kajiwara_2017.pdf"><img src="../images/PDF.png" alt="Kajiwara 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('kajiwara-17');" class="bibtex"><img src="../images/bib.png" alt="Kajiwara 2017" width="30" height ="10"></a>
 <div id = "kajiwara-17" class="hidden">
@@ -485,7 +512,7 @@ PLoS ONE, 2017.
 
 <li>Danushka Bollegala:
 <strong>Dynamic Feature Scaling for Online Learning of Binary Classifiers</strong>,
-Knowledge-Based Systems, 2017.
+Knowledge-Based Systems, Vol. 129, pp. 97-195, 2017.
 <a href="https://doi.org/10.1016/j.knosys.2017.05.010">[DOI]</a>
 <a href="../papers/Bollegala_KBS_2017.pdf"><img src="../images/PDF.png" alt="Bollegala KBS 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('bollegala-kbs17');" class="bibtex"><img src="../images/bib.png" alt="Bollegala KBS 2017" width="30" height ="10"></a>
@@ -496,12 +523,14 @@ Knowledge-Based Systems, 2017.
   Journal = {Knowledge-Based Systems},
   Month = {May},
   Title = {Dynamic Feature Scaling for Online Learning of Binary Classifiers},
+  Volume = {129},
+  Pages = {97-105},
   Year = {2017}}
   </pre></div></li>
 
 <li>Huda Hakami, Angrosh Mandya, and Danushka Bollegala:
 <strong>Discovering Representative Space for Relational Similarity Measurement</strong>,
-15th International Conference of the Pacific Association for Computational Linguistics (PACLING), Yangon, Myanmar. (2017.08)
+15th International Conference of the Pacific Association for Computational Linguistics (PACLING), pp. 76-87, Yangon, Myanmar. (2017.08)
 <a href="../papers/Huda_PACLING_2017.pdf"><img src="../images/PDF.png" alt="PACLING 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('pacling-huda-17');" class="bibtex"><img src="../images/bib.png" alt="PACLING 2017" width="30" height ="10"></a>
 <div id = "pacling-huda-17" class="hidden">
@@ -511,12 +540,12 @@ Title = {Discovering Representative Space for Relational Similarity Measurement}
 Author = {Huda Hakami and Angrosh Mandya and Danushka Bollegala},
 Booktitle = {Proc. of the 15th International Conference of the Pacific Association for Computational Linguistics (PACLING)},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {76--87}
 }</pre></div></li>
 
 <li>Pavithra Rajendran, Danushka Bollegala, and Simon Parsons:
 <strong>Identifying Argument based Relation Properties in Opinions</strong>,
-15th International Conference of the Pacific Association for Computational Linguistics (PACLING), Yangon, Myanmar. (2017.08)
+15th International Conference of the Pacific Association for Computational Linguistics (PACLING), pp. 1-12, Yangon, Myanmar. (2017.08)
 <a href="../papers/Pavithra_PACLING_2017.pdf"><img src="../images/PDF.png" alt="PACLING 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('pacling-pavithra-17');" class="bibtex"><img src="../images/bib.png" alt="PACLING 2017" width="30" height ="10"></a>
 <div id = "pacling-pavithra-17" class="hidden">
@@ -526,12 +555,12 @@ Title = {Identifying Argument based Relation Properties in Opinions},
 Author = {Pavithra Rajendran and Danushka Bollegala and Simon Parsons},
 Booktitle = {Proc. of the 15th International Conference of the Pacific Association for Computational Linguistics (PACLING)},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {1--12}
 }</pre></div></li>
 
 <li>Angrosh Mandya, Danushka Bollegala, Frans Coenen, and Katie Atkinson:
 <strong>Frame-based Semantic Patterns for Relation Extraction</strong>,
-15th International Conference of the Pacific Association for Computational Linguistics (PACLING), Yangon, Myanmar. (2017.08)
+15th International Conference of the Pacific Association for Computational Linguistics (PACLING), pp. 51-62, Yangon, Myanmar. (2017.08)
 <a href="../papers/Angrosh_PACLING_2017.pdf"><img src="../images/PDF.png" alt="PACLING 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('pacling-angrosh-17');" class="bibtex"><img src="../images/bib.png" alt="ICAIL 2017" width="30" height ="10"></a>
 <div id = "pacling-angrosh-17" class="hidden">
@@ -541,12 +570,12 @@ Title = {Frame-based Semantic Patterns for Relation Extraction},
 Author = {Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},
 Booktitle = {Proc. of the 15th International Conference of the Pacific Association for Computational Linguistics (PACLING)},
 Year = {2017},
-pages = {xxx--xxx}
+pages = {51--62}
 }</pre></div></li>
 
 <li>Matias Garcia-Constantino, Katie Atkinson, Danushka Bollegala, Karl Chapman, Frans Coenen, Clare Roberts, and Katy Robson:
 <strong>CLIEL: Context-Based Information Extraction from Commercial Law Documents</strong>,
-16th International Conference on Artificial Intelligence and Law (ICAIL), London, UK. (2017.06)
+16th International Conference on Artificial Intelligence and Law (ICAIL), pp. 79-87, London, UK. (2017.06)
 <a href="../papers/ICAIL2017.pdf"><img src="../images/PDF.png" alt="ICAIL 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('icail17');" class="bibtex"><img src="../images/bib.png" alt="ICAIL 2017" width="30" height ="10"></a>
 <div id = "icail17" class="hidden">
@@ -556,13 +585,14 @@ Title = {CLIEL: Context-Based Information Extraction from Commercial Law Documen
 Author = {Matias Garcia-Constantino, Katie Atkinson, Danushka Bollegala, Karl Chapman, Frans Coenen, Clare Roberts, and Katy Robson},
 Booktitle = {Proc. of the 16th International Conference on Artificial Intelligence and Law (ICAIL)},
 Year = {2017},
-pages = {xxx--xxx}
+DOI = {10.1145/3086512.3086520},
+pages = {79--87}
 }</pre></div></li>
 
 
 <li>Angrosh Mandya, Danushka Bollegala, Frans Coenen, and Katie Atkinson:
 <strong>Classifier-based Pattern Selection Approach for Relation Instance Extraction</strong>,
-International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), Budapest, Hungary. (2017.04)
+International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), pp. 1-16, Budapest, Hungary. (2017.04)
 <a href="../papers/cicling-2017.pdf"><img src="../images/PDF.png" alt="CICLing 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('cicling17');" class="bibtex"><img src="../images/bib.png" alt="CICLing 2017" width="30" height ="10"></a>
 <div id = "cicling17" class="hidden">
@@ -572,7 +602,7 @@ Title = {Classifier-based Pattern Selection Approach for Relation Instance Extra
 Author = {Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},
 Booktitle = {Proc. of the International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)},
 Year = {2017},
-pages = {xxx--xxx},
+pages = {1--16},
 Publisher = {LNCS, Springer}
 }</pre></div></li>
 
