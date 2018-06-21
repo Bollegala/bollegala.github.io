@@ -74,7 +74,7 @@ title:     publications
 </pre></div></li>
 
 <li>Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala:
-<strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>, Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+<strong>Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition</strong>, Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), pp. 255-264, 2018.
 <a href="http://www.aclweb.org/anthology/S18-2030"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Cui:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Cui SEM 2018" width="30" height ="10"></a>
 <div id = "Cui:SEM:2018" class="hidden">
@@ -90,7 +90,7 @@ title:     publications
 
 <li>Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala:
 <strong>Learning Neural Word Salience Scores</strong>,
-Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), 2018.
+Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*SEM), pp. 33-42, 2018.
 <a href="http://aclweb.org/anthology/S18-2004"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:SEM:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala SEM 2018" width="30" height ="10"></a>
 <div id = "Bollegala:SEM:2018" class="hidden">
@@ -106,7 +106,7 @@ Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*S
 
 <li>Danushka Bollegala, Vincent Atanasov, Takanori Maehara and Ken-ichi Kawarabayashi:
 <strong>ClassiNet - Predicting Missing Features for Short-Text Classification</strong>,
-ACM Transactions on Knowledge Discovery from Data (TKDD).
+ACM Transactions on Knowledge Discovery from Data (TKDD), pp. 1-29, 2018.
 <a href="../papers/ClassiNet.pdf"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('Bollegala:TKDD:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala TKDD 2018" width="30" height ="10"></a>
 <div id = "Bollegala:TKDD:2018" class="hidden">
@@ -123,7 +123,7 @@ ACM Transactions on Knowledge Discovery from Data (TKDD).
 
 <li>Danushka Bollegala, Richard Slone, Simon Maskell, Joanna Hajne and Munir Pirmohamed:
 <strong>Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media</strong>,
-Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/publichealth.8214, 2018.
+Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/publichealth.8214, pp. 1-20, 2018.
 <a href="../papers/jmir.pdf"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href="http://dx.doi.org/10.2196/publichealth.8214">[DOI]</a>
 <a href = "javascript:unhide('Bollegala:JMIR:2018');" class="bibtex"><img src="../images/bib.png" alt="Bollegala JMIR 2018" width="30" height ="10"></a>
@@ -141,7 +141,7 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
 
 <li>Joshua Coates and Danushka Bollegala:
 <strong>Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings</strong>
- Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+ Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pp. 194-198, 2018.
  <a href="http://aclweb.org/anthology/N18-2031"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Coates:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Coates:NAACL:2018" class="hidden">
@@ -157,7 +157,7 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
 
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.</strong>
-Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), accepted, 2018.
+Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pp. 28-34, 2018.
  <a href="http://aclweb.org/anthology/N18-2005"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Rajendran:NAACL:2018');" class="bibtex"><img src="../images/bib.png" alt="NAACL Coates 2018" width="30" height ="10"></a>
 <div id = "Rajendran:NAACL:2018" class="hidden">
@@ -173,7 +173,7 @@ Proc. of the 16th Annual Conference of the North American Chapter of the Associa
 
 <li>Xia Cui, Noor Al-Bazzaz, Danushka Bollegala and Frans Coenen:
 <strong>A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</strong>,
-The Knowledge Engineering Review, 2018.
+The Knowledge Engineering Review, (to appear), 2018.
 <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Xia:KER:2018');" class="bibtex"><img src="../images/bib.png" alt="KER 2018" width="30" height ="10"></a>
 <div id = "Xia:KER:2018" class="hidden">
@@ -210,7 +210,7 @@ Plos One, Vol. 13, No. 3, pp. 1-26, 2018.
 
 <li>Abdullah Alsheri, Frans Coenen, and Danushka Bollegala:
 <strong>Iterative Time Keystroke Continuous Authentication: A Time Series Based Approach</strong>,
-KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
+KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 <a href="../papers/Abdullah_KI.pdf"><img src="../images/PDF.png" alt="Abdullah KI 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('KI');" class="bibtex"><img src="../images/bib.png" alt="KI 2018" width="30" height ="10"></a>
 <div id = "KI" class="hidden">
@@ -289,7 +289,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, 2018.
   </pre></div></li>
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
-<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA, 2018.
+<strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, pp. 5037-5044, New Orleans, Louisiana, USA, 2018.
 <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17172/16784"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
