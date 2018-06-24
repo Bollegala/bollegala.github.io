@@ -29,7 +29,7 @@ title:     publications
 
 <li>Cong Bao and Danushka Bollegala:
   <strong>Learning Word Meta-Embeddings by Autoencoding</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
-  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href="../papers/aeme.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('cong-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "cong-coling-18" class="hidden">
 <pre style="text-align: left">
