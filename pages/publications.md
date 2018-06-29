@@ -172,8 +172,8 @@ Proc. of the 16th Annual Conference of the North American Chapter of the Associa
 </pre></div></li>
 
 <li>Xia Cui, Noor Al-Bazzaz, Danushka Bollegala and Frans Coenen:
-<strong>A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</strong>,
-The Knowledge Engineering Review, (to appear), 2018.
+<strong><a href="https://www.cambridge.org/core/journals/knowledge-engineering-review/article/comparative-study-of-pivot-selection-strategies-for-unsupervised-crossdomain-sentiment-classification/C88761CC6B83E65DCAA71D32EA5AA93C#">A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification</a></strong>,
+The Knowledge Engineering Review, Vol. 33, 2018.
 <a href="../papers/xia-ker.pdf"><img src="../images/PDF.png" alt="Pivot Journal" width="30" height ="10"></a>
 <a href = "javascript:unhide('Xia:KER:2018');" class="bibtex"><img src="../images/bib.png" alt="KER 2018" width="30" height ="10"></a>
 <div id = "Xia:KER:2018" class="hidden">
@@ -182,9 +182,8 @@ The Knowledge Engineering Review, (to appear), 2018.
   author = {Xia Cui and Noor Al-Bazzaz and Danushka Bollegala and Frans Coenen},
   title = {A Comparative Study of Pivot Selection Strategies for  Unsupervised Cross-Domain Sentiment Classification},
   journal = {The Knowledge Engineering Review},
-  volume = {X},
-  number = {X},
-  pages = {X-X},
+  volume = {33},
+  pages = {e5},
   year = {2018}
 }
 </pre></div></li>
