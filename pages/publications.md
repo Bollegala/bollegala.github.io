@@ -13,7 +13,7 @@ title:     publications
 
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
   <strong>Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
-  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href="../papers/pairdiff.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('huda-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "huda-coling-18" class="hidden">
 <pre style="text-align: left">
@@ -45,7 +45,7 @@ title:     publications
 
 <li>Khai Mai, Thai­Hoang Pham, Minh Trung Nguyen, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano and Satoshi Sekine:
   <strong>Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
-  <a href="https://arxiv.org/abs/1709.06673"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href="../papers/fgner.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('mai-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "mai-coling-18" class="hidden">
 <pre style="text-align: left">
@@ -60,7 +60,7 @@ title:     publications
 
 <li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
 <strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>, Proc. of IJCAI-EACI, 2018.
-<a href="https://arxiv.org/abs/1709.06671"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+<a href="https://www.ijcai.org/proceedings/2018/0552.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ijcai-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
 <div id = "ijcai-18" class="hidden">
 <pre style="text-align: left">
