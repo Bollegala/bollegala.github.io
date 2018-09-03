@@ -21,14 +21,14 @@ title:     publications
    author = {Danushka Bollegala and Kohei Hayashi and Danushka Bollegala},
     title = {Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection},
   booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
-  pages = {XX-XX},
+  pages = {2493--2504},
   year = {2018}
 }
 </pre></div></li>
 
 
 <li>Cong Bao and Danushka Bollegala:
-  <strong>Learning Word Meta-Embeddings by Autoencoding</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <strong>Learning Word Meta-Embeddings by Autoencoding</strong> Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
   <a href="../papers/aeme.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('cong-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "cong-coling-18" class="hidden">
@@ -37,7 +37,7 @@ title:     publications
    author = {Cong Bao and Danushka Bollegala},
     title = {Learning Word Meta-Embeddings by Autoencoding},
   booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
-  pages = {XX-XX},
+  pages = {1650--1661},
   year = {2018}
 }
 </pre></div></li>
@@ -53,7 +53,7 @@ title:     publications
    author = {Khai Mai and Thai­Hoang Pham and Minh Trung Nguyen and Nguyen Tuan Duc and Danushka Bollegala and Ryohei Sasano and Satoshi Sekine},
     title = {Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition},
   booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
-  pages = {XX-XX},
+  pages = {711--722},
   year = {2018}
 }
 </pre></div></li>
@@ -68,7 +68,7 @@ title:     publications
    author = {Danushka Bollegala and Kohei Hayashi and Ken-ichi Kawarabayashi},
     title = {Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words},
   booktitle = {Proc. of IJCAI-EACI},
-  pages = {XX-XX},
+  pages = {3970--3976},
   year = {2018}
 }
 </pre></div></li>
