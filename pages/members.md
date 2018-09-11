@@ -20,6 +20,8 @@ title:  Members
 <li> Alsuhaibani Mohammed (working on Word Embedding Learning) </li>
 <li> Huda Hakami (working on Compositional Semantics) </li>
 <li> Xia Cui (working on Domain Adaptation) </li>
+<li> James O'Neill </li>
+<li> Micheal Abaho </li>
 </ul>
 
 <!--

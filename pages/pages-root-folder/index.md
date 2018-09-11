@@ -69,10 +69,9 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
-    <li>Knowledge Representation for Natural Language (<a href="https://sites.google.com/view/krnl-2018/home">KRNL</a>) Workshop accepted to KR-2018. Send in the submissions! </li>
-    <li>Two funded PhD scholarships available with me: <a href="https://www.findaphd.com/search/projectdetails.aspx?PJID=94062">Discovery of high-temperate superconductors using Machine Learning</a> and <a href="https://www.findaphd.com/search/ProjectDetails.aspx?PJID=95398">Deep Learning for Health Text Analysis: Developing Models to Predict Core Outcomes from Multiple Medical Textual Records</a></li>
-    <li>Two papers accepted to NAACL-18 and another two accepted to *SEM. See you in New Orleans! (again after AAAI)</li>
-    <li>19/02/18: Cookpad cooking skill evaluation project is in <a href="https://www.insidermedia.com/insider/southwest/recipe-sharing-website-appoints-machine-learning-expert">news!</a></li>
+    <li>Four papers accepted to COLING-18 from Liverpool-NLP GroupK</li>
+    <li>Two papers accepted to NAACL-18 and another two accepted to *SEM. </li>
+    <li>Cookpad cooking skill evaluation project is in <a href="https://www.insidermedia.com/insider/southwest/recipe-sharing-website-appoints-machine-learning-expert">news!</a></li>
   </ul>
   </div>
 

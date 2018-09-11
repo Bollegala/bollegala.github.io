@@ -21,8 +21,8 @@
   url: "/publications/"
   side: left
  
-- title: Software
-  url: "/software/"
+- title: Projects
+  url: "/projects/"
   side: left
 
 - title: Members

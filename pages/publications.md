@@ -12,7 +12,7 @@ title:     publications
 <h2>2018</h2>
 
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
-  <strong>Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <strong>Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection </strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 2493-2504, 2018.
   <a href="../papers/pairdiff.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('huda-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "huda-coling-18" class="hidden">
@@ -28,7 +28,7 @@ title:     publications
 
 
 <li>Cong Bao and Danushka Bollegala:
-  <strong>Learning Word Meta-Embeddings by Autoencoding</strong> Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <strong>Learning Word Meta-Embeddings by Autoencoding</strong> Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 1650-1661, 2018.
   <a href="../papers/aeme.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('cong-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "cong-coling-18" class="hidden">
@@ -44,7 +44,7 @@ title:     publications
 
 
 <li>Khai Mai, Thai­Hoang Pham, Minh Trung Nguyen, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano and Satoshi Sekine:
-  <strong>Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition</strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), 2018.
+  <strong>Which Model Performs Best in This Situation? An Empirical Study on Fine­Grained Named Entity Recognition</strong> Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 711-722, 2018.
   <a href="../papers/fgner.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('mai-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "mai-coling-18" class="hidden">
@@ -59,7 +59,7 @@ title:     publications
 </pre></div></li>
 
 <li>Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi:
-<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>, Proc. of IJCAI-EACI, 2018.
+<strong>Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words</strong>, Proc. of IJCAI-EACI, pp. 3970-3976, 2018.
 <a href="https://www.ijcai.org/proceedings/2018/0552.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
 <a href = "javascript:unhide('ijcai-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2017" width="30" height ="10"></a>
 <div id = "ijcai-18" class="hidden">
@@ -83,7 +83,7 @@ title:     publications
   author = {Xia Cui and Kojaku Sadamori and Naoki Masuda and Danushka Bollegala},
   title = {Solving Feature Spareness in Text Classification using Core-Periphery Decomposition},
   booktitle = {Seventh Joint Conference on Lexical and Computational Semantics},
-  pages = {255-264},
+  pages = {255--264},
   year = {2018}
 }
 </pre></div></li>
@@ -99,7 +99,7 @@ Proc. of the Seventh Joint Conference on Lexical and Computational Semantics (*S
   author = {Krasen Samardzhiev and Andrew Gargett and Danushka Bollegala},
   title = {Learning Neural Word Salience Scores},
   booktitle = {Proc. of the Seventh Joint Conference on Lexical and Computational Semantics},
-  pages = {33-42},
+  pages = {33--42},
   year = {2018}
 }
 </pre></div></li>
@@ -115,7 +115,7 @@ ACM Transactions on Knowledge Discovery from Data (TKDD), pp. 1-29, 2018.
   author = {Danushka Bollegala and Vincent Atanasov and Takanori Maehara and Ken-ichi Kawarabayashi},
   title = {ClassiNet -- Predicting Missing Features for Short-Text Classification},
   journal = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
-  pages = {1-29},
+  pages = {1--29},
   year = {2018}
 }
 </pre></div></li>
@@ -133,7 +133,7 @@ Journal of Medical Internet Research Public Health Surveillance, doi:10.2196/pub
   author = {Danushka Bollegala and Richard Slone and Simon Maskell and Joanna Hajne and Munir Pirmohamed},
   title = {Learning Causality Patterns for Detecting Adverse Drug Reactions from Social Media},
   journal = {Journal of Medical Internet Research Public Health Surveillance},
-  pages = {1-20},
+  pages = {1--20},
   year = {2018}
 }
 </pre></div></li>
