@@ -27,7 +27,7 @@ If you would like to give a talk please contact Danushka.
 | April 27th | 11:00-12:00 | 2.08| Alsuhaibani Mohammed | Joint learning of sense and word embeddings | [slides]|
 | May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  Clonal heterogeneity in lymphoma - making sense of the data deluge| [slides]|
 | May 11th | 11:00-12:00 | 5.07| Xia Cui| Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition| [slides]|
-| Sep 18th | 11:00-12:00 | 2.08 |Huda Hakami | Relation Representation|[slides]|
+| Sep 28th | 10:00-11:00 | 2.08 |Huda Hakami | Why does PairDiff work? – A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection|[slides]|
 | Oct 12th | 13:00-14:00 | 2.08 | [Takanori Maehara](http://www.prefield.com/) | TBA| |
 
 
