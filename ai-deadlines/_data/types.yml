@@ -1,0 +1,9 @@
+---
+- name: Machine Learning
+  sub: ML
+- name: Natural Language Processing
+  sub: NLP
+- name: Data/Web Mining
+  sub: DM
+- name: Artificial Intelligence
+  sub: AI
