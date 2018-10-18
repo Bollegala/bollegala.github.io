@@ -28,8 +28,9 @@ If you would like to give a talk please contact Danushka.
 | May 4th | 11:00-12:00 |2.08 | Nagesh Kalakonda|  Clonal heterogeneity in lymphoma - making sense of the data deluge| 
 | May 11th | 11:00-12:00 | 5.07| Xia Cui| Solving Feature Sparseness in Text Classification using Core-Periphery Decomposition|
 | Sep 28th | 10:00-11:00 | 2.08 |Huda Hakami | Why does PairDiff work? – A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection|
-| Oct 12th | 13:00-14:00 | 2.08 | [Takanori Maehara](http://www.prefield.com/) | TBA| 
+| Oct 12th | 13:00-14:00 | 2.08 | [Takanori Maehara](http://www.prefield.com/) | tochastic Probing with Prices| 
 | Nov 23rd | 10:00-11:00 | 2.08 | Nawal Almutri | Secure Third Party Data Clustering Using Φ Data: Multi-User Order Preserving Encryption and Super Secure Chain Distance Matrices |
+| Dec 7th | 11:00-12:00 | 2.08 | Thanh-Toan Do | TBA |
 
 
 
