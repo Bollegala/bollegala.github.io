@@ -11,6 +11,23 @@ title:     publications
 
 <h2>2018</h2>
 
+<li>Robert Bevan, Alessandro Torrisi, Katie Atkinson and Frans Coenen:
+  <strong>Efﬁcient and Effective Case Reject-Accept Filtering: A Study Using Machine Learning</strong>
+  Proc. of the 31st International Conference on Legal Knoweledge and Information Systems (JURIX), 
+  to appear, 2018.
+   <a href="../papers/jurix2018.pdf"><img src="../images/PDF.png" alt="jurix 2018" width="30" height ="10"></a>
+  <a href = "javascript:unhide('jurix-18');" class="bibtex"><img src="../images/bib.png" alt="jurix 2018" width="30" height ="10"></a>
+<div id = "jurix-18" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Beven:JURIX:2018,
+   author = {Robert Bevan and Alessandro Torrisi and Katie Atkinson and Frans Coenen},
+    title = {Efﬁcient and Effective Case Reject-Accept Filtering: A Study Using Machine Learning},
+  booktitle = {Proc. of the 31st International Conference on Legal Knoweledge and Information Systems (JURIX)},
+  pages = {xxx--xxx},
+  year = {2018}
+}
+</pre></div></li>
+
 <li>Huda Hakami, Kohei Hayashi and Danushka Bollegala:
   <strong>Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection </strong>Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 2493-2504, 2018.
   <a href="../papers/pairdiff.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
@@ -18,7 +35,7 @@ title:     publications
 <div id = "huda-coling-18" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Huda:COLING:2018,
-   author = {Danushka Bollegala and Kohei Hayashi and Danushka Bollegala},
+   author = {Huda Hakami and Kohei Hayashi and Danushka Bollegala},
     title = {Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection},
   booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
   pages = {2493--2504},
