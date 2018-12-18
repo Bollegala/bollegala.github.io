@@ -13,9 +13,10 @@ permalink: /index.html
 <div class="home">
 
 <p><img src="./images/danushka.jpg" align="left" width="148" height="208" vspace="4" hspace="15"/>
-          <div><h1 class="title"> Professor Danushka Bollegala</h1></div>
-        PhD (Information Science and Technology),<br />
+          <div><h1 class="title"> Danushka Bollegala</h1></div>
         <br/>
+        <br/>
+        Professor
         <br/>
         <a href="http://www.csc.liv.ac.uk/">
         Department of Computer Science,</a><br/>
@@ -37,7 +38,7 @@ permalink: /index.html
       </p>
 
   <p>  
-        I am Danushka Bollegala, a Professor in Natural Language Processing at the
+        I am Danushka Bollegala, Professor in Natural Language Processing at the
           <a href="http://www.liv.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liv.ac.uk/">The University of Liverpool</a>, United Kingdom. 
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
@@ -67,7 +68,7 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
-    <li>Four papers accepted to COLING-18 from Liverpool-NLP GroupK</li>
+    <li>Four papers accepted to COLING-18 from Liverpool-NLP Group</li>
     <li>Two papers accepted to NAACL-18 and another two accepted to *SEM. </li>
     <li>Cookpad cooking skill evaluation project is in <a href="https://www.insidermedia.com/insider/southwest/recipe-sharing-website-appoints-machine-learning-expert">news!</a></li>
   </ul>

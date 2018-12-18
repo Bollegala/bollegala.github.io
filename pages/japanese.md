@@ -14,7 +14,7 @@ permalink: /japanese/
 <p>
         <img src="../images/danushka.jpg" align="left" width="148" height="208" vspace="4" hspace="15"/>
           <div><h1 class="title"> ボレガラ　ダヌシカ</h1></div>
-        博士（情報理工学）英国リバープール大学　准教授<br/>
+        博士（情報理工学）英国リバープール大学　教授<br/>
         <br/>
         <a href="http://www.csc.liv.ac.uk/">
         Department of Computer Science,</a><br/>
@@ -35,7 +35,7 @@ permalink: /japanese/
  </div> 
   
 ボレガラ・ダヌシカは東京大学大学院情報理工学系研究科で博士課程を修了し，その後，東京大学大学院情報理工学系研究科
-電子情報学専攻の助教，講師を経て，現在，英国リバープール大学計算機科学科の准教授として
+電子情報学専攻の助教，講師を経て，現在，英国リバープール大学計算機科学科の教授として
 自然言語処理，ウェブ・データマイニング，人工知能と統計的機械学習分野の研究と教育活動を
 行っております．
 
