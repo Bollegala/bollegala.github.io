@@ -51,9 +51,13 @@ title:  CV
 <h2>Biography</h2>
 <div class="itemizedlist"><ul class="itemizedlist" type="disc"> 
 
+    <li class="listitem"><strong>Professor</strong>.<br/>
+    Department of Computer Science, University of Liverpool.<br/>
+    (December 2018 - Current) </li>
+
     <li class="listitem"><strong>Senior Lecturer (corresponds to US Associate Professor)</strong>.<br/>
     Department of Computer Science, University of Liverpool.<br/>
-    (August 2013 - Current) </li>
+    (August 2013 - December 2018) </li>
                                                       
     <li class="listitem"><strong>Assistant Professor</strong>.<br/>
     Graduate School of Information Science, The University of Tokyo.<br/>
