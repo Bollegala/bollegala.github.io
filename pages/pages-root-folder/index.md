@@ -13,9 +13,9 @@ permalink: /index.html
 <div class="home">
 
 <p><img src="./images/danushka.jpg" align="left" width="148" height="208" vspace="4" hspace="15"/>
-          <div><h1 class="title"> Danushka Bollegala</h1></div>
+          <div><h1 class="title"> Professor Danushka Bollegala</h1></div>
         PhD (Information Science and Technology),<br />
-         Senior Lecturer/Associate Professor<br/>
+        <br/>
         <br/>
         <a href="http://www.csc.liv.ac.uk/">
         Department of Computer Science,</a><br/>
@@ -37,14 +37,12 @@ permalink: /index.html
       </p>
 
   <p>  
-        I am Danushka Bollegala, a Senior Lecturer (Associate Professor) at the
+        I am Danushka Bollegala, a Professor in Natural Language Processing at the
           <a href="http://www.liv.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liv.ac.uk/">The University of Liverpool</a>, United Kingdom. 
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
 
           I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/">Data Mining and Machine Learning (DMML) Research Group </a> and the <a href="https://sites.google.com/site/nlpliverpool/">Natural Language Processing Group</a>.
-
-          I am also the undergraduate admissions tutor for the department of computer science.
 
           I am also a member of the <a href="http://www.liv.ac.uk/risk-and-uncertainty/">Institute for Risk and Uncertainty</a> of the University of Liverpool, and <a href="http://bigdata.nii.ac.jp/wp/english/">Global Research Center for Big Data Mathematics National Institute of Informatics (NII)</a>,
           and an associate member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
