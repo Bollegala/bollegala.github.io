@@ -31,7 +31,7 @@ If you would like to give a talk please contact Danushka.
 | Oct 12th | 13:00-14:00 | 2.08 | [Takanori Maehara](http://www.prefield.com/) | tochastic Probing with Prices| 
 | Nov 23rd | 10:00-11:00 | 2.08 | Nawal Almutri | Secure Third Party Data Clustering Using Φ Data: Multi-User Order Preserving Encryption and Super Secure Chain Distance Matrices |
 | Dec 7th | 11:00-12:00 | 2.08 | Thanh-Toan Do | An Upper Bound on the Triplet Loss for Deep Distance Metric Learning |
-| Jan 18th | 10:00-11:00 | 2.08 | Bakhtiar Amen | TBA |
+| Jan 18th | 10:00-11:00 | 2.08 | Bakhtiar Amen | Directed Acyclic Graph Model for Scalable Contextual Anomaly Event Stream Detection |
 | Feb 1st | 10:00-11:00 | 2.08 | Shagufta Scanlon | TBA |
 
 
