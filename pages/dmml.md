@@ -32,7 +32,7 @@ If you would like to give a talk please contact Danushka.
 | Nov 23rd | 10:00-11:00 | 2.08 | Nawal Almutri | Secure Third Party Data Clustering Using Φ Data: Multi-User Order Preserving Encryption and Super Secure Chain Distance Matrices |
 | Dec 7th | 11:00-12:00 | 2.08 | Thanh-Toan Do | An Upper Bound on the Triplet Loss for Deep Distance Metric Learning |
 | Jan 25th | 10:00-11:00 | 2.08 | Bakhtiar Amen | Directed Acyclic Graph Model for Scalable Contextual Anomaly Event Stream Detection |
-| Feb 1st | 10:00-11:00 | 2.08 | Shagufta Scanlon | TBA |
+| Feb 8st | 10:00-11:00 | 2.08 | Shagufta Scanlon | Research Trends and Challenges in Data Mining and Machine Learning for Big Data and Opportunities for Collaboration |
 
 
 
