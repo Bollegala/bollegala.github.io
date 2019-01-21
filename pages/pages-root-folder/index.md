@@ -46,9 +46,9 @@ permalink: /index.html
           I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/">Data Mining and Machine Learning (DMML) Research Group </a> and the <a href="https://sites.google.com/site/nlpliverpool/">Natural Language Processing Group</a>.
 
           I am also a member of the <a href="http://www.liv.ac.uk/risk-and-uncertainty/">Institute for Risk and Uncertainty</a> of the University of Liverpool, and <a href="http://bigdata.nii.ac.jp/wp/english/">Global Research Center for Big Data Mathematics National Institute of Informatics (NII)</a>,
-          and an associate member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
+          and a full-member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
           I hold visiting fellowships at <a href="http://www.sussex.ac.uk/informatics/">School of Informatics at University of Sussex</a> and <a href="http://www.nii.ac.jp/en/">National Institute of Informatics</a>.
-          I also senior fellow at <a href="https://cookpad.com/">Cookpad</a> and scientific advisor to <a href="https://www.lexsnap.com/">LexSnap</a>.
+          I am an <a href="https://www.amazon.jobs/en/landing_pages/scholars">Amazon Scholar</a> and a senior fellow at <a href="https://cookpad.com/">Cookpad</a>.
           <br/> <br/>
 
         My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning.
@@ -57,7 +57,7 @@ permalink: /index.html
         <br/>
         I have worked in a wide-range of problems in NLP see <a href="./research/">here</a> and 
         my <a href="./publications/">publications</a>.
-        I teach <a href="./lect/dm/">Data Mining</a>, a masters-level module.
+        I teach <a href="./lect/dm/">Data Mining and Visualisation (COMP 527)</a>, a masters-level module taught at the University of Liverpool.
         Details about my current/past students/post-docs are <a href="./members/">here</a>.
         I have experience in industrial collaborations in the form of startups, knowledge transfer partnerships
         and consultancies. If you are interested in collaborations please contact.
