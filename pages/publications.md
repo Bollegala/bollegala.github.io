@@ -9,9 +9,27 @@ title:     publications
 
 <ol reversed>
 
+<h2>2019</h2>
+
+<li>Shan Luo, Jet-Tsyn Lee and Danushka Bollegala:
+  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong>
+  Proc. of the IEEE International Conference on Robotics and Automation (ICRA), to appear, 2019. 
+  <a href="../papers/.pdf"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('icra-19');" class="bibtex"><img src="../images/bib.png" alt="icra 2019" width="30" height ="10"></a>
+<div id = "icra-19" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Luo:ICRA:2019,
+   author = {Shan Luo and Jet-Tsyn Lee and Danushka Bollegala},
+    title = {"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception},
+  booktitle = {Proc. of IEEE International Conference on Robotics and Automation (ICRA)},
+  pages = {XXX--XXX},
+  year = {2019}
+}
+</pre></div></li>
+
 <h2>2018</h2>
 
-<li>Robert Bevan, Alessandro Torrisi, Katie Atkinson and Frans Coenen:
+<li>Robert Bevan, Alessandro Torrisi, Danushka Bollegala, Katie Atkinson and Frans Coenen:
   <strong>Efﬁcient and Effective Case Reject-Accept Filtering: A Study Using Machine Learning</strong>
   Proc. of the 31st International Conference on Legal Knoweledge and Information Systems (JURIX), 
   pp. 171-175, 2018.
@@ -20,7 +38,7 @@ title:     publications
 <div id = "jurix-18" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Beven:JURIX:2018,
-   author = {Robert Bevan and Alessandro Torrisi and Katie Atkinson and Frans Coenen},
+   author = {Robert Bevan and Alessandro Torrisi and Danushka Bollegala and Katie Atkinson and Frans Coenen},
     title = {Efﬁcient and Effective Case Reject-Accept Filtering: A Study Using Machine Learning},
   booktitle = {Proc. of the 31st International Conference on Legal Knoweledge and Information Systems (JURIX)},
   pages = {171--175},
