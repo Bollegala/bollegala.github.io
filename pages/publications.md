@@ -14,6 +14,7 @@ title:     publications
 <li>Huda Hakami and Danushka Bollegala:
   <strong>Learning Relation Representations from Word Representations</strong>
   Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href="https://openreview.net/forum?id=r1e3WW5aTX"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
   <a href = "javascript:unhide('akbc-huda-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
 <div id = "akbc-huda-19" class="hidden">
 <pre style="text-align: left">
@@ -29,6 +30,7 @@ title:     publications
 <li>Mohammed Alsuhaibani, Takanori Maehara and Danushka Bollegala:
   <strong>Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy</strong>
   Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href="https://openreview.net/forum?id=S1xf-W5paX"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
   <a href = "javascript:unhide('akbc-mohammed-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
 <div id = "akbc-mohammed-19" class="hidden">
 <pre style="text-align: left">
@@ -44,6 +46,7 @@ title:     publications
 <li>Angrosh Mandya, Danushka Bollegala, Frans Coenen and Katie Atkinson:
   <strong>Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction</strong>
   Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href="https://openreview.net/forum?id=Sye0lZqp6Q"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
   <a href = "javascript:unhide('akbc-angrosh-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
 <div id = "akbc-angrosh-19" class="hidden">
 <pre style="text-align: left">
@@ -57,9 +60,9 @@ title:     publications
 </pre></div></li>
 
 <li>Shan Luo, Jet-Tsyn Lee and Danushka Bollegala:
-  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong><a href="https://arxiv.org/abs/1902.06273"><img src="../images/PDF.png" alt="akbc 2019" width="30" height ="10"></a>
+  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong>
   Proc. of the IEEE International Conference on Robotics and Automation (ICRA), to appear, 2019. 
-  <a href="../papers/.pdf"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
+  <a href="https://arxiv.org/abs/1902.06273"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('icra-19');" class="bibtex"><img src="../images/bib.png" alt="icra 2019" width="30" height ="10"></a>
 <div id = "icra-19" class="hidden">
 <pre style="text-align: left">
