@@ -11,8 +11,53 @@ title:     publications
 
 <h2>2019</h2>
 
+<li>Huda Hakami and Danushka Bollegala:
+  <strong>Learning Relation Representations from Word Representations</strong>
+  Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href = "javascript:unhide('akbc-huda-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
+<div id = "akbc-huda-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Hakami:AKBC:2019,    
+    title={Learning Relation Representations from Word Representations},    
+    author={Huda Hakami and Dansuhka Bollegala},    
+    booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
+    year={2019},    
+    url={https://openreview.net/forum?id=r1e3WW5aTX}   
+  }
+</pre></div></li>
+
+<li>Mohammed Alsuhaibani, Takanori Maehara and Danushka Bollegala:
+  <strong>Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy</strong>
+  Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href = "javascript:unhide('akbc-mohammed-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
+<div id = "akbc-mohammed-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Alsuhaibani:AKBC:2019,    
+    title={Joint Learning of Hierarchical Word Embeddings from a Corpus and a Taxonomy},    
+    author={Mohammed Alsuhaibani and Takanori Maehara and Dansuhka Bollegala},    
+    booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
+    year={2019},    
+    url={https://openreview.net/forum?id=S1xf-W5paX}   
+  }
+</pre></div></li>
+
+<li>Angrosh Mandya, Danushka Bollegala, Frans Coenen and Katie Atkinson:
+  <strong>Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction</strong>
+  Proc. of the Automatic Knowledge Base Construction Conference (AKBC), to appear, 2019.
+  <a href = "javascript:unhide('akbc-angrosh-19');" class="bibtex"><img src="../images/bib.png" alt="akbc 2019" width="30" height ="10"></a>
+<div id = "akbc-angrosh-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Angrosh:AKBC:2019,    
+    title={Combining Long Short Term Memory and Convolutional Neural Network for Cross-Sentence n-ary Relation Extraction},    
+    author={Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},    
+    booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
+    year={2019},    
+    url={https://openreview.net/forum?id=Sye0lZqp6Q}   
+  }
+</pre></div></li>
+
 <li>Shan Luo, Jet-Tsyn Lee and Danushka Bollegala:
-  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong>
+  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong><a href="https://arxiv.org/abs/1902.06273"><img src="../images/PDF.png" alt="akbc 2019" width="30" height ="10"></a>
   Proc. of the IEEE International Conference on Robotics and Automation (ICRA), to appear, 2019. 
   <a href="../papers/.pdf"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('icra-19');" class="bibtex"><img src="../images/bib.png" alt="icra 2019" width="30" height ="10"></a>
