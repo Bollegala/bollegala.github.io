@@ -8,37 +8,43 @@ def cosine(x, y):
 
 def main():
     X = np.array([[1, 1, 0], [2, 2, 0], [0, 0.01, 1], [0, 0.01, 1.1]], dtype=np.float)
-    print "Data Matrix"
-    print X
+    print("Data Matrix")
+    print(X)
 
     S = np.zeros((4,4), dtype=np.float)
     for i in range(4):
         for j in range(4):
             S[i,j] = cosine(X[i,:], X[j,:])
 
-    print "\nSimilarity Matrix"
-    print S
+    print("\nSimilarity Matrix")
+    print(S)
 
     D = np.zeros(4)
     for i in range(4):
         D[i] = np.sum(S[i,:])
 
-    print "Degree matrix"
+    print("Degree matrix")
     Dm = np.diag(D)
-    print Dm
+    print(Dm)
 
     Ds = np.sqrt(inv(Dm))
     L = np.dot(Ds, np.dot(S, Ds))
 
     e, A = eig(L)
 
-    print "\nEigenvalues"
-    print e
+    # sort the eigenvalues and corresponding eigenvectors in the ascending order
+    sortind = np.argsort(e)
+    e = e[sortind]
+    A = A[:, sortind]
 
-    print "\nEigenvectors"
-    print A
+    print("\nEigenvalues")
+    print(e)
 
-    print np.dot(L, A[:,2]) - (e[2] * A[:,2])
+    print("\nEigenvectors")
+    print(A)
+
+    # Check whether eigenvalue decomposition is correct.
+    print(norm(L @ A[:,2] - e[2] * A[:,2]))
     pass
 
 
