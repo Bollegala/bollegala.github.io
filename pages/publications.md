@@ -75,6 +75,27 @@ title:     publications
 }
 </pre></div></li>
 
+<li>Abdullah Alsheri, Frans Coenon and Danushka Bollegala:
+  <strong>Behavioural Biometric Continuous User Authentication Using Multivariate Keystroke Streams in the Spectral Domain</strong>
+  Knowledge Discovery, Knowledge Engineering and Knowledge Management
+   <a href = "javascript:unhide('abdullah-book-19');" class="bibtex"><img src="../images/bib.png" alt="Springer 2019" width="30" height ="10"></a>
+<div id = "abdullah-book-19" class="hidden">
+<pre style="text-align: left">
+@InProceedings{Abdullah:2019,
+  author={Alshehri, Abdullah and Coenen, Frans and Bollegala, Danushka},
+  editor={Fred, Ana and Aveiro, David and Dietz, Jan L. G. and Liu, Kecheng and Bernardino, Jorge and Salgado, Ana and Filipe, Joaquim},
+  title={Behavioural Biometric Continuous User Authentication Using Multivariate Keystroke Streams in the Spectral Domain},
+  booktitle={Knowledge Discovery, Knowledge Engineering and Knowledge Management},
+  year={2019},
+  publisher={Springer International Publishing},
+  address={Cham},
+  pages={43--66},
+  isbn={978-3-030-15640-4}
+}
+</pre></div></li>
+
+
+
 <h2>2018</h2>
 
 <li>Robert Bevan, Alessandro Torrisi, Danushka Bollegala, Katie Atkinson and Frans Coenen:
