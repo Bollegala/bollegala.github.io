@@ -62,7 +62,7 @@ Cross Domain Sentiment Analysis
  Here is the [source code](../data/SST.tgz) for the cross-domain sentiment
  classification method we proposed in our ACL 2011
  paper titled [Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus
- for Cross-Domain Sentiment Classification](../papers/danushka_ACL_2011.pdf).
+ for Cross-Domain Sentiment Classification](https://github.com/Bollegala/SST).
 
 Spectral RelAdapt
 --------------------------------------------
