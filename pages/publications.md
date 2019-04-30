@@ -14,6 +14,7 @@ title:     publications
 <li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
   <strong>Automated Bundle Pagination Using Machine Learning</strong>
   Proc. of the 17th International Conference on Artificial Intelligence and Law (ICAIL), June, 2019.
+  <a href="../papers/icail2019_torissi.pdf"><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('icail-19');" class="bibtex"><img src="../images/bib.png" alt="icail 2019" width="30" height ="10"></a>
 <div id = "icail-19" class="hidden">
 <pre style="text-align: left">
