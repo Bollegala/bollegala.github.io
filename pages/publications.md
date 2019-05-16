@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2019</h2>
 
+<li>Masahiro Kaneko and Danushka Bollegala:
+  <strong>Gender-preserving Debiasing for Pre-trained Word Embeddings</strong>
+  Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), July, 2019.
+  <!-- <a href=""><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a> -->
+   <a href = "javascript:unhide('acl-19');" class="bibtex"><img src="../images/bib.png" alt="acl 2019" width="30" height ="10"></a>
+<div id = "acl-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Kaneko:ACL:2019,    
+    title={Gender-preserving Debiasing for Pre-trained Word Embeddings},    
+    author={Masahiro Kaneko and Danushka Bollegala},    
+    booktitle={Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},    
+    year={2019} 
+  }
+</pre></div></li>
+
 <li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
   <strong>Automated Bundle Pagination Using Machine Learning</strong>
   Proc. of the 17th International Conference on Artificial Intelligence and Law (ICAIL), June, 2019.
