@@ -53,7 +53,7 @@ title:     publications
     author={Huda Hakami and Dansuhka Bollegala},    
     booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
     year={2019},    
-    url={https://openreview.net/forum?id=r1e3WW5aTX}   
+    url={https://openreview.net/forum?id=r1e3WW5aTX},   
   }
 </pre></div></li>
 
@@ -69,7 +69,7 @@ title:     publications
     author={Mohammed Alsuhaibani and Takanori Maehara and Dansuhka Bollegala},    
     booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
     year={2019},    
-    url={https://openreview.net/forum?id=S1xf-W5paX}   
+    url={https://openreview.net/forum?id=S1xf-W5paX},   
   }
 </pre></div></li>
 
@@ -85,7 +85,7 @@ title:     publications
     author={Angrosh Mandya and Danushka Bollegala and Frans Coenen and Katie Atkinson},    
     booktitle={Proc. of the Automated Knowledge Base Construction Conference},    
     year={2019},    
-    url={https://openreview.net/forum?id=Sye0lZqp6Q}   
+    url={https://openreview.net/forum?id=Sye0lZqp6Q},   
   }
 </pre></div></li>
 
