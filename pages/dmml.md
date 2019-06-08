@@ -35,7 +35,7 @@ If you would like to give a talk please contact Danushka.
 | April 4th | 13:00-14:00 | 2.08 | Misolav Torda | Evaluation of Information-Theoretic Measuresin Echo State Networks on the Edge of Stability |
 | May 9th | 13:00-14:00 | 2.08 | Xenofon Evangelopoulos | Circular object sequencing using bilevel optimization |
 | June 3rd | 10:00-11:00 | 2.08 | Zhengyao Jiang and Shan Luo |  Neural Logic Reinforcement Learning |
-| June 10th | 9:00-10:00 | 1.01 | Philip Smith | TBA |
+| TBA | TBA | TBA | Philip Smith | TBA |
 
 
 
