@@ -35,7 +35,9 @@ If you would like to give a talk please contact Danushka.
 | April 4th | 13:00-14:00 | 2.08 | Misolav Torda | Evaluation of Information-Theoretic Measuresin Echo State Networks on the Edge of Stability |
 | May 9th | 13:00-14:00 | 2.08 | Xenofon Evangelopoulos | Circular object sequencing using bilevel optimization |
 | June 3rd | 10:00-11:00 | 2.08 | Zhengyao Jiang and Shan Luo |  Neural Logic Reinforcement Learning |
-| TBA | TBA | TBA | Philip Smith | TBA |
+| June 26th | 11:00-12:00 | 2.08 | Xianbin Hong | Lifelong Machine Learning for Sentiment Classification |
+| July 4th | 11:00-12:00 | 2.08 | Gaojie Jin | Tracking Information Evolution of Hidden Representations for Neural Networks via Kernelised Vector Quantisation |
+| July 10th | 10:00-11:00 | 2.08 | Philip Smith | An introduction to persistent homology followed by a comparison of skeletonisation algorithms |
 
 
 
