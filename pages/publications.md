@@ -132,7 +132,7 @@ title:     publications
 </pre></div></li>
 
 <li>Shan Luo, Jet-Tsyn Lee and Danushka Bollegala:
-  <strong>"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception</strong>
+  <strong>"Touching to See" and "Seeing to Feel": Robotic Cross-modal Sensory Data Generation for Visual-Tactile Perception</strong>
   Proc. of the IEEE International Conference on Robotics and Automation (ICRA), May, 2019. 
   <a href="https://arxiv.org/abs/1902.06273"><img src="../images/PDF.png" alt="icra 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('icra-19');" class="bibtex"><img src="../images/bib.png" alt="icra 2019" width="30" height ="10"></a>
@@ -140,7 +140,7 @@ title:     publications
 <pre style="text-align: left">
 @inproceedings{Luo:ICRA:2019,
    author = {Shan Luo and Jet-Tsyn Lee and Danushka Bollegala},
-    title = {"Touching to See" and "Seeing to Feel": Robotic Cros-modal Sensory Data Generation for Visual-Tactile Perception},
+    title = {"Touching to See" and "Seeing to Feel": Robotic Cross-modal Sensory Data Generation for Visual-Tactile Perception},
   booktitle = {Proc. of IEEE International Conference on Robotics and Automation (ICRA)},
   pages = {XXX--XXX},
   year = {2019}
