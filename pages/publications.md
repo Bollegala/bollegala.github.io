@@ -14,7 +14,7 @@ title:     publications
 <li>Masahiro Kaneko and Danushka Bollegala:
   <strong>Gender-preserving Debiasing for Pre-trained Word Embeddings</strong>
   Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), July, 2019.
-  <!-- <a href=""><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a> -->
+  <a href="https://arxiv.org/abs/1906.00742"><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('acl-19');" class="bibtex"><img src="../images/bib.png" alt="acl 2019" width="30" height ="10"></a>
 <div id = "acl-19" class="hidden">
 <pre style="text-align: left">
@@ -25,6 +25,48 @@ title:     publications
     year={2019} 
   }
 </pre></div></li>
+
+<li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
+  <strong>Correcting Crowdsourced annotations to Improve Detection of Outcome types in Evidence Based Medicine</strong>
+  Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
+   <a href="../papers/abaho_kdh_2019.pdf"><img src="../images/PDF.png" alt="kdh 2019" width="30" height ="10"></a> 
+   <a href = "javascript:unhide('kdh-19a');" class="bibtex"><img src="../images/bib.png" alt="kdh 2019" width="30" height ="10"></a>
+<div id = "kdh-19a" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Abaho:KDH:2019,    
+    title={Correcting Crowdsourced annotations to Improve Detection of Outcome types in Evidence Based Medicine},    
+    author={Micheal Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},    
+    booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
+    year={2019} 
+  }
+
+  <li>James O'Neill, Danushka Bollegala, Peter Noble and Alan Radford:
+  <strong>Tick Parasitism Classification from Noisy Medical Records</strong>
+  Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
+   <a href="../papers/oneill_kdh_2019.pdf"><img src="../images/PDF.png" alt="kdh 2019" width="30" height ="10"></a> 
+   <a href = "javascript:unhide('kdh-19b');" class="bibtex"><img src="../images/bib.png" alt="kdh 2019" width="30" height ="10"></a>
+<div id = "kdh-19b" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{ONeill:KDH:2019,    
+    title={Tick Parasitism Classification from Noisy Medical Records},    
+    author={James O'Neill and Danushka Bollegala and Peter Noble and Alan Radford},    
+    booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
+    year={2019} 
+  }
+
+  <li>Robert Bevan, Alessandro Torrisi, Danushka Bollegala, Frans Coenen and Katie Atkinson:
+  <strong>Extracting Supporting Evidence from Medical Negligence Claim Texts</strong>
+  Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
+   <a href="../papers/bevan_kdh_2019.pdf"><img src="../images/PDF.png" alt="kdh 2019" width="30" height ="10"></a> 
+   <a href = "javascript:unhide('kdh-19c');" class="bibtex"><img src="../images/bib.png" alt="kdh 2019" width="30" height ="10"></a>
+<div id = "kdh-19c" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Abaho:KDH:2019,    
+    title={Extracting Supporting Evidence from Medical Negligence Claim Texts},    
+    author={Robert Bevan and Alessandro Torrisi and Danushka Bollegala and Frans Coenen and Katie Atkinson},    
+    booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
+    year={2019} 
+  }
 
 <li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
   <strong>Automated Bundle Pagination Using Machine Learning</strong>
