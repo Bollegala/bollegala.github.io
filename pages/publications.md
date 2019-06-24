@@ -63,7 +63,7 @@ title:     publications
    <a href = "javascript:unhide('kdh-19c');" class="bibtex"><img src="../images/bib.png" alt="kdh 2019" width="30" height ="10"></a>
 <div id = "kdh-19c" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Abaho:KDH:2019,    
+  @inproceedings{Bevan:KDH:2019,    
     title={Extracting Supporting Evidence from Medical Negligence Claim Texts},    
     author={Robert Bevan and Alessandro Torrisi and Danushka Bollegala and Frans Coenen and Katie Atkinson},    
     booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
