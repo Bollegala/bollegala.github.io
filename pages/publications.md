@@ -39,6 +39,7 @@ title:     publications
     booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
     year={2019} 
   }
+  </pre></div></li>
 
   <li>James O'Neill, Danushka Bollegala, Peter Noble and Alan Radford:
   <strong>Tick Parasitism Classification from Noisy Medical Records</strong>
@@ -53,6 +54,7 @@ title:     publications
     booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
     year={2019} 
   }
+  </pre></div></li>
 
   <li>Robert Bevan, Alessandro Torrisi, Danushka Bollegala, Frans Coenen and Katie Atkinson:
   <strong>Extracting Supporting Evidence from Medical Negligence Claim Texts</strong>
@@ -67,6 +69,7 @@ title:     publications
     booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
     year={2019} 
   }
+  </pre></div></li>
 
 <li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
   <strong>Automated Bundle Pagination Using Machine Learning</strong>
