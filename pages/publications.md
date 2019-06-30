@@ -26,6 +26,21 @@ title:     publications
   }
 </pre></div></li>
 
+<li>Yi Zhou and Danushka Bollegala:
+  <strong>Unsupervised Evaluation of Human Translation Quality</strong>
+  Proc. of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR), September, 2019.
+  <a href="../papers/kdir_zhou.pdf"><img src="../images/PDF.png" alt="kdir 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('kdir-19');" class="bibtex"><img src="../images/bib.png" alt="kdir 2019" width="30" height ="10"></a>
+<div id = "kdir-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Zhou:KDIR:2019,    
+    title={Unsupervised Evaluation of Human Translation Quality},    
+    author={Yi Zhou and Danushka Bollegala},    
+    booktitle={Proc. of the 11th International Conference on Knowledge Discovery and Information Retrieval (KDIR)},    
+    year={2019} 
+  }
+</pre></div></li>
+
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
   <strong>Correcting Crowdsourced annotations to Improve Detection of Outcome types in Evidence Based Medicine</strong>
   Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
