@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2019</h2>
 
+<li>Xia Cui and Danushka Bollegala:
+  <strong>Self-Adaptation for Unsupervised Domain Adaptation</strong>
+  Proc. of the Recent Advances in Natural Language Processing (RANLP), September, 2019.
+  <a href=""><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('ranlp-19');" class="bibtex"><img src="../images/bib.png" alt="ranlp 2019" width="30" height ="10"></a>
+<div id = "ranlp-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Cui:RANLP:2019,    
+    title={Self-Adaptation for Unsupervised Domain Adaptation},    
+    author={Xia Cui and Danushka Bollegala},    
+    booktitle={Proc. of the Recent Advances in Natural Language Processing (RANLP)},    
+    year={2019} 
+  }
+</pre></div></li>
+
 <li>Masahiro Kaneko and Danushka Bollegala:
   <strong>Gender-preserving Debiasing for Pre-trained Word Embeddings</strong>
   Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), July, 2019.
