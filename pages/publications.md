@@ -11,10 +11,70 @@ title:     publications
 
 <h2>2019</h2>
 
+<li>Wenye Chen, Huda Hakami and Danushka Bollegala:
+  <strong>Learning to Compose Relational Embeddings in Knowledge Graphs</strong>
+  Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
+  <a href="../papers/Chen_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('pacling-19-chen');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+<div id = "pacling-19-chen" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Chen:PACLING:2019,    
+    title={Learning to Compose Relational Embeddings in Knowledge Graphs},    
+    author={Wenye Chen and Huda Hakami and Danushka Bollegala},    
+    booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
+    year={2019} 
+  }
+</pre></div></li>
+
+<li>Huda Hakami and Danushka Bollegala:
+  <strong>Context-guided Self-Supervised Relation Embeddings</strong>
+  Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
+  <a href="../papers/Hakami_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('pacling-19-huda');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+<div id = "pacling-19-huda" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Huda:PACLING:2019,    
+    title={Context-guided Self-Supervised Relation Embeddings},    
+    author={Huda Hakami and Danushka Bollegala},    
+    booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
+    year={2019} 
+  }
+</pre></div></li>
+
+<li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
+  <strong>A Pilot Study on Argument Simplification in Stance-based Opinions</strong>
+  Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
+  <a href=""><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('pacling-19-pavithra');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+<div id = "pacling-19-pavithra" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Rajendran:PACLING:2019,    
+    title={A Pilot Study on Argument Simplification in Stance-based Opinions},    
+    author={Pavithra Rajendran and Danushka Bollegala and Simon Parsons},    
+    booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
+    year={2019} 
+  }
+</pre></div></li>
+
+<li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
+  <strong>Evaluating Co-reference Chains based Conversation History in Conversational Question Answering</strong>
+  Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
+  <a href="../papers/Mandya_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('pacling-19-mandya');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+<div id = "pacling-19-mandya" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Huda:PACLING:2019,    
+    title={Evaluating Co-reference Chains based Conversation History in Conversational Question Answering},    
+    author={Angrosh Mandya and Danushka Bollegala and Frans Coenon},    
+    booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
+    year={2019} 
+  }
+</pre></div></li>
+
 <li>Xia Cui and Danushka Bollegala:
   <strong>Self-Adaptation for Unsupervised Domain Adaptation</strong>
   Proc. of the Recent Advances in Natural Language Processing (RANLP), September, 2019.
-  <a href=""><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <a href="../papers/Cui_RANLP_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('ranlp-19');" class="bibtex"><img src="../images/bib.png" alt="ranlp 2019" width="30" height ="10"></a>
 <div id = "ranlp-19" class="hidden">
 <pre style="text-align: left">
