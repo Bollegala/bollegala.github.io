@@ -12,7 +12,7 @@ title:     publications
 <h2>2019</h2>
 
 <li>James O'Neill and Danushka Bollegala:
-  <strong>Learning to Evaluate Neural Language Models/strong>
+  <strong>Learning to Evaluate Neural Language Models</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href="../papers/ONeill_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-oneill');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
