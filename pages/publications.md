@@ -105,7 +105,7 @@ title:     publications
 <li>Masahiro Kaneko and Danushka Bollegala:
   <strong>Gender-preserving Debiasing for Pre-trained Word Embeddings</strong>
   Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), July, 2019.
-  <a href="https://arxiv.org/abs/1906.00742"><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a>
+  <a href="https://www.aclweb.org/anthology/P19-1160/"><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('acl-19');" class="bibtex"><img src="../images/bib.png" alt="acl 2019" width="30" height ="10"></a>
 <div id = "acl-19" class="hidden">
 <pre style="text-align: left">
