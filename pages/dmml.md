@@ -40,6 +40,8 @@ If you would like to give a talk please contact Danushka.
 | July 10th | 10:00-11:00 | 2.08 | Philip Smith | An introduction to persistent homology followed by a comparison of skeletonisation algorithms |
 | September 25th | 11:00-12:00 | 2.08 | Marco Siccardi | Computational modelling for the optimisation of pharmacological therapies and prediction of drug-drug interactions |
 | October 16th | 11:00-12:00 | EEE 5.07 | Nick New | Artificial Intelligence at the Speed of Light |
+| October 23rd | 11:00-12:00 | 2.08 | | Dean's visit to DMML |
+| November 6th | 11:00-12:00 | 2.08 | Vadera Sunil | Pruning Deep Neural Networks with Multi-Arm Bandits |
 
 
 
