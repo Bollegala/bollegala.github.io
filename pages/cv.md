@@ -51,9 +51,13 @@ title:  CV
 <h2>Biography</h2>
 <div class="itemizedlist"><ul class="itemizedlist" type="disc"> 
 
+    <li class="listitem"><strong>Amazon Scholar</strong>.<br/>
+    Amazon, Cambridge, UK.<br/>
+    (January 2019 - Current) </li>
+
     <li class="listitem"><strong>Professor</strong>.<br/>
     Department of Computer Science, University of Liverpool.<br/>
-    (December 2018 - Current) </li>
+    (October 2018 - Current) </li>
 
     <li class="listitem"><strong>Senior Lecturer (corresponds to US Associate Professor)</strong>.<br/>
     Department of Computer Science, University of Liverpool.<br/>
@@ -168,16 +172,17 @@ Funding
 
 Service Activities
 ====================
+* Area Chair: EMNLP 2019, Machine Learning.
+
 * Area Chair: COLING 2014, Information Extraction and Database Linking Track
 
 * Editor: Journal of the Japanese Society for Artificial Intelligence (2012-2015)
 
 * Conference Reviewer/Program Committee: 
-AAAI 2017, COLING 2016, AAAI 2016, NIPS 2015, NIPS 2014, ACL 2014, ACL 2013, EMNLP 2013, ECAI 2014, EACL 2014, NIPS 2013, NIPS 2012, NIPS 2011, GECCO 2014, GECCO 2013, GECCO 2012.
+ACL, EMNLP, COLING, IJCAI, AAAI, NeurIPS, GECCO, ICRA
 
 * Journal Reviewer: 
-Journal of Artificial Intelligence Research (JAIR), Information Processing and Managament Journal (Elsevier IPM), Journal of Web Semantics (JWEB) ACM Transactions on Asian Language Processing (TALIP),
-PLoS One.
+Journal of Artificial Intelligence Research (JAIR), Information Processing and Managament Journal (Elsevier IPM), Journal of Web Semantics (JWEB) ACM Transactions on Asian Language Processing (TALIP), PLoS One.
 
 
 Invited Talks
@@ -185,10 +190,18 @@ Invited Talks
 
 <div class="itemizedlist"><ol class="itemizedlist" type="disc">
 
-<li>Talk given at EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
+<li> Keynote at the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING) on 
+    <strong>   Overcoming the limitations in Lexical Representations via Meta-embedding Learning</strong></li>
+
+<li> Keynote at the 2018 National Human Resource Conference of the Institute of Personnel Management (IPM) Sri Lanka on
+    <strong>On Changing Human Resource Landscape in the Digital World</strong>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+    
+
+<li> EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
 <strong>Natural Language Processing for Healthcare Informatics.</strong></li>
 
-<li>Talk given at Scientific Computing Center at Hartree Supercomputing Center, Darsebury, UK. on <strong>Learning the Meanings of Words from Big Data.</strong></li>
+<li>Scientific Computing Center at Hartree Supercomputing Center, Darsebury, UK. on <strong>Learning the Meanings of Words from Big Data.</strong></li>
 
 <li>Invited talk on <strong>Big Data and IT Capabilities</strong>, Her Magesties Revenue and Customs (HMRC), Liverpool. (2016.07)</li>
 
