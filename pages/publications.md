@@ -14,7 +14,7 @@ title:     publications
 <li>James O'Neill and Danushka Bollegala:
   <strong>Learning to Evaluate Neural Language Models</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
-  <a href="../papers/ONeill_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <a href="../papers/ONeill_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019"  width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-oneill');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
 <div id = "pacling-19-oneill" class="hidden">
 <pre style="text-align: left">
@@ -31,8 +31,8 @@ title:     publications
   <strong>Learning to Compose Relational Embeddings in Knowledge Graphs</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href="../papers/Chen_PACLING_2019.pdf"><img src="../images/PDF.png"  width="30" height ="10"></a>
-  <a href="https://github.com/Bollegala/RelComp"><img src="../images/code.png" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-chen');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+   <a href="https://github.com/Bollegala/RelComp"><img src="../images/code.png" width="30" height ="10"></a>
 <div id = "pacling-19-chen" class="hidden">
 <pre style="text-align: left">
   @inproceedings{Chen:PACLING:2019,    
@@ -46,7 +46,7 @@ title:     publications
 <li>Huda Hakami and Danushka Bollegala:
   <strong>Context-guided Self-Supervised Relation Embeddings</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
-  <a href="../papers/Hakami_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <a href="../papers/Hakami_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-huda');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
 <div id = "pacling-19-huda" class="hidden">
 <pre style="text-align: left">
@@ -61,7 +61,7 @@ title:     publications
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
   <strong>A Pilot Study on Argument Simplification in Stance-based Opinions</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
-  <a href=""><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <a href=""><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-pavithra');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
 <div id = "pacling-19-pavithra" class="hidden">
 <pre style="text-align: left">
@@ -76,7 +76,7 @@ title:     publications
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
   <strong>Evaluating Co-reference Chains based Conversation History in Conversational Question Answering</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
-  <a href="../papers/Mandya_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <a href="../papers/Mandya_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-mandya');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
 <div id = "pacling-19-mandya" class="hidden">
 <pre style="text-align: left">
@@ -687,7 +687,7 @@ pages = {62--73}
 <strong>Learning Linear Transformations between Counting-based and Prediction-based Word Embeddings</strong>,
 PLoS ONE, Vol. 12, no. 9, pp. 1-21, 2017.
 <a href="../papers/LinearTrans.pdf"><img src="../images/PDF.png" alt="LinearTrans 2017" width="30" height ="10"></a>
-<a href = "javascript:unhide('lineartrans-17');" class="bibtex"><img src="../images/bib.png" alt="Linear Trans 2017" width="30" height ="10"></a> <a href="https://github.com/hayasick/LinearWordEmbed">code</a>
+<a href = "javascript:unhide('lineartrans-17');" class="bibtex"><img src="../images/bib.png" alt="Linear Trans 2017" width="30" height ="10"></a> <a href="https://github.com/hayasick/LinearWordEmbed"> <img src="../images/code.png" width="30" height ="10"> </a>
 <div id = "lineartrans-17" class="hidden">
 <pre style="text-align: left">
 @article{Bollegala:PLoS:2017,
@@ -969,7 +969,7 @@ Location = {Porto, Portugal}
 30th AAAI Conference on Artificial Intelligence (AAAI), pp. 2690-2696, Arizona, USA. (2016.2) 
 <a href="../papers/jointreps.pdf"><img src="../images/PDF.png" alt="AAAI 2016" width="30" height ="10"></a>
 <a href = "javascript:unhide('aaai16');" class="bibtex"><img src="../images/bib.png" alt="AAAI 2016" width="30" height ="10"></a>
-<a href="http://www.csc.liv.ac.uk/~suhaibani/jointreps/">[project page/code/embeddings]</a>
+<a href="http://www.csc.liv.ac.uk/~suhaibani/jointreps/"><img src="../images/code.png" width="30" height ="10"></a>
 <div id = "aaai16" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Bollegala:AAAI:2016,
@@ -1009,7 +1009,7 @@ Location = {Arizona, USA}
 Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing (IJCNLP), pp. 730-740, Beijing, China, July, 2015
 <a href="../papers/ACL_2015.pdf"><img src="../images/PDF.png" alt="ACL 2015" width="30" height ="10"></a>
 <a href = "javascript:unhide('acl15');" class="bibtex"><img src="../images/bib.png" alt="ACL 2015" width="30" height ="10"></a>
-<a href="https://github.com/Bollegala/DARep">[code]</a>
+<a href="https://github.com/Bollegala/DARep"> <img src="../images/code.png" width="30" height ="10"> </a>
 <div id = "acl15" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Bollegala:ACL:2015,
@@ -1027,7 +1027,7 @@ Location = {Beijing, China}
 International Joint Conferences on Artificial Intelligence (IJCAI 2015), pp. 1222-1228, Buenos Aires, Argentina, July, 2015.
 <a href="../papers/IJCAI_2015.pdf"><img src="../images/PDF.png" alt="IJCAI 2015" width="30" height ="10"></a>
 <a href = "javascript:unhide('ijcai15');" class="bibtex"><img src="../images/bib.png" alt="IJCAI 2015" width="30" height ="10"></a>
-<a href="https://github.com/Bollegala/relrep">[code]</a>
+<a href="https://github.com/Bollegala/relrep"> <img src="../images/code.png" width="30" height ="10"> </a>
 <div id = "ijcai15" class="hidden">
 <pre style="text-align: left">
 @inproceedings{Bollegala:IJCAI:2015,
@@ -1046,7 +1046,7 @@ Location = {Buenos Aires, Argentina}
        <img src="../images/PDF.png" alt="NSF" width="30" height="10"/></a>  
        <a href="http://dx.doi.org/10.1109/TKDE.2015.2475761">[DOI]</a>
        <a href="javascript:unhide('tkde15');" class="bibtex"><img src="../images/bib.png" alt="TKDE 2015" width="30" height ="10"></a>
-       <a href="https://github.com/Bollegala/SupEmb">[code]</a> 
+       <a href="https://github.com/Bollegala/SupEmb"> <img src="../images/code.png" width="30" height ="10"> </a> 
 <div id = "tkde15" class="hidden">
 <pre style="text-align: left">
 @article{Bollegala:TKDE:2015,
@@ -1197,7 +1197,7 @@ no = {2}
 Annual Conference of the Association for Computational Linguistics (ACL 2014), pp. 613-623,
 Baltimore, Maryland, USA. (2014.6)
 <a href="../papers/ACL_2014.pdf"><img src="../images/PDF.png" alt="ACL 2014" width="30" height ="10"></a>
-<a href="software.html">source code</a>
+<a href="software.html"> <img src="../images/code.png" width="30" height ="10"> </a>
 <a href = "javascript:unhide('acl14');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
 <div id = "acl14" class="hidden">
 <pre style="text-align: left">
