@@ -195,8 +195,8 @@ Invited Talks
 
 <li> Keynote at the 2018 National Human Resource Conference of the Institute of Personnel Management (IPM) Sri Lanka on
     <strong>On Changing Human Resource Landscape in the Digital World</strong>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-    
+    <iframe width="448" height="252" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+
 
 <li> EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
 <strong>Natural Language Processing for Healthcare Informatics.</strong></li>

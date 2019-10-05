@@ -1765,7 +1765,7 @@ Location = {New Orleans, USA},
 <strong>Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification</strong>,
 Proceedings of 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL/HLT 2011), pp. 132-141, Portland, Oregon, USA. (2011.6)
 <a href="../papers/danushka_ACL_2011.pdf" target="_top"><img src="../images/PDF.png" alt="NSF" width="30" height="10"/></a>
-<a href="../papers/ACL2011slides.pdf"><img src="../images/ppt.png" alt="NSF" width="30" height="10"/></a>
+<a href="../papers/ACL2011slides.pdf"><img src="../images/slides.png" alt="NSF" width="30" height="10"/></a>
 <a href = "javascript:unhide('acl11');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
 <div id = "acl11" class="hidden">
 <pre style="text-align: left">
@@ -2104,7 +2104,7 @@ Location = {Daegu, South Korea},
 <strong>Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web</strong>,
 Proceedings of the 19th International World Wide Web Conference (WWW 2010), pp. 151-160, North Carolina, USA. (2010.04)
 <a href="../papers/WWW2010.pdf" target="_top"><img src="../images/PDF.png" alt="WWW2010" width="30" height="10" /></a>
-<a href="../slides/WWW2010_slides.pdf"><img src="../images/ppt.png" alt="NSF" width="30" height="10"/></a>
+<a href="../slides/WWW2010_slides.pdf"><img src="../images/slides.png" alt="NSF" width="30" height="10"/></a>
 <a href = "javascript:unhide('www10');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
 <div id = "www10" class="hidden">
 <pre style="text-align: left">
@@ -2155,7 +2155,7 @@ Location = {Singapore},
 <li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
 <strong>Measuring the Similarity between Implicit Semantic Relations from the Web</strong>, Proceedings of the 18th International World Wide Web Conference (WWW 2009), pp. 651-660, Madrid, Spain (2009.04) 
 <a href="../papers/danu_www_2009.pdf" target="_top"> <img src="../images/PDF.png" alt="NSF" width="30" height="10"/></a>
-&nbsp;<a href="../slides/www_2009_slides.pdf"><img src="../images/ppt.png" alt="NSF" width="30" height="10"/></a>
+&nbsp;<a href="../slides/www_2009_slides.pdf"><img src="../images/slides.png" alt="NSF" width="30" height="10"/></a>
 <a href="http://videolectures.net/www09_bollegala_mtsisr/"><img src="../images/video.png" alt="NSF"  width="40" height="10" /></a>
 <a href = "javascript:unhide('www09');" class="bibtex"><img src="../images/bib.png" width="30" height ="10"></a>
 <div id = "www09" class="hidden">
