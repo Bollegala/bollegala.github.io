@@ -31,6 +31,7 @@ title:     publications
   <strong>Learning to Compose Relational Embeddings in Knowledge Graphs</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href="../papers/Chen_PACLING_2019.pdf"><img src="../images/PDF.png" alt="ranlp 2019" width="30" height ="10"></a>
+  <i class="fab fa-github"></i>
    <a href = "javascript:unhide('pacling-19-chen');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
 <div id = "pacling-19-chen" class="hidden">
 <pre style="text-align: left">
