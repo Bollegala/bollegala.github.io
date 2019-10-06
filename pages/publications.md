@@ -64,17 +64,16 @@ title:     publications
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
   <strong>A Pilot Study on Argument Simplification in Stance-based Opinions</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
-  <a href=""><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
+  <a href="../papers/Pavithra_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-pavithra');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href="../slides/Pavithra_PACLING_2019_slides.pdf"><img src="../images/slides.png" width="30" height="10"/></a>
 <div id = "pacling-19-pavithra" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Rajendran:PACLING:2019,    
-    title={A Pilot Study on Argument Simplification in Stance-based Opinions},    
-    author={Pavithra Rajendran and Danushka Bollegala and Simon Parsons},    
-    booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
-    year={2019} 
-  }
+@inproceedings{Pavithra:PACLING:2019,
+    Author = {Rajendran, Pavithra and Bollegala, Danushka and Parsons, Simon},
+    Booktitle = {Proc. of PACLING},
+    Title = {A Pilot Study on Argument Simplificatoin in Stance-based Opinions},
+    Year = {2019}}  }
 </pre></div></li>
 
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
