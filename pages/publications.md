@@ -49,6 +49,8 @@ title:     publications
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href="../papers/Hakami_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-huda');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+   <a href="../slides/Huda_PACLING_2019_slides.pdf"><img src="../images/slides.png" width="30" height="10"/></a>
+   <a href="https://github.com/Huda-Hakami/Context-Guided-Relation-Embeddings"><img src="../images/code.png" width="30" height ="10"></a>
 <div id = "pacling-19-huda" class="hidden">
 <pre style="text-align: left">
   @inproceedings{Huda:PACLING:2019,    
@@ -64,6 +66,7 @@ title:     publications
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href=""><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-pavithra');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+   <a href="../slides/Pavithra_PACLING_2019_slides.pdf"><img src="../images/slides.png" width="30" height="10"/></a>
 <div id = "pacling-19-pavithra" class="hidden">
 <pre style="text-align: left">
   @inproceedings{Rajendran:PACLING:2019,    
@@ -79,9 +82,10 @@ title:     publications
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
   <a href="../papers/Mandya_PACLING_2019.pdf"><img src="../images/PDF.png" alt="pacling 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('pacling-19-mandya');" class="bibtex"><img src="../images/bib.png" alt="pacling 2019" width="30" height ="10"></a>
+   <a href="../slides/Angrosh_PACLING_2019_slides.pdf"><img src="../images/slides.png" width="30" height="10"/></a>
 <div id = "pacling-19-mandya" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Huda:PACLING:2019,    
+  @inproceedings{Mandya:PACLING:2019,    
     title={Evaluating Co-reference Chains based Conversation History in Conversational Question Answering},    
     author={Angrosh Mandya and Danushka Bollegala and Frans Coenon},    
     booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
