@@ -73,7 +73,8 @@ title:     publications
     Author = {Rajendran, Pavithra and Bollegala, Danushka and Parsons, Simon},
     Booktitle = {Proc. of PACLING},
     Title = {A Pilot Study on Argument Simplificatoin in Stance-based Opinions},
-    Year = {2019}}  }
+    Year = {2019}
+}
 </pre></div></li>
 
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
