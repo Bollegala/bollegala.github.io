@@ -42,7 +42,7 @@ If you would like to give a talk please contact Danushka.
 | October 16th | 11:00-12:00 | EEE 5.07 | Nick New | Artificial Intelligence at the Speed of Light |
 | October 23rd | 11:00-12:00 | 2.08 | | Dean's visit to DMML |
 | November 6th | 11:00-12:00 | 2.08 | Vadera Sunil | Pruning Deep Neural Networks with Multi-Arm Bandits |
-| November 20th | 11:00-12:00 | 2.08 | Gautam Pal | Big Data Stream Processing and Iterative Learning |
+| November 20th | 11:00-12:00 | 1.01 | Gautam Pal | Big Data Stream Processing and Iterative Learning |
 | February 12th | 11:00-12:00 | 2.08 | Liam Brieley | TBD |
 
 
