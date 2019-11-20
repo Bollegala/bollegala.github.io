@@ -7,6 +7,10 @@ title:  CV
 
 <h2>My most recent CV is <a href="../CV/CV.pdf">here</a></h2>
 
+<h2> Short Bio </h2>
+Danushka Bollegala is a Professor in the Department of Computer Science, University of Liverpool, UK. He obtained his PhD from the University of Tokyo in 2009 and worked as an Assistant Professor before moving to the UK. He has worked on various problems related to Natural Language Processing and Machine Learning. He has received numerous awards for his research excellence such as the IEEE Young Author Award, best paper awards at GECCO and PRICAI. His research has been supported by various research council and industrial grants such as EU, DSTL, Innovate UK, JSPS, Google and MSRA. He is an Amazon Scholar.
+
+
 <h2>Education</h2>
 <div class="itemizedlist"><ul class="itemizedlist" type="disc">
                             
