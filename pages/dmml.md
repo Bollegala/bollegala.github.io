@@ -44,7 +44,7 @@ If you would like to give a talk please contact Danushka.
 | November 6th | 11:00-12:00 | 2.08 | Vadera Sunil | Pruning Deep Neural Networks with Multi-Arm Bandits |
 | November 20th | 11:00-12:00 | 1.01 | Gautam Pal | Big Data Stream Processing and Iterative Learning |
 | January 29th | 11:00-12:00 | 2.08 | Kay O'Halloran | TBD |
-| February 12th | 11:00-12:00 | 2.08 | Liam Brieley | TBD |
+| February 12th | 11:00-12:00 | 2.08 | Liam Brieley | Combining machine learning and genomic approaches to predict RNA virus emergence |
 
 
 
