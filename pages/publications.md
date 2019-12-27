@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2019</h2>
 
+<li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
+  <strong>Combining Textual and Visual Information for Typed and Handwritten Text Separation in Legal Documents</strong>
+  Proc. of the 32nd International Conference on Legal Knowledge and Information Systems (JURIX), December, 2019.
+  <a href="../papers/jurix2019_torissi.pdf"><img src="../images/PDF.png" alt="jurix 2019" width="30" height ="10"></a>
+   <a href = "javascript:unhide('jurix-19');" class="bibtex"><img src="../images/bib.png" alt="icail 2019" width="30" height ="10"></a>
+<div id = "jurix-19" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Torisi:JURIX:2019,    
+    title={Combining Textual and Visual Information for Typed and Handwritten Text Separation in Legal Documents},    
+    author={Alessandro Torrisi and Robert Bevan and Danushka Bollegala and Katie Atkinson and Frans Coenon},    
+    booktitle={Proc. of the 32nd International Conference on Legal Knowledge and Information Systems (JURIX)},    
+    year={2019} 
+  }
+</pre></div></li>
+
 <li>James O'Neill and Danushka Bollegala:
   <strong>Learning to Evaluate Neural Language Models</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
