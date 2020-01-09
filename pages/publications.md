@@ -22,7 +22,7 @@ title:     publications
     title={Combining Textual and Visual Information for Typed and Handwritten Text Separation in Legal Documents},    
     author={Alessandro Torrisi and Robert Bevan and Danushka Bollegala and Katie Atkinson and Frans Coenon},    
     booktitle={Proc. of the 32nd International Conference on Legal Knowledge and Information Systems (JURIX)},    
-    year={2019} 
+    year={2019}, 
   }
 </pre></div></li>
 
@@ -37,7 +37,7 @@ title:     publications
     title={Learning to Evaluate Neural Language Models},    
     author={James O'Neill and Danushka Bollegala},    
     booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
-    year={2019} 
+    year={2019}, 
   }
 </pre></div></li>
 
@@ -129,13 +129,16 @@ title:     publications
   <a href="https://www.aclweb.org/anthology/P19-1160/"><img src="../images/PDF.png" alt="icail 2019" width="30" height ="10"></a>
    <a href = "javascript:unhide('acl-19');" class="bibtex"><img src="../images/bib.png" alt="acl 2019" width="30" height ="10"></a>
 <div id = "acl-19" class="hidden">
-<pre style="text-align: left">
-  @inproceedings{Kaneko:ACL:2019,    
-    title={Gender-preserving Debiasing for Pre-trained Word Embeddings},    
-    author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle={Proc. of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},    
-    year={2019} 
-  }
+<pre style="text-align: left">  
+@inproceedings{kaneko-bollegala-2019-gender,
+    Address = {Florence, Italy},
+    Author = {Kaneko, Masahiro and Bollegala, Danushka},
+    Booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    Month = July,
+    Pages = {1641--1650},
+    Publisher = {Association for Computational Linguistics},
+    Title = {Gender-preserving Debiasing for Pre-trained Word Embeddings},
+    Year = {2019}}
 </pre></div></li>
 
 <li>Yi Zhou and Danushka Bollegala:
@@ -196,7 +199,7 @@ title:     publications
     title={Extracting Supporting Evidence from Medical Negligence Claim Texts},    
     author={Robert Bevan and Alessandro Torrisi and Danushka Bollegala and Frans Coenen and Katie Atkinson},    
     booktitle={Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence},    
-    year={2019} 
+    year={2019}, 
   }
   </pre></div></li>
 
