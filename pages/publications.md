@@ -9,6 +9,23 @@ title:     publications
 
 <ol reversed>
 
+<h2>2020</h2>
+
+<li>James O'Neill and Danushka Bollegala:
+  <strong>Meta-Embedding as Auxiliary Task Regularization</strong>
+  Proc. of the 24th European Conference on Artificial Intelligence (ECAI), June, 2020.
+  <a href="../papers/james-ecai-2020.pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('ecai-2020-oneill');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
+<div id = "ecai-2020-oneill" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{ONeill:ECAI:2020,    
+    title={Meta-Embedding as Auxiliary Task Regularization},    
+    author={James O'Neill and Danushka Bollegala},    
+    booktitle={Proc. of the 24th European Conference on Artificial Intelligence (ECAI)},    
+    year={2020}, 
+  }
+</pre></div></li>
+
 <h2>2019</h2>
 
 <li>Alessandro Torrisi, Robert Bevan, Danushka Bollegala, Katie Atkinson and Frans Coenon:
