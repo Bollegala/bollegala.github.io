@@ -69,6 +69,7 @@ permalink: /index.html
   <h3>News</h3>
   <ul>
     <li>Meta-Embedding as Auxiliary Task Regularization accepted to EACI-2020.</li>
+  </ul>
   </div>
 
   <div style="margin-left: 430px;"> 
