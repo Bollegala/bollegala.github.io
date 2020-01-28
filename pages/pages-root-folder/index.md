@@ -68,10 +68,7 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
-    <li>Four papers accepted to COLING-18 from Liverpool-NLP Group</li>
-    <li>Two papers accepted to NAACL-18 and another two accepted to *SEM. </li>
-    <li>Cookpad cooking skill evaluation project is in <a href="https://www.insidermedia.com/insider/southwest/recipe-sharing-website-appoints-machine-learning-expert">news!</a></li>
-  </ul>
+    <li>Meta-Embedding as Auxiliary Task Regularization accepted to EACI-2020.</li>
   </div>
 
   <div style="margin-left: 430px;"> 
