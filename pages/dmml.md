@@ -45,6 +45,7 @@ If you would like to give a talk please contact Danushka.
 | November 20th | 11:00-12:00 | 1.01 | Gautam Pal | Big Data Stream Processing and Iterative Learning |
 | January 29th | 11:00-12:00 | 2.08 | Kay O'Halloran | A Multimodal Approach to Data Analytics |
 | February 12th | 11:00-12:00 | 2.08 | Liam Brieley | Combining machine learning and genomic approaches to predict RNA virus emergence |
+| May 13th | 11:00-12:00 | TBD | Monab Elkaref (IBM) | Recursive LSTM Trees for Dependency Parsing |
 
 
 
