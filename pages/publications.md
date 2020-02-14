@@ -22,11 +22,24 @@ title:     publications
     title={Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction},    
     author={Danushka Bollegala and Ryuichi Kiryo and Kosuke Tsujino and Haruki Yukawa},    
     booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
-    year={2020}, 
+    year={2020}, Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering
   }
 </pre></div></li>
 
-
+<li>Angrosh Mandya, James O' Neill, Danushka Bollegala and Frans Coenen:
+  <strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong>
+  Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
+  <a href=".pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
+<div id = "lrec-2020-bollegala" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Mandya:LREC:2020,    
+    title={Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering},    
+    author={Angrosh Mandya and James O' Neill and Danushka Bollegala and Frans Coenen},    
+    booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
+    year={2020}, 
+  }
+</pre></div></li>
 
 <li>James O'Neill and Danushka Bollegala:
   <strong>Meta-Embedding as Auxiliary Task Regularization</strong>
