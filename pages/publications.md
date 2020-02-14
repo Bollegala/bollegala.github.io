@@ -11,6 +11,23 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Danushka Bollegala, Ryuichi Kiryo, Kosuke Tsujino and Haruki Yukawa:
+  <strong>Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction</strong>
+  Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
+  <a href=".pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
+<div id = "lrec-2020-bollegala" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Bollegala:LREC:2020,    
+    title={Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction},    
+    author={Danushka Bollegala and Ryuichi Kiryo and Kosuke Tsujino and Haruki Yukawa},    
+    booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
+    year={2020}, 
+  }
+</pre></div></li>
+
+
+
 <li>James O'Neill and Danushka Bollegala:
   <strong>Meta-Embedding as Auxiliary Task Regularization</strong>
   Proc. of the 24th European Conference on Artificial Intelligence (ECAI), June, 2020.
