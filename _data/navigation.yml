@@ -32,5 +32,11 @@
 - title: 日本語
   url: "/japanese/"
   side: left
+  
+- title: Blog
+  url: "/blog/"
+  side: left
+  
+  
 
 

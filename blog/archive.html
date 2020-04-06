@@ -1,10 +1,14 @@
 ---
-layout: blog
-title: "Blog Archive"
+layout: frontpage
+title: Blog Archive
 teaser: "Click on a headline to read the teaser."
 breadcrumb: true
+header: no
 ---
 <div id="blog-index" class="row">
+	
+	 {% include _sidebar.html %}
+
 	<div class="small-12 columns t30">
 		<h1>{{ page.title }}</h1>
 		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}

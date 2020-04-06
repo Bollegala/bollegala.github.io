@@ -85,10 +85,13 @@ Multi-document Summarization and its Evaluation
 
 <h2>職歴</h2>
 
+<li><strong>教授</strong><br/>
+英国リバープール大学計算機科学科<br/>
+(2019年10月 - 現在に至る)</li>
 
 <li><strong>准教授</strong><br/>
 英国リバープール大学計算機科学科<br/>
-2013年9月 - 現在)</li>
+(2013年9月 - 2019年10月)</li>
 
 <li><strong>講師</strong><br/>
 東京大学大学院情報理工学系研究科<br/>

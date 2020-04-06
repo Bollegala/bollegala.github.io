@@ -11,10 +11,26 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Masaru Isonuma, Junichiro Mori, Danushka Bollegala and Ichiro Sakata:
+  <strong>Tree-Structured Neural Topic Model</strong>
+  Proc. of the 20th Annual Conference of the Association for Computational Linguistics (ACL), July, 2020.
+   <!-- <a href=".pdf"><img src="../images/PDF.png" alt="acl 2020"  width="30" height ="10"></a> -->
+   <a href = "javascript:unhide('acl-2020-isonuma');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
+<div id = "acl-2020-isonuma" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Isonuma:ACL:2020,    
+    title={Tree-Structured Neural Topic Model},    
+    author={Masaru Isonuma and Junichiro Mori and Danushka Bollegala and Ichiro Sakata},    
+    booktitle={Proc. of the 20th Annual Conference of the Association for Computational Linguistics (ACL)},    
+    year={2020},
+  }
+</pre></div></li>
+
+
 <li>Danushka Bollegala, Ryuichi Kiryo, Kosuke Tsujino and Haruki Yukawa:
   <strong>Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction</strong>
   Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
-  <a href=".pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+  <a href="https://arxiv.org/abs/2002.11004"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "lrec-2020-bollegala" class="hidden">
 <pre style="text-align: left">
@@ -22,14 +38,14 @@ title:     publications
     title={Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction},    
     author={Danushka Bollegala and Ryuichi Kiryo and Kosuke Tsujino and Haruki Yukawa},    
     booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
-    year={2020}, Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering
+    year={2020}, 
   }
 </pre></div></li>
 
 <li>Angrosh Mandya, James O' Neill, Danushka Bollegala and Frans Coenen:
   <strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong>
   Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
-  <a href=".pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+  <a href="../papaers/mandya-lrec-2020.pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "lrec-2020-bollegala" class="hidden">
 <pre style="text-align: left">

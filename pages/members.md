@@ -5,23 +5,20 @@ header: no
 title:  Members
 ---
 
-<h4> To see the latest seminars, research talks etc. by the members please visit <a href="https://sites.google.com/site/nlpliverpool/home">here.</a> </h4>
+<h4> To see the latest seminars, research talks etc. by the members please visit <a href="https://sites.google.com/site/complingliv/home">here.</a> </h4>
 
 <h3> Post-Doctoral Research Associates </h3>
 <ul>
-<li> Alessandro Torrisi (working on Fletchers Digital Legal Assistant KTP Project) </li>
+
 <li> Angrosh Mandya (working on Pattern-based Information Extraction Project)</li>
 </ul>
 
 <h3> PhD Students </h3>
 <ul>
-<li> Pavithra Rajendran (working on Arugument Extraction from Natural Language Texts) </li>
-<li> Abdullah Alshehri (working on User Identification by Keystroke Patterns) </li>
-<li> Alsuhaibani Mohammed (working on Word Embedding Learning) </li>
 <li> Huda Hakami (working on Compositional Semantics) </li>
-<li> Xia Cui (working on Domain Adaptation) </li>
-<li> James O'Neill </li>
-<li> Micheal Abaho </li>
+<li> James O'Neill (working on Model compression)</li>
+<li> Yi Zhou (wordking on Sense embeddings)</li>
+<li> Micheal Abaho (working on Outcome detection)</li>
 </ul>
 
 <!--
@@ -32,6 +29,11 @@ title:  Members
 
 <h3> Past members </h3>
 <ul>
+<li> Xia Cui (working on Domain Adaptation) </li>
+<li> Alsuhaibani Mohammed (working on Word Embedding Learning) </li>
+<li> Abdullah Alshehri (working on User Identification by Keystroke Patterns) </li>
+<li> Pavithra Rajendran (working on Arugument Extraction from Natural Language Texts) </li>
+<li> Alessandro Torrisi (working on Fletchers Digital Legal Assistant KTP Project) </li>
 <li> Olga Isupova (working on Fletchers Digital Legal Assistant KTP Project) </li>
 <li> Richard Sloane (post-doc worked on <a href="http://web-radr.eu/">WEB-RADR</a>)</li>
 <li> Joanna Hajne  (post-doc worked on <a href="http://web-radr.eu/">WEB-RADR</a>)</li>

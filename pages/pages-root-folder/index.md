@@ -18,12 +18,12 @@ permalink: /index.html
         <br/>
         Professor
         <br/>
-        <a href="http://www.csc.liv.ac.uk/">
+        <a href="http://www.csc.liverpool.ac.uk/">
         Department of Computer Science,</a><br/>
         <!--
         <a href="http://www.liv.ac.uk/electrical-engineering-electronics-and-computer-science/">
           School of Electrical Engineering, Electronics, and Computer Science </a>,<br/>-->
-        <a href="http://www.liv.ac.uk/">
+        <a href="http://www.liverpool.ac.uk/">
           The University of Liverpool.</a><br/>
         <br/>
         <br/> 
@@ -39,7 +39,7 @@ permalink: /index.html
 
   <p>  
         I am Danushka Bollegala, Professor in Natural Language Processing at the
-          <a href="http://www.liv.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liv.ac.uk/">The University of Liverpool</a>, United Kingdom. 
+          <a href="http://www.liverpool.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liverpool.ac.uk/">The University of Liverpool</a>, United Kingdom. 
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
 
@@ -68,7 +68,11 @@ permalink: /index.html
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
-    <li>Meta-Embedding as Auxiliary Task Regularization accepted to EACI-2020.</li>
+    <li>We are <a href="https://www.amazon.jobs/en/jobs/1077216/senior-nlp-scientist">hiring</a> NLP scientists at Amazon, Berlin!</li>
+    <li><strong>Tree-Structured Neural Topic Model</strong> accepted to ACL-2020.</li> 
+    <li><strong>Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction</strong> accepted to LREC-2020.</li>
+    <li><strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong> accepted to LREC-2020.</li>
+    <li><strong>Meta-Embedding as Auxiliary</strong> Task Regularization accepted to EACI-2020.</li>
   </ul>
   </div>
 
