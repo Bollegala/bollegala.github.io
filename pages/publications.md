@@ -11,10 +11,26 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Xia Cui and Danushka Bollegala:
+  <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
+  arXiv pre-print, 2020.
+  <a href="https://arxiv.org/abs/2004.06608"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('xia-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "xia-2020" class="hidden">
+<pre style="text-align: left">
+  @misc{Cui:2020,    
+    title={Multi-source Attention for Unsupervised Domain Adaptation},    
+    author={Xia Cui and Danushka Bollegala},    
+    eprint={2004.06608},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}    
+    year={2020},
+  }
+</pre></div></li>
+
 <li>Masaru Isonuma, Junichiro Mori, Danushka Bollegala and Ichiro Sakata:
   <strong>Tree-Structured Neural Topic Model</strong>
   Proc. of the 20th Annual Conference of the Association for Computational Linguistics (ACL), July, 2020.
-   <!-- <a href=".pdf"><img src="../images/PDF.png" alt="acl 2020"  width="30" height ="10"></a> -->
    <a href = "javascript:unhide('acl-2020-isonuma');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "acl-2020-isonuma" class="hidden">
 <pre style="text-align: left">
