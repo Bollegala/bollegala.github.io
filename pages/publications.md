@@ -11,6 +11,24 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
+  <strong>Contextualised Graph Attention for Improved Relation Extraction</strong>
+  arXiv pre-print, 2020.
+  <a href="https://arxiv.org/abs/2004.10624"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('angrosh-cgat-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "angrosh-cgat-2020" class="hidden">
+<pre style="text-align: left">
+  @misc{Mandya:CGAT:2020,    
+    title={Contextualised Graph Attention for Improved Relation Extraction},    
+    author={Angrosh Mandya and Danushka Bollegala and Frans Coenon},    
+    eprint={2004.10624},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}    
+    year={2020},
+  }
+</pre></div></li>
+
+
 <li>Xia Cui and Danushka Bollegala:
   <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
   arXiv pre-print, 2020.
