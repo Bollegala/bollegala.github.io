@@ -24,7 +24,7 @@ title:     publications
     eprint={2004.10624},
     archivePrefix={arXiv},
     primaryClass={cs.CL}    
-    year={2020},
+    year={2020}
   }
 </pre></div></li>
 
@@ -42,7 +42,7 @@ title:     publications
     eprint={2004.06608},
     archivePrefix={arXiv},
     primaryClass={cs.CL}    
-    year={2020},
+    year={2020}
   }
 </pre></div></li>
 
@@ -56,7 +56,7 @@ title:     publications
     title={Tree-Structured Neural Topic Model},    
     author={Masaru Isonuma and Junichiro Mori and Danushka Bollegala and Ichiro Sakata},    
     booktitle={Proc. of the 20th Annual Conference of the Association for Computational Linguistics (ACL)},    
-    year={2020},
+    year={2020}
   }
 </pre></div></li>
 
@@ -72,7 +72,7 @@ title:     publications
     title={Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction},    
     author={Danushka Bollegala and Ryuichi Kiryo and Kosuke Tsujino and Haruki Yukawa},    
     booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
-    year={2020}, 
+    year={2020}
   }
 </pre></div></li>
 
@@ -87,7 +87,7 @@ title:     publications
     title={Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering},    
     author={Angrosh Mandya and James O' Neill and Danushka Bollegala and Frans Coenen},    
     booktitle={Proc. of the 12th International Conference on Language Resources and Evaluation (LREC)},    
-    year={2020}, 
+    year={2020}
   }
 </pre></div></li>
 
@@ -102,7 +102,7 @@ title:     publications
     title={Meta-Embedding as Auxiliary Task Regularization},    
     author={James O'Neill and Danushka Bollegala},    
     booktitle={Proc. of the 24th European Conference on Artificial Intelligence (ECAI)},    
-    year={2020}, 
+    year={2020}
   }
 </pre></div></li>
 
@@ -119,7 +119,7 @@ title:     publications
     title={Combining Textual and Visual Information for Typed and Handwritten Text Separation in Legal Documents},    
     author={Alessandro Torrisi and Robert Bevan and Danushka Bollegala and Katie Atkinson and Frans Coenon},    
     booktitle={Proc. of the 32nd International Conference on Legal Knowledge and Information Systems (JURIX)},    
-    year={2019}, 
+    year={2019}
   }
 </pre></div></li>
 
@@ -134,7 +134,7 @@ title:     publications
     title={Learning to Evaluate Neural Language Models},    
     author={James O'Neill and Danushka Bollegala},    
     booktitle={Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING)},    
-    year={2019}, 
+    year={2019}
   }
 </pre></div></li>
 
@@ -374,7 +374,7 @@ title:     publications
    author = {Shan Luo and Jet-Tsyn Lee and Danushka Bollegala},
     title = {"Touching to See" and "Seeing to Feel": Robotic Cross-modal Sensory Data Generation for Visual-Tactile Perception},
   booktitle = {Proc. of IEEE International Conference on Robotics and Automation (ICRA)},
-  pages = {XXX--XXX},
+  pages = {4276--4282},
   year = {2019}
 }
 </pre></div></li>
