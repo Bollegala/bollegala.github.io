@@ -255,6 +255,36 @@ title:     publications
   }
 </pre></div></li>
 
+<li>Thai-Hoang Pham, Khai Mai, Nguyen Minh Trung, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano  and Satoshi Sekine:
+  <strong>Multi-Task Learning with Contextualized Word Representations for Extended Named Entity Recognition</strong>
+  arXiv pre-print, 2019.
+  <a href="https://arxiv.org/abs/1902.10118"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('pham-2019');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "pham-2019" class="hidden">
+<pre style="text-align: left">
+  @article{DBLP:journals/corr/abs-1902-10118,
+  author    = {Thai{-}Hoang Pham and
+               Khai Mai and
+               Minh Trung Nguyen and
+               Nguyen Tuan Duc and
+               Danushka Bollegala and
+               Ryohei Sasano and
+               Satoshi Sekine},
+  title     = {Multi-Task Learning with Contextualized Word Representations for Extented
+               Named Entity Recognition},
+  journal   = {CoRR},
+  volume    = {abs/1902.10118},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.10118},
+  archivePrefix = {arXiv},
+  eprint    = {1902.10118},
+  timestamp = {Tue, 21 May 2019 18:03:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-10118.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+</pre></div></li>
+
+
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
   <strong>Correcting Crowdsourced annotations to Improve Detection of Outcome types in Evidence Based Medicine</strong>
   Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
