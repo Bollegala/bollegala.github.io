@@ -123,6 +123,23 @@ title:     publications
   }
 </pre></div></li>
 
+<li>Mikhail Fain, Andrey Ponikar, Ryan Fox and Danushka Bollegala:
+  <strong>Dividing and Conquering Cross-Modal Recipe Retrieval: from Nearest Neighbours Baselines to SoTA</strong>
+  arXiv, pre-print, November, 2019.
+  <a href="https://arxiv.org/abs/1911.12763"><img src="../images/PDF.png" alt="nnrr 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('nnrr');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
+<div id = "nnrr" class="hidden">
+<pre style="text-align: left">
+  @misc{fain2019dividing,
+    title={Dividing and Conquering Cross-Modal Recipe Retrieval: from Nearest Neighbours Baselines to SoTA},
+    author={Mikhail Fain and Andrey Ponikar and Ryan Fox and Danushka Bollegala},
+    year={2019},
+    eprint={1911.12763},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+</pre></div></li>
+
 <li>James O'Neill and Danushka Bollegala:
   <strong>Learning to Evaluate Neural Language Models</strong>
   Proc. of the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING), October, 2019.
@@ -255,36 +272,6 @@ title:     publications
   }
 </pre></div></li>
 
-<li>Thai-Hoang Pham, Khai Mai, Nguyen Minh Trung, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano  and Satoshi Sekine:
-  <strong>Multi-Task Learning with Contextualized Word Representations for Extended Named Entity Recognition</strong>
-  arXiv pre-print, 2019.
-  <a href="https://arxiv.org/abs/1902.10118"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
-   <a href = "javascript:unhide('pham-2019');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
-<div id = "pham-2019" class="hidden">
-<pre style="text-align: left">
-  @article{DBLP:journals/corr/abs-1902-10118,
-  author    = {Thai{-}Hoang Pham and
-               Khai Mai and
-               Minh Trung Nguyen and
-               Nguyen Tuan Duc and
-               Danushka Bollegala and
-               Ryohei Sasano and
-               Satoshi Sekine},
-  title     = {Multi-Task Learning with Contextualized Word Representations for Extented
-               Named Entity Recognition},
-  journal   = {CoRR},
-  volume    = {abs/1902.10118},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1902.10118},
-  archivePrefix = {arXiv},
-  eprint    = {1902.10118},
-  timestamp = {Tue, 21 May 2019 18:03:39 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-10118.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-</pre></div></li>
-
-
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
   <strong>Correcting Crowdsourced annotations to Improve Detection of Outcome types in Evidence Based Medicine</strong>
   Proc. of the 4th International Workshop on Knowledge Discovery in Healthcare Data (KDH) at the 28th International Joint Conference on Artificial Intelligence, August, 2019.
@@ -406,6 +393,35 @@ title:     publications
   booktitle = {Proc. of IEEE International Conference on Robotics and Automation (ICRA)},
   pages = {4276--4282},
   year = {2019}
+}
+</pre></div></li>
+
+<li>Thai-Hoang Pham, Khai Mai, Nguyen Minh Trung, Nguyen Tuan Duc, Danushka Bollegala, Ryohei Sasano  and Satoshi Sekine:
+  <strong>Multi-Task Learning with Contextualized Word Representations for Extended Named Entity Recognition</strong>
+  arXiv pre-print, 2019.
+  <a href="https://arxiv.org/abs/1902.10118"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('pham-2019');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "pham-2019" class="hidden">
+<pre style="text-align: left">
+  @article{DBLP:journals/corr/abs-1902-10118,
+  author    = {Thai{-}Hoang Pham and
+               Khai Mai and
+               Minh Trung Nguyen and
+               Nguyen Tuan Duc and
+               Danushka Bollegala and
+               Ryohei Sasano and
+               Satoshi Sekine},
+  title     = {Multi-Task Learning with Contextualized Word Representations for Extented
+               Named Entity Recognition},
+  journal   = {CoRR},
+  volume    = {abs/1902.10118},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.10118},
+  archivePrefix = {arXiv},
+  eprint    = {1902.10118},
+  timestamp = {Tue, 21 May 2019 18:03:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-10118.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 </pre></div></li>
 
