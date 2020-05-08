@@ -11,9 +11,26 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Asir Saeed, Khai Mai, Pham Minh, Nguyen Tuan Duc, Danushka Bollegala:
+  <strong>Weakly-Supervised Neural Response Selection from an Ensemble of Task-Specialised Dialogue Agents</strong>
+  arXiv pre-print, May, 2020.
+   <a href="https://arxiv.org/abs/2005.03066"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('nrs-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "nrs-2020" class="hidden">
+<pre style="text-align: left">
+ @misc{saeed2020weaklysupervised,
+    title={Weakly-Supervised Neural Response Selection from an Ensemble of Task-Specialised Dialogue Agents},
+    author={Asir Saeed and Khai Mai and Pham Minh and Nguyen Tuan Duc and Danushka Bollegala},
+    year={2020},
+    eprint={2005.03066},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+</pre></div></li>
+
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
   <strong>Contextualised Graph Attention for Improved Relation Extraction</strong>
-  arXiv pre-print, 2020.
+  arXiv pre-print, April, 2020.
   <a href="https://arxiv.org/abs/2004.10624"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('angrosh-cgat-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
 <div id = "angrosh-cgat-2020" class="hidden">
