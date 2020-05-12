@@ -96,7 +96,7 @@ title:     publications
 <li>Angrosh Mandya, James O' Neill, Danushka Bollegala and Frans Coenen:
   <strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong>
   Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
-  <a href="../papaers/mandya-lrec-2020.pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+  <a href="../papers/mandya-lrec-2020.pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "lrec-2020-bollegala" class="hidden">
 <pre style="text-align: left">
