@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Guanqun Cao, Yi Zhou, Danushka Bollegala, Shan Luo:
+  <strong> Spatio-temporal Attention Model for Tactile Texture Recognition Spatio-temporal Attention Model for Tactile Texture Recognition</strong>
+  <!-- <a href=""><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a> -->
+   <a href = "javascript:unhide('iros-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "iros-2020" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Cao:IROS:2020,
+	Author = {Cao, Guanqun and Zhou, Yi and Bollegala, Danushka and Luo., Shan},
+	Booktitle = {Proc. of the International Conference on Intelligent Robots and Systems (IROS)},
+	Title = {Spatio-temporal Attention Model for Tactile Texture Recognition Spatio-temporal Attention Model for Tactile Texture Recognition},
+	Year = {2020}
+  }
+</pre></div></li>
+
+
 <li>Asir Saeed, Khai Mai, Pham Minh, Nguyen Tuan Duc, Danushka Bollegala:
   <strong>Weakly-Supervised Neural Response Selection from an Ensemble of Task-Specialised Dialogue Agents</strong>
   arXiv pre-print, May, 2020.
