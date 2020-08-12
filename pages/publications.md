@@ -13,7 +13,7 @@ title:     publications
 
 <li>Guanqun Cao, Yi Zhou, Danushka Bollegala, Shan Luo:
   <strong> Spatio-temporal Attention Model for Tactile Texture Recognition Spatio-temporal Attention Model for Tactile Texture Recognition</strong>
-  <!-- <a href=""><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a> -->
+  <a href="https://arxiv.org/abs/2008.04442"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('iros-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
 <div id = "iros-2020" class="hidden">
 <pre style="text-align: left">
