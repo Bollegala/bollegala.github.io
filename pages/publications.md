@@ -11,8 +11,25 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Yash Khemchandani, Steve O'Hagan, Soumitra Samanta, Neil Swainston, Timothy J Roberts, Danushka Bollegala and Douglas Kell:
+  <strong>DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach</strong>
+Journal of Cheminformatics, 2020.
+<a href="https://europepmc.org/article/ppr/ppr194303"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+ <a href="https://doi.org/10.21203/rs.3.rs-32446/v2">DOI</a>
+  <a href = "javascript:unhide('chem-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "chem-2020" class="hidden">
+<pre style="text-align: left">
+@article{Khemchandani:2020,
+	Author = {Khemchandani, Yash and O'Hagan, Steve and Samanta, Soumitra and Swainston, Neil and Roberts, Timothy J and Bollegala, Danushka and Kell, Douglas},
+	Journal = {Journal of Cheminformatics},
+	Title = {DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach},
+	Year = {2020}}
+</pre></div></li>
+
+
 <li>Guanqun Cao, Yi Zhou, Danushka Bollegala, Shan Luo:
   <strong> Spatio-temporal Attention Model for Tactile Texture Recognition Spatio-temporal Attention Model for Tactile Texture Recognition</strong>
+  Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems, 2020.
   <a href="https://arxiv.org/abs/2008.04442"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('iros-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
 <div id = "iros-2020" class="hidden">
