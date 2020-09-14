@@ -11,6 +11,36 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Katie Atkinson, Trevor Bench-Capon and Danushka Bollegala:
+<strong> Explanation in AI and Law: Past, Present and Future</strong>
+Artificial Intelligence, 2020. (to appear)
+<a href = "javascript:unhide('atkinson-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "atkinson-2020" class="hidden">
+<pre style="text-align: left">
+  @article{Atkinson:AI:2020,    
+    title={Explanation in AI and Law: Past, Present and Future},    
+    author={Katie Atkinson and Trevor Bench-Capon and Danushka Bollegala},    
+    journal = {Artificial Intelligence},
+    year={2020}
+  }
+</pre></div></li>
+
+
+<li>Masahiro Kaneko and Danushka Bollegala:
+<strong>Autoencoding Improves Pre-trained Word Embeddings</strong>
+1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP), December, 2020.
+   <a href = "javascript:unhide('kaneko-ijcnlp-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-ijcnlp-2020" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Kaneko:IJCNLP:2020,    
+    title={Autoencoding Improves Pre-trained Word Embeddings},    
+    author={Masahiro Kaneko and Danushka Bollegala},    
+    booktitle = {Proc. of 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP)},  
+    year={2020}
+  }
+</pre></div></li>
+
+
 <li>Yash Khemchandani, Steve O'Hagan, Soumitra Samanta, Neil Swainston, Timothy J Roberts, Danushka Bollegala and Douglas Kell:
   <strong>DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach</strong>
 Journal of Cheminformatics, 2020.
@@ -78,6 +108,7 @@ Journal of Cheminformatics, 2020.
 </pre></div></li>
 
 
+<!-->
 <li>Xia Cui and Danushka Bollegala:
   <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
   arXiv pre-print, 2020.
@@ -91,6 +122,22 @@ Journal of Cheminformatics, 2020.
     eprint={2004.06608},
     archivePrefix={arXiv},
     primaryClass={cs.CL}    
+    year={2020}
+  }
+</pre></div></li>
+-->
+
+<li>Xia Cui and Danushka Bollegala:
+  <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
+  1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP), December, 2020.
+  <a href="https://arxiv.org/abs/2004.06608"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+   <a href = "javascript:unhide('xia-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
+<div id = "xia-2020" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Cui:2020,    
+    title={Multi-source Attention for Unsupervised Domain Adaptation},    
+    author={Xia Cui and Danushka Bollegala},    
+    booktitle = {Proc. of 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP)},  
     year={2020}
   }
 </pre></div></li>
