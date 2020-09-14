@@ -108,7 +108,7 @@ Journal of Cheminformatics, 2020.
 </pre></div></li>
 
 
-<!-->
+<!--
 <li>Xia Cui and Danushka Bollegala:
   <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
   arXiv pre-print, 2020.
