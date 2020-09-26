@@ -13,16 +13,18 @@ title:     publications
 
 <li>Katie Atkinson, Trevor Bench-Capon and Danushka Bollegala:
 <strong> Explanation in AI and Law: Past, Present and Future</strong>
-Artificial Intelligence, 2020. (to appear)
+Artificial Intelligence, Volume 289, December, 2020.
+<a href="https://doi.org/10.1016/j.artint.2020.103387"><img src="../images/PDF.png" alt="Atkinson 2020"  width="30" height ="10"></a>
 <a href = "javascript:unhide('atkinson-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "atkinson-2020" class="hidden">
 <pre style="text-align: left">
-  @article{Atkinson:AI:2020,    
-    title={Explanation in AI and Law: Past, Present and Future},    
-    author={Katie Atkinson and Trevor Bench-Capon and Danushka Bollegala},    
-    journal = {Artificial Intelligence},
-    year={2020}
-  }
+@article{ATKINSON:2020,
+	Author = {Atkinson, Katie and Bench-Capon, Trevor and Bollegala, Danushka},
+	Journal = {Artificial Intelligence},
+	Pages = {103387},
+	Title = {Explanation in AI and law: Past, present and future},
+	Volume = {289},
+	Year = {2020}}
 </pre></div></li>
 
 
