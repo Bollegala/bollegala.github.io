@@ -11,6 +11,34 @@ title:     publications
 
 <h2>2020</h2>
 
+<li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
+<strong>Graph Convolution over Multiple Dependency Sub-graphs for Relation Extraction</strong>
+28th International Conference on Computational Linguistics (COLING), December, 2020.
+   <a href = "javascript:unhide('mandya-coling-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "mandya-coling-2020" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Mandya:COLING:2020,    
+    title={Graph Convolution over Multiple Dependency Sub-graphs for Relation Extraction},    
+    author={Angrosh Mandya and Danushka Bollegala and Frans Coenon},    
+    booktitle = {Proc. of the 28th International Conference on Computational Linguistics (COLING)},  
+    year={2020}
+  }
+</pre></div></li>
+
+<li>Masahiro Kaneko and Danushka Bollegala:
+<strong>Autoencoding Improves Pre-trained Word Embeddings</strong>
+28th International Conference on Computational Linguistics (COLING), December, 2020.
+   <a href = "javascript:unhide('kaneko-coling-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-coling-2020" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Kaneko:COLING:2020,    
+    title={Autoencoding Improves Pre-trained Word Embeddings},    
+    author={Masahiro Kaneko and Danushka Bollegala},    
+    booktitle = {Proc. of the 28th International Conference on Computational Linguistics (COLING)},  
+    year={2020}
+  }
+</pre></div></li>
+
 <li>Katie Atkinson, Trevor Bench-Capon and Danushka Bollegala:
 <strong> Explanation in AI and Law: Past, Present and Future</strong>
 Artificial Intelligence, Volume 289, December, 2020.
@@ -25,21 +53,6 @@ Artificial Intelligence, Volume 289, December, 2020.
 	Title = {Explanation in AI and law: Past, present and future},
 	Volume = {289},
 	Year = {2020}}
-</pre></div></li>
-
-
-<li>Masahiro Kaneko and Danushka Bollegala:
-<strong>Autoencoding Improves Pre-trained Word Embeddings</strong>
-1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP), December, 2020.
-   <a href = "javascript:unhide('kaneko-ijcnlp-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
-<div id = "kaneko-ijcnlp-2020" class="hidden">
-<pre style="text-align: left">
-  @inproceedings{Kaneko:IJCNLP:2020,    
-    title={Autoencoding Improves Pre-trained Word Embeddings},    
-    author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle = {Proc. of 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP)},  
-    year={2020}
-  }
 </pre></div></li>
 
 
