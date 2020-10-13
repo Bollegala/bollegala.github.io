@@ -46,6 +46,8 @@ If you would like to give a talk please contact Danushka.
 | January 29th | 11:00-12:00 | 2.08 | Kay O'Halloran | A Multimodal Approach to Data Analytics |
 | February 12th | 11:00-12:00 | 2.08 | Liam Brieley | Combining machine learning and genomic approaches to predict RNA virus emergence |
 | May 13th | 11:00-12:00 | TBD | Monab Elkaref (IBM) | Recursive LSTM Trees for Dependency Parsing |
+| Nov 5th | 11:00-12:00 | TBD | Iqra Mohammed and Michael Abaho | The Application of  Machine Learning in Trials Methodology|
+| Nov 18th | 11:00-12:00 | TBD | David Hughes | Fast approximate inference for multivariate longitudinal data |
 
 
 
