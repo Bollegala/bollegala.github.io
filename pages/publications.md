@@ -145,7 +145,7 @@ Journal of Cheminformatics, 2020.
 <li>Xia Cui and Danushka Bollegala:
   <strong>Multi-source Attention for Unsupervised Domain Adaptation</strong>
   1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP), December, 2020.
-  <a href="https://arxiv.org/abs/2004.06608"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
+  <a href="https://www.aclweb.org/anthology/2020.aacl-main.87"><img src="../images/PDF.png" alt="xia 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('xia-2020');" class="bibtex"><img src="../images/bib.png" alt="xia 2020" width="30" height ="10"></a>
 <div id = "xia-2020" class="hidden">
 <pre style="text-align: left">
@@ -153,6 +153,7 @@ Journal of Cheminformatics, 2020.
     title={Multi-source Attention for Unsupervised Domain Adaptation},    
     author={Xia Cui and Danushka Bollegala},    
     booktitle = {Proc. of 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL) and the 10th International Joint Conference on Natural Language Processing (IJCNLP)},  
+    pages = {873--883},
     year={2020}
   }
 </pre></div></li>
@@ -160,6 +161,7 @@ Journal of Cheminformatics, 2020.
 <li>Masaru Isonuma, Junichiro Mori, Danushka Bollegala and Ichiro Sakata:
   <strong>Tree-Structured Neural Topic Model</strong>
   Proc. of the 20th Annual Conference of the Association for Computational Linguistics (ACL), July, 2020.
+  <a href="https://www.aclweb.org/anthology/2020.acl-main.73/"><img src="../images/PDF.png" width="30" height ="10"></a>
    <a href = "javascript:unhide('acl-2020-isonuma');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "acl-2020-isonuma" class="hidden">
 <pre style="text-align: left">
