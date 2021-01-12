@@ -43,7 +43,7 @@ title:     publications
 <strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
  <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
-<div id = "kaneko-eaclw-2021" class="hidden">
+<div id = "kaneko-eacl2-2021" class="hidden">
 <pre style="text-align: left">
   @inproceedings{Kaneko:EACL2:2021,    
     title={Dictionary-based Debiasing of Pre-trained Word Embeddings},    
