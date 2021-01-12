@@ -9,11 +9,57 @@ title:     publications
 
 <ol reversed>
 
+<h2>2021</h2>
+
+<li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi
+<strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>
+16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+ <a href = "javascript:unhide('bollegala-eacl-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-eacl-2021" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Bollegala:EACL:2021,    
+    title={RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding},    
+    author={Danushka Bollegala and Huda Hakami and Yuichi Yoshida and Ken-ichi Kawarabayashi},    
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    year={2021}
+  }
+</pre></div></li>
+
+<li>Masahiro Kaneko and Danushka Bollegala
+<strong>Debiasing Pre-trained Contextualised Embeddings</strong>
+16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+ <a href = "javascript:unhide('kaneko-eacl1-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-eacl1-2021" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Kaneko:EACL1:2021,    
+    title={Debiasing Pre-trained Contextualised Embeddings},    
+    author={Masahiro Kaneko and Danushka Bollegala},    
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    year={2021}
+  }
+</pre></div></li>
+
+<li>Masahiro Kaneko and Danushka Bollegala
+<strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>
+16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+ <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-eaclw-2021" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Kaneko:EACL2:2021,    
+    title={Dictionary-based Debiasing of Pre-trained Word Embeddings},    
+    author={Masahiro Kaneko and Danushka Bollegala},    
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    year={2021}
+  }
+</pre></div></li>
+
+
 <h2>2020</h2>
 
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
 <strong>Graph Convolution over Multiple Dependency Sub-graphs for Relation Extraction</strong>
 28th International Conference on Computational Linguistics (COLING), December, 2020.
+<a href="https://www.aclweb.org/anthology/2020.coling-main.565/"><img src="../images/PDF.png" alt="Mandya COLING 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('mandya-coling-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "mandya-coling-2020" class="hidden">
 <pre style="text-align: left">
@@ -28,6 +74,7 @@ title:     publications
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Autoencoding Improves Pre-trained Word Embeddings</strong>
 28th International Conference on Computational Linguistics (COLING), December, 2020.
+<a href="https://www.aclweb.org/anthology/2020.coling-main.149/"><img src="../images/PDF.png" alt="Kaneko COLING 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('kaneko-coling-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-coling-2020" class="hidden">
 <pre style="text-align: left">
