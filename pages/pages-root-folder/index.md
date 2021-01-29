@@ -43,7 +43,7 @@ permalink: /index.html
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
 
-          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/">Data Mining and Machine Learning (DMML) Research Group </a> and the <a href="https://sites.google.com/site/nlpliverpool/">Natural Language Processing Group</a>.
+          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/">Data Mining and Machine Learning (DMML) Research Group </a> and the <a href="https://sites.google.com/site/complingliv/home">Natural Language Processing Group</a>.
 
           I am also a member of the <a href="http://www.liv.ac.uk/risk-and-uncertainty/">Institute for Risk and Uncertainty</a> of the University of Liverpool, and <a href="http://bigdata.nii.ac.jp/wp/english/">Global Research Center for Big Data Mathematics National Institute of Informatics (NII)</a>,
           and a full-member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
