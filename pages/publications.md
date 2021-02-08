@@ -11,9 +11,10 @@ title:     publications
 
 <h2>2021</h2>
 
-<li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi
+<li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi:
 <strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+<a href="https://arxiv.org/abs/2101.10070"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('bollegala-eacl-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-eacl-2021" class="hidden">
 <pre style="text-align: left">
@@ -25,9 +26,10 @@ title:     publications
   }
 </pre></div></li>
 
-<li>Masahiro Kaneko and Danushka Bollegala
+<li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Debiasing Pre-trained Contextualised Embeddings</strong>
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+<a href="https://arxiv.org/abs/2101.09523"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl1-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl1-2021" class="hidden">
 <pre style="text-align: left">
@@ -39,9 +41,10 @@ title:     publications
   }
 </pre></div></li>
 
-<li>Masahiro Kaneko and Danushka Bollegala
+<li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+<a href="https://arxiv.org/abs/2101.09525"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl2-2021" class="hidden">
 <pre style="text-align: left">
@@ -100,6 +103,22 @@ Artificial Intelligence, Volume 289, December, 2020.
 	Title = {Explanation in AI and law: Past, present and future},
 	Volume = {289},
 	Year = {2020}}
+</pre></div></li>
+
+<li>Yi Zhou and Danushka Bollegala:
+<strong>Predicting the quality of translations without an oracle</strong>
+In Communications in Computer and Information Science, pages 3–23. Springer International Publishing, 2020.
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-66196-0_1"><img src="../images/PDF.png" alt="Zhou 2020"  width="30" height ="10"></a>
+<a href = "javascript:unhide('zhou-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "zhou-2020" class="hidden">
+<pre style="text-align: left">
+@incollection{Zhou_2020,
+	author = {Yi Zhou and Danushka Bollegala},
+	booktitle = {Communications in Computer and Information Science},
+	pages = {3--23},
+	publisher = {Springer International Publishing},
+	title = {Predicting the Quality of Translations Without an Oracle},
+	year = 2020}
 </pre></div></li>
 
 
