@@ -11,8 +11,22 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>James O'Neill and Danushka Bollegala:
+<strong>Semantically-Conditioned Negative Samples for Efficient Contrastive Learning</strong>,
+arXiv preprint, 2021.
+<a href="https://arxiv.org/abs/2102.06603"><img src="../images/PDF.png" width="30" height ="10"></a>
+ <a href = "javascript:unhide('oneill-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "oneill-2021" class="hidden">
+<pre style="text-align: left">
+@misc{2102.06603,
+	author = {James O' Neill and Danushka Bollegala},
+	title = {{S}emantically-{C}onditioned {N}egative {S}amples for {E}fficient {C}ontrastive {L}earning},
+	year = {2021}}
+</pre></div></li>
+
+
 <li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi:
-<strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>
+<strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>,
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.10070"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('bollegala-eacl-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
@@ -27,7 +41,7 @@ title:     publications
 </pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
-<strong>Debiasing Pre-trained Contextualised Embeddings</strong>
+<strong>Debiasing Pre-trained Contextualised Embeddings</strong>,
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.09523"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl1-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
@@ -42,7 +56,7 @@ title:     publications
 </pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
-<strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>
+<strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>,
 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.09525"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
