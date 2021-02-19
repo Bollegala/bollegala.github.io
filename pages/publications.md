@@ -27,7 +27,7 @@ arXiv preprint, 2021.
 
 <li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi:
 <strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>,
-16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.10070"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('bollegala-eacl-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-eacl-2021" class="hidden">
@@ -42,7 +42,7 @@ arXiv preprint, 2021.
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Debiasing Pre-trained Contextualised Embeddings</strong>,
-16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.09523"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl1-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl1-2021" class="hidden">
@@ -57,7 +57,7 @@ arXiv preprint, 2021.
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>,
-16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
+Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
 <a href="https://arxiv.org/abs/2101.09525"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl2-2021" class="hidden">
@@ -70,12 +70,27 @@ arXiv preprint, 2021.
   }
 </pre></div></li>
 
+<li>Atsumu Harada, Danushka Bollegala and Naiwala P. Chandrasiri:
+<strong>Discrimination of Human-Written and Human and Machine-written Sentences using Text Consistency</strong>,
+Proc. of IEEE International Conference on Computing, Communication, and Intelligent Systems (ICCCIS), February, 2021.
+<a href="../papers/harada-2021.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+ <a href = "javascript:unhide('harada-icccis-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "harada-icccis-2021" class="hidden">
+<pre style="text-align: left">  
+@inproceedings{Harada:ICCCIS:2021,
+	author = {Atsumu Harada and Danushka Bollegala and Naiwala P. Chandrasiri},
+	booktitle = {Proc. of IEEE International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)},
+	title = {Discrimination of Human-Written and Human and Machine-written Sentences using Text Consistency},
+	year = {2021}}
+</pre></div></li>
+
+
 
 <h2>2020</h2>
 
 <li>Angrosh Mandya, Danushka Bollegala and Frans Coenon:
 <strong>Graph Convolution over Multiple Dependency Sub-graphs for Relation Extraction</strong>
-28th International Conference on Computational Linguistics (COLING), December, 2020.
+Proc. of the 28th International Conference on Computational Linguistics (COLING), December, 2020.
 <a href="https://www.aclweb.org/anthology/2020.coling-main.565/"><img src="../images/PDF.png" alt="Mandya COLING 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('mandya-coling-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "mandya-coling-2020" class="hidden">
