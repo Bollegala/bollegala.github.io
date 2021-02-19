@@ -20,7 +20,7 @@ arXiv preprint, 2021.
 <pre style="text-align: left">
 @misc{2102.06603,
 	author = {James O' Neill and Danushka Bollegala},
-	title = {{S}emantically-{C}onditioned {N}egative {S}amples for {E}fficient {C}ontrastive {L}earning},
+	title = {Semantically-Conditioned Negative Samples for Efficient Contrastive Learning},
 	year = {2021}}
 </pre></div></li>
 
