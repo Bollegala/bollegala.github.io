@@ -11,6 +11,36 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>Mikhail Fain, Niall Twomey and Danushka Bollegala:
+<strong>Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora</strong>, to appear at the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Online, July, 2021.
+<a href = "javascript:unhide('fain-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "fain-2021" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Fain:SIGIR:2021,
+  author={Mikhail Fain and Niall Twomey and Danushka Bollegala},
+  title={Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora},
+  booktitle={Proc. of 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
+  year={2021}}
+</pre></div></li>
+
+<li>Masahiro Kaneko and Danushka Bollegala:
+<strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
+arXiv preprint, 2021.
+<a href="https://arxiv.org/abs/2104.07496"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-AUL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-AUL" class="hidden">
+<pre style="text-align: left">
+@misc{kaneko2021unmasking,
+      title={Unmasking the Mask -- Evaluating Social Biases in Masked Language Models}, 
+      author={Masahiro Kaneko and Danushka Bollegala},
+      year={2021},
+      eprint={2104.07496},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre></div></li>
+
+
 <li>James O'Neill and Danushka Bollegala:
 <strong>Semantically-Conditioned Negative Samples for Efficient Contrastive Learning</strong>,
 arXiv preprint, 2021.
