@@ -13,6 +13,7 @@ title:     publications
 
 <li>Mikhail Fain, Niall Twomey and Danushka Bollegala:
 <strong>Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora</strong>, to appear at the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Online, July, 2021.
+<a href="https://arxiv.org/abs/2105.04971"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('fain-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "fain-2021" class="hidden">
 <pre style="text-align: left">
@@ -21,6 +22,22 @@ title:     publications
   title={Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora},
   booktitle={Proc. of 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
   year={2021}}
+</pre></div></li>
+
+<li>Michael Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
+<strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong>, arXiv preprint, 2021.
+<a href="https://arxiv.org/abs/2104.07789"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Abaho-joint');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Abaho-joint" class="hidden">
+<pre style="text-align: left">
+@misc{abaho2021detect,
+      title={Detect and Classify -- Joint Span Detection and Classification for Health Outcomes}, 
+      author={Michael Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
+      year={2021},
+      eprint={2104.07789},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 </pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
