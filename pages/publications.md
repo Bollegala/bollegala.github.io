@@ -11,8 +11,22 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>Masaru Isonuma, Danushka Bollegala, Junichiro Mori and Ichiro Sakata:
+<strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Accepted to the Transactions of the Association for Computational Linguistics (TACL), 2021.
+<!-- <a href="https://arxiv.org/abs/2105.04971"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('isonuma-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "isonuma-2021" class="hidden">
+<pre style="text-align: left">
+@article{Isonuma:TACL:2021,
+  author={Masaru Isonuma and Danushka Bollegala and Junichiro Mori and Ichiro Sakata},
+  title={Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance},
+  journal={Transactions of the Association for Computational Linguistics (TACL)},
+  year={2021}}
+</pre></div></li>
+
+
 <li>Mikhail Fain, Niall Twomey and Danushka Bollegala:
-<strong>Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora</strong>, to appear at the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Online, July, 2021.
+<strong>Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora</strong>, Proc. of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Online, July, 2021.
 <a href="https://arxiv.org/abs/2105.04971"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('fain-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "fain-2021" class="hidden">
@@ -57,6 +71,21 @@ arXiv preprint, 2021.
 }
 </pre></div></li>
 
+<li>Iqra Muhammad, Frans Coenon and Danushka Bollegala:
+<strong>Document Ranking for Curated Document Databases using BERT and Knowledge Graph Embeddings: Introducing GRAB-Rank</strong>, Proc. of the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DAWAK), September, 2021.
+<!-- <a href="https://arxiv.org/abs/2101.09523"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+ <a href = "javascript:unhide('iqra-dawak-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "iqra-dawak-2021" class="hidden">
+<pre style="text-align: left">
+  @inproceedings{Muhammead:DAWAK:2021,    
+    title={Document Ranking for Curated Document Databases using BERT and Knowledge Graph Embeddings: Introducing GRAB-Rank},    
+    author={Iqra Muhammad and Frans Coenon and Danushka Bollegala},    
+    booktitle = {Proc. of the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DAWAK)},
+    year={2021}
+  }
+</pre></div></li>
+
+
 
 <li>James O'Neill and Danushka Bollegala:
 <strong>Semantically-Conditioned Negative Samples for Efficient Contrastive Learning</strong>,
@@ -82,7 +111,7 @@ Proc. of the 16th Conference of the European Chapter of the Association for Comp
   @inproceedings{Bollegala:EACL:2021,    
     title={RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding},    
     author={Danushka Bollegala and Huda Hakami and Yuichi Yoshida and Ken-ichi Kawarabayashi},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
     year={2021}
   }
 </pre></div></li>
@@ -97,7 +126,7 @@ Proc. of the 16th Conference of the European Chapter of the Association for Comp
   @inproceedings{Kaneko:EACL1:2021,    
     title={Debiasing Pre-trained Contextualised Embeddings},    
     author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
     year={2021}
   }
 </pre></div></li>
@@ -112,10 +141,13 @@ Proc. of the 16th Conference of the European Chapter of the Association for Comp
   @inproceedings{Kaneko:EACL2:2021,    
     title={Dictionary-based Debiasing of Pre-trained Word Embeddings},    
     author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL},  
+    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
     year={2021}
   }
 </pre></div></li>
+
+
+
 
 <li>Atsumu Harada, Danushka Bollegala and Naiwala P. Chandrasiri:
 <strong>Discrimination of Human-Written and Human and Machine-written Sentences using Text Consistency</strong>,
