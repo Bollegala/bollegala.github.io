@@ -1030,7 +1030,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, pp. 5037-5044, New Orleans, Louisiana, USA, 2018.
-<a href="https://aclanthology.org/2020.lrec-1.475/"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/12010"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
 <a href="https://arxiv.org/abs/1709.01199">see arXiv version of the proofs</a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
