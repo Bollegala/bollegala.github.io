@@ -351,7 +351,7 @@ Journal of Cheminformatics, 2020.
 <li>Danushka Bollegala, Ryuichi Kiryo, Kosuke Tsujino and Haruki Yukawa:
   <strong>Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction</strong>
   Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
-  <a href="https://arxiv.org/abs/2002.11004"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+  <a href="https://aclanthology.org/2020.lrec-1.475/"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "lrec-2020-bollegala" class="hidden">
 <pre style="text-align: left">
@@ -366,7 +366,7 @@ Journal of Cheminformatics, 2020.
 <li>Angrosh Mandya, James O' Neill, Danushka Bollegala and Frans Coenen:
   <strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong>
   Proc. of the 12th International Conference on Language Resources and Evaluation (LREC), May, 2020.
-  <a href="../papers/mandya-lrec-2020.pdf"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
+  <a href="https://aclanthology.org/2020.lrec-1.248/"><img src="../images/PDF.png" alt="ecai 2020"  width="30" height ="10"></a>
    <a href = "javascript:unhide('lrec-2020-bollegala');" class="bibtex"><img src="../images/bib.png" alt="ecai 2020" width="30" height ="10"></a>
 <div id = "lrec-2020-bollegala" class="hidden">
 <pre style="text-align: left">
@@ -968,7 +968,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
 <strong>Joint Learning of Sense and Word Embeddings</strong>, Proc. of the 11-th edition of the Language Resources and Evaluation Conference, 7-12, pp. 1-7, Miyazaki, Japan, May, 2018.
-<a href="../papers/Mohammed_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
+<a href="https://aclanthology.org/L18-1033/"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18a');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18a" class="hidden">
 <pre style="text-align: left">
@@ -988,7 +988,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 
 <li>Pavithra Rajendran, Danushka Bollegala and Simon Parsons:
 <strong>Sentiment-Stance-Specificity (SSS) Dataset: Identifying Support-based Entailment among Opinions</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, pp. 1-7, 7-12, Miyazaki, Japan, May, 2018.
-<a href="../papers/Pavithra_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
+<a href="https://aclanthology.org/L18-1099/"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18b');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18b" class="hidden">
 <pre style="text-align: left">
@@ -1009,7 +1009,7 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 
 <li>Angrosh Mandya, Danushka Bollegala, Frans Coenen and Katie Atkinson:
 <strong>A Dataset for Inter-Sentence Relation Extraction using Distant Supervision</strong>, to appear in the Proc. of the 11-th edition of the Language Resources and Evaluation Conference, pp. 1-7, 7-12, Miyazaki, Japan, May, 2018.
-<a href="../papers/Angrosh_LREC_2018.pdf"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
+<a href="https://aclanthology.org/L18-1246/"><img src="../images/PDF.png" alt="Mohammed LREC 2018" width="30" height ="10"></a>
 <a href = "javascript:unhide('lrec-18c');" class="bibtex"><img src="../images/bib.png" alt="LREC 2018" width="30" height ="10"></a>
 <div id = "lrec-18c" class="hidden">
 <pre style="text-align: left">
@@ -1030,7 +1030,8 @@ KI - Künstliche Intelligenz, Vol. 32, No. 1, pp. 1-13, 2018.
 
 <li>Danushka Bollegala, Yuichi Yoshida, and Ken-ichi Kawarabayashi:
 <strong>Using k-way Co-occurrences for Learning Word Embeddings</strong>, Proc. of the 32-nd AAAI Conference on Artificial Intelligence, pp. 5037-5044, New Orleans, Louisiana, USA, 2018.
-<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17172/16784"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2020.lrec-1.475/"><img src="../images/PDF.png" alt="k-way 2017" width="30" height ="10"></a>
+<a href="https://arxiv.org/abs/1709.01199">see arXiv version of the proofs</a>
 <a href = "javascript:unhide('k-way-17');" class="bibtex"><img src="../images/bib.png" alt="k-way 2017" width="30" height ="10"></a>
 <div id = "k-way-17" class="hidden">
 <pre style="text-align: left">
