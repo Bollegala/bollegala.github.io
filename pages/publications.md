@@ -54,6 +54,23 @@ title:     publications
 }
 </pre></div></li>
 
+<li>James O'Neill, Polina Rozenshtein, Ryuichi Kiryo, Motoko Kubota and Danushka Bollegala:
+<strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong>, arXiv preprint, 2021.
+<a href ="https://arxiv.org/abs/2104.06893"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('cfd-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "cfd-2021" class="hidden">
+<pre style="text-align: left">
+@misc{ONeill:CFD:2021,
+      title={I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews}, 
+      author={James O'Neill and Polina Rozenshtein and Ryuichi Kiryo and Motoko Kubota and Danushka Bollegala},
+      year={2021},
+      eprint={2104.06893},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre></div></li>
+
+
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
 arXiv preprint, 2021.
