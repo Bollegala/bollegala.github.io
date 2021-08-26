@@ -39,34 +39,34 @@ title:     publications
 </pre></div></li>
 
 <li>Michael Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
-<strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong>, arXiv preprint, 2021.
+<strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong>, 
+Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
 <a href="https://arxiv.org/abs/2104.07789"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Abaho-joint');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Abaho-joint" class="hidden">
 <pre style="text-align: left">
-@misc{abaho2021detect,
+@inproceedings{Abaho:EMNLP:2021,
       title={Detect and Classify -- Joint Span Detection and Classification for Health Outcomes}, 
       author={Michael Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
-      year={2021},
-      eprint={2104.07789},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle={Proc. of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+      pages={XXX-XXX},
+      year={2021}
 }
 </pre></div></li>
 
 <li>James O'Neill, Polina Rozenshtein, Ryuichi Kiryo, Motoko Kubota and Danushka Bollegala:
-<strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong>, arXiv preprint, 2021.
+<strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong>, 
+Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
 <a href ="https://arxiv.org/abs/2104.06893"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('cfd-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "cfd-2021" class="hidden">
 <pre style="text-align: left">
-@misc{ONeill:CFD:2021,
+@misc{ONeill:EMNLP:2021,
       title={I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews}, 
       author={James O'Neill and Polina Rozenshtein and Ryuichi Kiryo and Motoko Kubota and Danushka Bollegala},
-      year={2021},
-      eprint={2104.06893},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle={Proc. of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+      pages={XXX-XXX},
+      year={2021}      
 }
 </pre></div></li>
 
