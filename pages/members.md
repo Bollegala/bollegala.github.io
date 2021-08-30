@@ -10,7 +10,8 @@ title:  Members
 <h3> Post-Doctoral Research Associates (PDRAs)</h3>
 <ul>
 <li> Angrosh Mandya (working on Pattern-based Information Extraction Project)</li>
-<li> Masahiro Kaneko (working on social biases in word embeddings)</li>
+<li> Masahiro Kaneko (@Tokyo Institute of Technology, working on social biases in word embeddings)</li>
+<li> Masaru Isonuma (@Univ. of Tokyo, working on abstractive summarisation)</li>
 </ul>
 
 <h3> PhD Students </h3>
@@ -18,6 +19,7 @@ title:  Members
 <li> James O'Neill (working on Model compression)</li>
 <li> Yi Zhou (wordking on Sense embeddings)</li>
 <li> Micheal Abaho (working on Outcome detection)</li>
+<li> Keigo Takahashi (@Tokyo Metropolitan University, working on meta sentence embeddings)</li>
 </ul>
 
 <!--
