@@ -10,6 +10,7 @@ title:  Members
 <h3> Post-Doctoral Research Associates (PDRAs)</h3>
 <ul>
 <li> Angrosh Mandya (working on Pattern-based Information Extraction Project)</li>
+<li> Masahiro Kaneko (working on social biases in word embeddings)</li>
 </ul>
 
 <h3> PhD Students </h3>
