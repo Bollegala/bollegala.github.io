@@ -3,18 +3,18 @@ permalink: /dmml/
 header: no
 layout: frontpage
 menu: no
-title:  Data Mining and Machine Learning Research Group
+title:  Machine Learning Research Group
 ---
 
-## Data Mining and Machine Learning (DMML) Research Group 
+## Machine Learning Research Group 
 
 <br>
 
 ### Members
-The members of the DMML group are listed [here](https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/people/#d.en.695953)
+The members of the Machine Learning group are listed [here](https://www.liverpool.ac.uk/computer-science/research/research-groups/machine-learning/)
 
 ### Schedule
-The announcements of the DMML meetings, talks, slides etc. will be made available through this web site.
+The announcements of the MK meetings, talks, slides etc. will be made available through the MS Teams channel (internal only).
 If you would like to give a talk please contact Danushka.
 
 (Room keys: 2.08 Ashton Building 2nd floor meeting room, 1.01 Ashton Building 1st floor meeting room, 5.07 EEE 5th floor meeting room)
