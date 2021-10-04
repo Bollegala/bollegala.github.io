@@ -11,9 +11,12 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>Yi Zhou and Danushka Bollegala:
+<strong>
+
 <li>Masaru Isonuma, Danushka Bollegala, Junichiro Mori and Ichiro Sakata:
 <strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Accepted to the Transactions of the Association for Computational Linguistics (TACL), 2021.
-<a href="https://arxiv.org/abs/2106.08007"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://transacl.org/index.php/tacl/article/view/2955"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('isonuma-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "isonuma-2021" class="hidden">
 <pre style="text-align: left">
