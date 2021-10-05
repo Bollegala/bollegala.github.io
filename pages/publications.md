@@ -12,10 +12,21 @@ title:     publications
 <h2>2021</h2>
 
 <li>Yi Zhou and Danushka Bollegala:
-<strong>
+<strong>Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy</strong>,
+Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), November, 2021.
+<a href = "javascript:unhide('paclic-jodie-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "paclic-jodie-2021" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou:PACLIC:2021,
+  author={Yi Zhou and Danushka Bollegala},
+  title={Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy},
+  booktitle={Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC)},
+  year={2021}}
+</pre></div></li>
+
 
 <li>Masaru Isonuma, Danushka Bollegala, Junichiro Mori and Ichiro Sakata:
-<strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Accepted to the Transactions of the Association for Computational Linguistics (TACL), 2021.
+<strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Transactions of the Association for Computational Linguistics (TACL) (and presented at EMNLP), August, 2021.
 <a href="https://transacl.org/index.php/tacl/article/view/2955"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('isonuma-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "isonuma-2021" class="hidden">
