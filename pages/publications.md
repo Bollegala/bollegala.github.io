@@ -20,7 +20,7 @@ Proc. of the 35th Pacific Asia Conference on Language, Information and Computati
 @inproceedings{Zhou:PACLIC:2021,
   author={Yi Zhou and Danushka Bollegala},
   title={Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy},
-  booktitle={Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC)},
+  booktitle={Proc. of the 35-th Pacific Asia Conference on Language, Information and Computation (PACLIC)},
   year={2021}}
 </pre></div></li>
 
