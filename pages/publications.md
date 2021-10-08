@@ -14,6 +14,7 @@ title:     publications
 <li>Yi Zhou and Danushka Bollegala:
 <strong>Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy</strong>,
 Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), November, 2021.
+<a href="https://arxiv.org/abs/2110.02204"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('paclic-jodie-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "paclic-jodie-2021" class="hidden">
 <pre style="text-align: left">
