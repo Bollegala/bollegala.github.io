@@ -69,7 +69,7 @@ Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proc
       pages={XXX-XXX},
       year={2021}      
 }
-
+</pre></div></li>
 
 <li>Mikhail Fain, Niall Twomey and Danushka Bollegala:
 <strong>Backretrieval: An Image-Pivoted Evaluation Metric for Cross-Lingual Text Representations Without Parallel Corpora</strong>, Proc. of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Online, July, 2021.
@@ -85,8 +85,6 @@ Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proc
   year={2021}}
 </pre></div></li>
 
-
-</pre></div></li>
 
 
 <li>Masahiro Kaneko and Danushka Bollegala:
