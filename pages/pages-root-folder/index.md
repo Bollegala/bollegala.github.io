@@ -18,12 +18,12 @@ permalink: /index.html
         <br/>
         Professor
         <br/>
-        <a href="http://www.csc.liverpool.ac.uk/">
+        <a href="https://www.csc.liverpool.ac.uk/">
         Department of Computer Science,</a><br/>
         <!--
         <a href="http://www.liv.ac.uk/electrical-engineering-electronics-and-computer-science/">
           School of Electrical Engineering, Electronics, and Computer Science </a>,<br/>-->
-        <a href="http://www.liverpool.ac.uk/">
+        <a href="https://www.liverpool.ac.uk/">
           The University of Liverpool.</a><br/>
         <br/>
         <br/> 
@@ -39,28 +39,20 @@ permalink: /index.html
 
   <p>  
         I am Danushka Bollegala, Professor in Natural Language Processing at the
-          <a href="http://www.liverpool.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liverpool.ac.uk/">The University of Liverpool</a>, United Kingdom. 
+          <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science</a>, <a href="http://www.liverpool.ac.uk/">The University of Liverpool</a>, United Kingdom. 
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
 
-          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/dmml/">Data Mining and Machine Learning (DMML) Research Group </a> and the <a href="https://sites.google.com/site/complingliv/home">Natural Language Processing Group</a>.
-
-          I am also a member of the <a href="http://www.liv.ac.uk/risk-and-uncertainty/">Institute for Risk and Uncertainty</a> of the University of Liverpool, and <a href="http://bigdata.nii.ac.jp/wp/english/">Global Research Center for Big Data Mathematics National Institute of Informatics (NII)</a>,
-          and a full-member of the Engineering and Physical Science Research Council's (EPSRC) <a href="https://www.epsrc.ac.uk/funding/assessmentprocess/college/">Peer Review College</a>. 
-          I hold visiting fellowships at <a href="http://www.sussex.ac.uk/informatics/">School of Informatics at University of Sussex</a> and <a href="http://www.nii.ac.jp/en/">National Institute of Informatics</a>.
-          I am an <a href="https://www.amazon.jobs/en/landing_pages/scholars">Amazon Scholar</a> and a senior fellow at <a href="https://cookpad.com/">Cookpad</a>.
+          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/research-groups/machine-learning/">Machine Learning (DMML) Research Group </a>. 
+          I am also an <a href="https://www.amazon.jobs/en/landing_pages/scholars">Amazon Scholar</a>.         
           <br/> <br/>
 
-        My research interests are Artificial Intelligence, Natural Language Processing and Machine Learning.
-        I am particularly interested in how the meaning of words and sentences used by humans can be represented in a format
-        that could be understood by machines such as computers or robots. This subfield of AI is called natural language processing (NLP). 
-        <br/>
-        I have worked in a wide-range of problems in NLP see <a href="./research/">here</a> and 
-        my <a href="./publications/">publications</a>.
-        I teach <a href="./lect/dm/">Data Mining and Visualisation (COMP 527)</a>, a masters-level module taught at the University of Liverpool.
+        My research interests are Natural Language Processing (NLP) and Machine Learning (ML).
+        I have worked in various topics in NLP/ML such as information retrieval/extraaction, summarisation, natural lannguage generation, lexical and compositional semantics and semanntic representations. 
+        I have published my research in top international venues in NLP/ML as listed in my 
+         <a href="./publications/">publications</a> page.
+        Previously, I have taught <a href="./lect/dm/">Data Mining and Visualisation (COMP 527)</a>, a masters-level module taught at the University of Liverpool.
         Details about my current/past students/post-docs are <a href="./members/">here</a>.
-        I have experience in industrial collaborations in the form of startups, knowledge transfer partnerships
-        and consultancies. If you are interested in collaborations please contact.
       </p>    
 
 
@@ -69,10 +61,7 @@ permalink: /index.html
   <h3>News</h3>
   <ul>
     <li>We are <a href="https://www.amazon.jobs/en/jobs/1077216/senior-nlp-scientist">hiring</a> NLP scientists at Amazon, Berlin!</li>
-    <li><strong>Tree-Structured Neural Topic Model</strong> accepted to ACL-2020.</li> 
-    <li><strong>Language-Independent Tokenisation Rivals Language-Specific Tokenisation for Word Similarity Prediction</strong> accepted to LREC-2020.</li>
-    <li><strong>Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering</strong> accepted to LREC-2020.</li>
-    <li><strong>Meta-Embedding as Auxiliary</strong> Task Regularization accepted to EACI-2020.</li>
+    <li>2 papers accepted to EMNLP-2021. <strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong> with Abaho et al. and <strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong> with O'Neill et al.</li>
   </ul>
   </div>
 
@@ -90,8 +79,6 @@ permalink: /index.html
 <td> <a href="https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E6%95%99%E7%A8%8B-%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6-%E7%9F%A5%E8%AD%98%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86-%E4%BC%8A%E5%BA%AD-%E6%96%89%E5%BF%97/dp/4621300237/ref=sr_1_3?ie=UTF8&qid=1471211449&sr=8-3&keywords=%E3%83%9C%E3%83%AC%E3%82%AC%E3%83%A9%E3%83%80%E3%83%8C%E3%82%B7%E3%82%AB"><img src="./images/knowbook.jpg" align="right" width="130" height="208" vspace="4" hspace="10"/> </a></td>
 </tr>
 </table> 
-
-         
 </div>
 
 
