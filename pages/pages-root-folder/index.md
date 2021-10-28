@@ -31,9 +31,9 @@ permalink: /index.html
         Phone: +44-1517954283<br/>
         Mail: danushka (dot) bollegala (atmark) liverpool.ac.uk <br/>
         <a href="https://www.google.com/maps/d/u/0/viewer?ll=53.406497%2C-2.966373&spn=0%2C0&hl=en&t=h&msa=0&source=embed&ie=UTF8&mid=1jSFL6jBzMMw1O2cF6rKUCC8XDA4">Google Map</a><br/>
-        <a href="http://twitter.com/Bollegala" class="twitter-follow-button">Follow @Bollegala</a>
+        <a href="https://twitter.com/Bollegala" class="twitter-follow-button">Follow @Bollegala</a>
         <script
-        src="http://platform.twitter.com/widgets.js"
+        src="https://platform.twitter.com/widgets.js"
         type="text/javascript"></script>        
       </p>
 
