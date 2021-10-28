@@ -5,7 +5,7 @@ header: no
 title:     publications
 ---
 
-<h4><a href="https://scholar.google.com/citations?user=kLqCYLMAAAAJ&hl=en">Google Scholar</a>, and <a href="http://dblp.uni-trier.de/pers/hd/b/Bollegala:Danushka">DBLP</a></h4>
+<h4><a href="https://scholar.google.com/citations?user=kLqCYLMAAAAJ&hl=en">Google Scholar</a>, and <a href="https://dblp.uni-trier.de/pers/hd/b/Bollegala:Danushka">DBLP</a></h4>
 
 <ol reversed>
 

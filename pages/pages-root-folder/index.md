@@ -18,7 +18,7 @@ permalink: /index.html
         <br/>
         Professor
         <br/>
-        <a href="https://www.csc.liverpool.ac.uk/">
+        <a href="https://www.liverpool.ac.uk/computer-science/">
         Department of Computer Science,</a><br/>
         <!--
         <a href="http://www.liv.ac.uk/electrical-engineering-electronics-and-computer-science/">
