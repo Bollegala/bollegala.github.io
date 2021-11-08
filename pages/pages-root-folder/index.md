@@ -43,7 +43,7 @@ permalink: /index.html
         See my <a href="./cv/">short vita</a>.
           <br/> <br/>
 
-          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/research-groups/machine-learning/">Machine Learning (DMML) Research Group </a>. 
+          I lead the <a href="https://www.liverpool.ac.uk/computer-science/research/research-groups/machine-learning/">Machine Learning (ML) Research Group </a>. 
           I am also an <a href="https://www.amazon.jobs/en/landing_pages/scholars">Amazon Scholar</a>.         
           <br/> <br/>
 

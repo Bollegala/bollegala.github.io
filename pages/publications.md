@@ -43,32 +43,49 @@ Proc. of the 35th Pacific Asia Conference on Language, Information and Computati
 <li>Michael Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong>, 
 Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
-<a href="https://arxiv.org/abs/2104.07789"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.emnlp-main.686/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Abaho-joint');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Abaho-joint" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Abaho:EMNLP:2021,
-      title={Detect and Classify -- Joint Span Detection and Classification for Health Outcomes}, 
-      author={Michael Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
-      booktitle={Proc. of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-      pages={XXX-XXX},
-      year={2021}
+@inproceedings{abaho-etal-2021-detect,
+    title = "Detect and Classify {--} Joint Span Detection and Classification for Health Outcomes",
+    author = "Abaho, Micheal  and
+      Bollegala, Danushka  and
+      Williamson, Paula  and
+      Dodd, Susanna",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.686",
+    pages = "8709--8721",
+    abstract = "A health outcome is a measurement or an observation used to capture and assess the effect of a treatment. Automatic detection of health outcomes from text would undoubtedly speed up access to evidence necessary in healthcare decision making. Prior work on outcome detection has modelled this task as either (a) a sequence labelling task, where the goal is to detect which text spans describe health outcomes, or (b) a classification task, where the goal is to classify a text into a predefined set of categories depending on an outcome that is mentioned somewhere in that text. However, this decoupling of span detection and classification is problematic from a modelling perspective and ignores global structural correspondences between sentence-level and word-level information present in a given text. To address this, we propose a method that uses both word-level and sentence-level information to simultaneously perform outcome span detection and outcome type classification. In addition to injecting contextual information to hidden vectors, we use label attention to appropriately weight both word and sentence level information. Experimental results on several benchmark datasets for health outcome detection show that our proposed method consistently outperforms decoupled methods, reporting competitive results.",
 }
 </pre></div></li>
 
 <li>James O'Neill, Polina Rozenshtein, Ryuichi Kiryo, Motoko Kubota and Danushka Bollegala:
 <strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong>, 
 Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
-<a href ="https://arxiv.org/abs/2104.06893"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href ="https://aclanthology.org/2021.emnlp-main.568/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('cfd-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "cfd-2021" class="hidden">
 <pre style="text-align: left">
-@misc{ONeill:EMNLP:2021,
-      title={I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews}, 
-      author={James O'Neill and Polina Rozenshtein and Ryuichi Kiryo and Motoko Kubota and Danushka Bollegala},
-      booktitle={Proc. of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-      pages={XXX-XXX},
-      year={2021}      
+@inproceedings{oneill-etal-2021-wish,
+    title = "{I} Wish {I} Would Have Loved This One, But {I} Didn{'}t {--} A Multilingual Dataset for Counterfactual Detection in Product Review",
+    author = "O{'}Neill, James  and
+      Rozenshtein, Polina  and
+      Kiryo, Ryuichi  and
+      Kubota, Motoko  and
+      Bollegala, Danushka",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.568",
+    pages = "7092--7108",
+    abstract = "Counterfactual statements describe events that did not or cannot take place. We consider the problem of counterfactual detection (CFD) in product reviews. For this purpose, we annotate a multilingual CFD dataset from Amazon product reviews covering counterfactual statements written in English, German, and Japanese languages. The dataset is unique as it contains counterfactuals in multiple languages, covers a new application area of e-commerce reviews, and provides high quality professional annotations. We train CFD models using different text representation methods and classifiers. We find that these models are robust against the selectional biases introduced due to cue phrase-based sentence selection. Moreover, our CFD dataset is compatible with prior datasets and can be merged to learn accurate CFD models. Applying machine translation on English counterfactual examples to create multilingual data performs poorly, demonstrating the language-specificity of this problem, which has been ignored so far.",
 }
 </pre></div></li>
 
