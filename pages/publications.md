@@ -28,7 +28,7 @@ Proc. of the 35th Pacific Asia Conference on Language, Information and Computati
 
 
 <li>Masaru Isonuma, Danushka Bollegala, Junichiro Mori and Ichiro Sakata:
-<strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Transactions of the Association for Computational Linguistics (TACL) (and presented at EMNLP), August, 2021.
+<strong>Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance</strong>, Transactions of the Association for Computational Linguistics (TACL) (and presented at EMNLP), Volume 9, pp. 945-961, August, 2021.
 <a href="https://transacl.org/index.php/tacl/article/view/2955"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('isonuma-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "isonuma-2021" class="hidden">
@@ -37,12 +37,14 @@ Proc. of the 35th Pacific Asia Conference on Language, Information and Computati
   author={Masaru Isonuma and Danushka Bollegala and Junichiro Mori and Ichiro Sakata},
   title={Unsupervised Abstractive Opinion Summarization by Generating  Sentences with Tree-Structured Topic Guidance},
   journal={Transactions of the Association for Computational Linguistics (TACL)},
+  volume={9},
+  pages={945--961},
   year={2021}}
 </pre></div></li>
 
 <li>Michael Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong>, 
-Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
+Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 8709-8721, 2021.
 <a href="https://aclanthology.org/2021.emnlp-main.686/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Abaho-joint');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Abaho-joint" class="hidden">
@@ -66,7 +68,7 @@ Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proc
 
 <li>James O'Neill, Polina Rozenshtein, Ryuichi Kiryo, Motoko Kubota and Danushka Bollegala:
 <strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong>, 
-Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. XX-XX, 2021.
+Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 7092-7108, 2021.
 <a href ="https://aclanthology.org/2021.emnlp-main.568/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('cfd-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "cfd-2021" class="hidden">
