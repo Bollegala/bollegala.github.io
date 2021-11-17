@@ -11,6 +11,24 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>Mohammed Alsuhaibani and Danushka Bollegala:
+<strong>Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications</strong>,
+Knowledge-Based Intelligent Systems in E-Health and Medical Communication Services, December, 2021.
+<a href="https://www.hindawi.com/journals/cmmm/2021/9761163/">[DOI]</a>
+<a href = "javascript:unhide('mohammed-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "mohammed-2021" class="hidden">
+<pre style="text-align: left">
+@article{Mohammed:2021,
+  author={Mohammed Alsuhaibani and Danushka Bollegala},
+  title={Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications},
+  journal={Knowledge-Based Intelligent Systems in E-Health and Medical Communication Services},
+  year={2021},
+  volume={2021},
+  pages={12}
+  }
+</pre></div></li>
+
+
 <li>Yi Zhou and Danushka Bollegala:
 <strong>Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy</strong>,
 Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), November, 2021.
