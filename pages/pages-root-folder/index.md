@@ -48,7 +48,7 @@ permalink: /index.html
           <br/> <br/>
 
         My research interests are Natural Language Processing (NLP) and Machine Learning (ML).
-        I have worked in various topics in NLP/ML such as information retrieval/extraaction, summarisation, natural lannguage generation, lexical and compositional semantics and semanntic representations. 
+        I have worked in various topics in NLP/ML such as information retrieval/extraction, summarisation, natural language generation, lexical and compositional semantics and semantic representations. 
         I have published my research in top international venues in NLP/ML as listed in my 
          <a href="./publications/">publications</a> page.
         Previously, I have taught <a href="./lect/dm/">Data Mining and Visualisation (COMP 527)</a>, a masters-level module taught at the University of Liverpool.
