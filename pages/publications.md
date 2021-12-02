@@ -11,6 +11,23 @@ title:     publications
 
 <h2>2021</h2>
 
+<li>Masahiro Kaneko and Danushka Bollegala:
+<strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
+　Proc. of the 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, 2022.
+<a href="https://arxiv.org/abs/2104.07496"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-AUL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-AUL" class="hidden">
+<pre style="text-align: left">
+@misc{kaneko2021unmasking,
+      title={Unmasking the Mask -- Evaluating Social Biases in Masked Language Models}, 
+      author={Masahiro Kaneko and Danushka Bollegala},
+      year={2021},
+      eprint={2104.07496},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre></div></li>
+
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
 <strong>Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications</strong>,
 Knowledge-Based Intelligent Systems in E-Health and Medical Communication Services, December, 2021.
@@ -121,25 +138,6 @@ Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proc
   booktitle={Proc. of 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
   pages={2106--2110},
   year={2021}}
-</pre></div></li>
-
-
-
-<li>Masahiro Kaneko and Danushka Bollegala:
-<strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
-arXiv preprint, 2021.
-<a href="https://arxiv.org/abs/2104.07496"><img src="../images/PDF.png" width="30" height ="10"></a>
-<a href = "javascript:unhide('kaneko-AUL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
-<div id = "kaneko-AUL" class="hidden">
-<pre style="text-align: left">
-@misc{kaneko2021unmasking,
-      title={Unmasking the Mask -- Evaluating Social Biases in Masked Language Models}, 
-      author={Masahiro Kaneko and Danushka Bollegala},
-      year={2021},
-      eprint={2104.07496},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
 </pre></div></li>
 
 <li>Iqra Muhammad, Frans Coenon and Danushka Bollegala:
