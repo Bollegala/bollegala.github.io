@@ -11,6 +11,18 @@ title:     publications
 
 <h2>2021</h2>
 
+<!-- TEMPLATE
+<li>and Danushka Bollegala:
+<strong>TITLE</strong>,
+VENUE, MONTH, 2022.
+<a href="PDF"><img src="../images/PDF.png" width="30" height ="10">
+<a href = "javascript:unhide('uniqueid-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "uniqueid-2022" class="hidden">
+<pre style="text-align: left">
+BIBDTEX
+</pre></div></li>
+-->
+
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
 　Proc. of the 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, 2022.
@@ -26,6 +38,23 @@ title:     publications
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+</pre></div></li>
+
+<li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
+<strong>Assessment of contextualised representations in detecting outcome phrases in clinical trials</strong>,
+European Journal for Biomedical Informatics, Volume 17, Issue 9, September, 2021.
+<a href="https://www.ejbi.org/scholarly-articles/assessment-of-contextualised-representations-in-detecting-outcome-phrases-in-clinical-trials-9170.html"><img src="../images/PDF.png" width="30" height ="10">
+<a href = "javascript:unhide('abaho-ebj-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "abaho-ebj-2021" class="hidden">
+<pre style="text-align: left">
+@article{Abaho:EBJ:2020,
+	author = {Micheal Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
+	journal = {European Journal for Biomedical Informatics},
+	month = {September},
+	number = {9},
+	title = {Assessment of contextualised representations in detecting outcome phrases in clinical trials},
+	volume = {17},
+	year = {2021}}
 </pre></div></li>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
