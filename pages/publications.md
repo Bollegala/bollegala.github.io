@@ -11,6 +11,17 @@ title:     publications
 
 <h2>2021</h2>
 
+<!-- TEMPLATE
+<li>and Danushka Bollegala:
+<strong>TITLE</strong>,
+VENUE, MONTH, 2022.
+<a href="PDF"><img src="../images/PDF.png" width="30" height ="10">
+<a href = "javascript:unhide('uniqueid-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "uniqueid-2022" class="hidden">
+<pre style="text-align: left">
+BIBDTEX
+</pre></div></li>
+-->
 
 
 <li>Masahiro Kaneko and Danushka Bollegala:
@@ -45,7 +56,7 @@ European Journal for Biomedical Informatics, Volume 17, Issue 9, September, 2021
 	title = {Assessment of contextualised representations in detecting outcome phrases in clinical trials},
 	volume = {17},
 	year = {2021}}
-</pre></div></li>
+</pre></div>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
 <strong>Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications</strong>,
