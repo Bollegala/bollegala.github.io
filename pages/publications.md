@@ -43,7 +43,8 @@ European Journal for Biomedical Informatics, Volume 17, Issue 9, September, 2021
 	number = {9},
 	title = {Assessment of contextualised representations in detecting outcome phrases in clinical trials},
 	volume = {17},
-	year = {2021}}
+	year = {2021}
+  }
 </pre></div></li>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
@@ -67,16 +68,22 @@ Knowledge-Based Intelligent Systems in E-Health and Medical Communication Servic
 <li>Yi Zhou and Danushka Bollegala:
 <strong>Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy</strong>,
 Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), November, 2021.
-<a href="https://arxiv.org/abs/2110.02204"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.paclic-1.2/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('paclic-jodie-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "paclic-jodie-2021" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Zhou:PACLIC:2021,
-  author={Yi Zhou and Danushka Bollegala},
-  title={Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy},
-  booktitle={Proc. of the 35-th Pacific Asia Conference on Language, Information and Computation (PACLIC)},
-  year={2021},
-  pages={XXX-XXX}}
+@inproceedings{yi-zhou-2021-learning,
+    title = "Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy",
+    author = "Bollegala, Danushka  and
+      Zhou, Yi",
+    booktitle = "Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation",
+    month = "11",
+    year = "2021",
+    address = "Shanghai, China",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2021.paclic-1.2",
+    pages = "11--20",
+}
 </pre></div></li>
 
 
@@ -172,8 +179,6 @@ Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proc
   }
 </pre></div></li>
 
-
-
 <li>James O'Neill and Danushka Bollegala:
 <strong>Semantically-Conditioned Negative Samples for Efficient Contrastive Learning</strong>,
 arXiv preprint, 2021.
@@ -187,50 +192,75 @@ arXiv preprint, 2021.
 	year = {2021}}
 </pre></div></li>
 
-
 <li>Danushka Bollegala, Huda Hakami, Yuichi Yoshida and Ken-ichi Kawarabayashi:
 <strong>RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding</strong>,
 Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
-<a href="https://arxiv.org/abs/2101.10070"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.eacl-main.133/"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('bollegala-eacl-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-eacl-2021" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Bollegala:EACL:2021,    
-    title={RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding},    
-    author={Danushka Bollegala and Huda Hakami and Yuichi Yoshida and Ken-ichi Kawarabayashi},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
-    year={2021}
-  }
+ @inproceedings{bollegala-etal-2021-relwalk,
+    title = "{R}el{W}alk - A Latent Variable Model Approach to Knowledge Graph Embedding",
+    author = "Bollegala, Danushka  and
+      Hakami, Huda  and
+      Yoshida, Yuichi  and
+      Kawarabayashi, Ken-ichi",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.eacl-main.133",
+    doi = "10.18653/v1/2021.eacl-main.133",
+    pages = "1551--1565",
+    abstract = "Embedding entities and relations of a knowledge graph in a low-dimensional space has shown impressive performance in predicting missing links between entities. Although progresses have been achieved, existing methods are heuristically motivated and theoretical understanding of such embeddings is comparatively underdeveloped. This paper extends the random walk model of word embeddings to Knowledge Graph Embeddings (KGEs) to derive a scoring function that evaluates the strength of a relation R between two entities h (head) and t (tail). Moreover, we show that marginal loss minimisation, a popular objective used in much prior work in KGE, follows naturally from the log-likelihood ratio maximisation under the probabilities estimated from the KGEs according to our theoretical relationship. We propose a learning objective motivated by the theoretical analysis to learn KGEs from a given knowledge graph.Using the derived objective, accurate KGEs are learnt from FB15K237 and WN18RR benchmark datasets, providing empirical evidence in support of the theory.",
+}
 </pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Debiasing Pre-trained Contextualised Embeddings</strong>,
 Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
-<a href="https://arxiv.org/abs/2101.09523"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.eacl-main.107/"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl1-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl1-2021" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Kaneko:EACL1:2021,    
-    title={Debiasing Pre-trained Contextualised Embeddings},    
-    author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
-    year={2021}
-  }
+  @inproceedings{kaneko-bollegala-2021-debiasing,
+    title = "Debiasing Pre-trained Contextualised Embeddings",
+    author = "Kaneko, Masahiro  and
+      Bollegala, Danushka",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.eacl-main.107",
+    doi = "10.18653/v1/2021.eacl-main.107",
+    pages = "1256--1266",
+    abstract = "In comparison to the numerous debiasing methods proposed for the static non-contextualised word embeddings, the discriminative biases in contextualised embeddings have received relatively little attention. We propose a fine-tuning method that can be applied at token- or sentence-levels to debias pre-trained contextualised embeddings. Our proposed method can be applied to any pre-trained contextualised embedding model, without requiring to retrain those models. Using gender bias as an illustrative example, we then conduct a systematic study using several state-of-the-art (SoTA) contextualised representations on multiple benchmark datasets to evaluate the level of biases encoded in different contextualised embeddings before and after debiasing using the proposed method. We find that applying token-level debiasing for all tokens and across all layers of a contextualised embedding model produces the best performance. Interestingly, we observe that there is a trade-off between creating an accurate vs. unbiased contextualised embedding model, and different contextualised embedding models respond differently to this trade-off.",
+}
 </pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Dictionary-based Debiasing of Pre-trained Word Embeddings</strong>,
 Proc. of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April, 2021.
-<a href="https://arxiv.org/abs/2101.09525"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.eacl-main.16/"><img src="../images/PDF.png" width="30" height ="10"></a>
  <a href = "javascript:unhide('kaneko-eacl2-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-eacl2-2021" class="hidden">
 <pre style="text-align: left">
-  @inproceedings{Kaneko:EACL2:2021,    
-    title={Dictionary-based Debiasing of Pre-trained Word Embeddings},    
-    author={Masahiro Kaneko and Danushka Bollegala},    
-    booktitle = {Proc. of the 16th European Chapter of the Association for Computational Linguistics (EACL)},  
-    year={2021}
-  }
+ @inproceedings{kaneko-bollegala-2021-dictionary,
+    title = "Dictionary-based Debiasing of Pre-trained Word Embeddings",
+    author = "Kaneko, Masahiro  and
+      Bollegala, Danushka",
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.eacl-main.16",
+    doi = "10.18653/v1/2021.eacl-main.16",
+    pages = "212--223",
+    abstract = "Word embeddings trained on large corpora have shown to encode high levels of unfair discriminatory gender, racial, religious and ethnic biases. In contrast, human-written dictionaries describe the meanings of words in a concise, objective and an unbiased manner. We propose a method for debiasing pre-trained word embeddings using dictionaries, without requiring access to the original training resources or any knowledge regarding the word embedding algorithms used. Unlike prior work, our proposed method does not require the types of biases to be pre-defined in the form of word lists, and learns the constraints that must be satisfied by unbiased word embeddings automatically from dictionary definitions of the words. Specifically, we learn an encoder to generate a debiased version of an input word embedding such that it (a) retains the semantics of the pre-trained word embedding, (b) agrees with the unbiased definition of the word according to the dictionary, and (c) remains orthogonal to the vector space spanned by any biased basis vectors in the pre-trained word embedding space. Experimental results on standard benchmark datasets show that the proposed method can accurately remove unfair biases encoded in pre-trained word embeddings, while preserving useful semantics.",
+}
 </pre></div></li>
 
 
