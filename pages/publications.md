@@ -45,7 +45,7 @@ European Journal for Biomedical Informatics, Volume 17, Issue 9, September, 2021
 	volume = {17},
 	year = {2021}
   }
-</pre></div></li>
+</pre></div>
 
 <li>Mohammed Alsuhaibani and Danushka Bollegala:
 <strong>Fine-Tuning Word Embeddings for Hierarchical Representation of Data Using a Corpus and a Knowledge Base for Various Machine Learning Applications</strong>,
