@@ -9,8 +9,12 @@ title:     publications
 
 <ol reversed>
 
-<h2>2021</h2>
+<h2>2022</h2>
 
+<li>Yi Zhou, Masahiro Kaneko and Danushka Bollegala:
+<strong>Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings</strong>
+Proc. of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, 2022.
+</li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
@@ -28,6 +32,11 @@ title:     publications
       primaryClass={cs.CL}
 }
 </pre></div></li>
+
+<h2>2021</h2>
+
+
+
 
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Assessment of contextualised representations in detecting outcome phrases in clinical trials</strong>,
