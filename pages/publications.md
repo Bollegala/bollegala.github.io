@@ -326,7 +326,8 @@ Proc. of the 28th International Conference on Computational Linguistics (COLING)
 <li>Katie Atkinson, Trevor Bench-Capon and Danushka Bollegala:
 <strong> Explanation in AI and Law: Past, Present and Future</strong>
 Artificial Intelligence, Volume 289, December, 2020.
-<a href="https://doi.org/10.1016/j.artint.2020.103387"><img src="../images/PDF.png" alt="Atkinson 2020"  width="30" height ="10"></a>
+<a href="https://doi.org/10.1016/j.artint.2020.103387">DOI</a>
+<a href="../papers/atkinson-2020.pdf"><img src="../images/PDF.png" alt="Atkinson 2020"  width="30" height ="10"></a>
 <a href = "javascript:unhide('atkinson-2020');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "atkinson-2020" class="hidden">
 <pre style="text-align: left">
