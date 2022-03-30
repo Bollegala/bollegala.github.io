@@ -11,10 +11,33 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
+<strong>Position-based Prompting for Health Outcome Generation</strong>
+Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
+<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('abaho-bionlp');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "abaho-bionlp" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Abaho:2022,
+	author = {Micheal Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
+	booktitle = {Proc. of the 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group},
+	title = {Position-based Prompting for Health Outcome Generation},
+	year = {2022}}
+</pre></div></li>
+
 <li>Yi Zhou, Masahiro Kaneko and Danushka Bollegala:
 <strong>Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings</strong>
 Proc. of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, 2022.
-</li>
+<a href="https://arxiv.org/abs/2203.07523"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhou-ACL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-ACL" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou:2022,
+	author = {Yi Zhou and Masahiro Kaneko and Danushka Bollegala},
+	booktitle = {Proc. of the 60th Annual Meeting of the Association for Computational Linguistics},
+	title = {Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings},
+	year = {2022}}
+</pre></div></li>
 
 <li>Masahiro Kaneko and Danushka Bollegala:
 <strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
@@ -23,20 +46,14 @@ Proc. of the 60th Annual Meeting of the Association for Computational Linguistic
 <a href = "javascript:unhide('kaneko-AUL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-AUL" class="hidden">
 <pre style="text-align: left">
-@misc{kaneko2021unmasking,
-      title={Unmasking the Mask -- Evaluating Social Biases in Masked Language Models}, 
-      author={Masahiro Kaneko and Danushka Bollegala},
-      year={2021},
-      eprint={2104.07496},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{Kaneko:2022,
+	author = {Masahiro Kaneko and Danushka Bollegala},
+	booktitle = {Proc. of the 36th AAAI Conference on Artificial Intelligence},
+	title = {Unmasking the Mask -- Evaluating Social Biases in Masked Language Models},
+	year = {2022}}
 </pre></div></li>
 
 <h2>2021</h2>
-
-
-
 
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Assessment of contextualised representations in detecting outcome phrases in clinical trials</strong>,
