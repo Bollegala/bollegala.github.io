@@ -11,6 +11,36 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Danushka Bollegala, Tomoya Machide and Ken-ichi Kawarabayashi:
+<strong>Query Obfuscation by Semantic Decomposition</strong>
+Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
+<a href="https://arxiv.org/abs/1909.05819"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('bollegala-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-lrec2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:LREC:2022,
+	author = {Danushka Bollegala and Tomoya Machide and Ken-ichi Kawarabayash},
+	booktitle = {Proc. of the 13th Language Resources and Evaluation Conference (LREC)},
+	title = {Query Obfuscation by Semantic Decomposition},
+	year = {2022}}
+</pre></div></li>
+
+<li>Keigo Takahashi and Danushka Bollegala:
+<strong>Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models</strong>
+Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
+<a href="../papers/takahashi-lrec2022.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('takahashi-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "takahashi-lrec2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Takahashi:LREC:2022,
+	author = {Keigo Takahashi and Danushka Bollegala},
+	booktitle = {Proc. of the 13th Language Resources and Evaluation Conference (LREC)},
+	title = {Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models},
+	year = {2022}}
+</pre></div></li>
+
+
+
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Position-based Prompting for Health Outcome Generation</strong>
 Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
