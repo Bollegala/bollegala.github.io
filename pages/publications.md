@@ -11,8 +11,38 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Masahiro Kaneko,  Aizhan Imankulova, Danushka Bollegala and Naoaki Okazaki:
+<strong>Gender Bias in Masked Language Models for Multiple Languages </strong>,
+Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
+<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('kaneko-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-naacl2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:NAACL:2022,
+	author = {Masahiro Kaneko and Aizhan Imankulova and Danushka Bollegala and Naoaki Okazaki},
+	booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+	title = {Gender Bias in Masked Language Models for Multiple Languages},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Huda Hakami, Mona Hakami, Angrosh Mandya and Danushka Bollegala:
+<strong>Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion</strong>,
+Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
+<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('huda-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "huda-naacl2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hakami:NAACL:2022,
+	author = {Huda Hakami and Mona Hakami and Angrosh Mandya and Danushka Bollegala},
+	booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+	title = {Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion},
+	year = {2022}}
+</pre></div></li>
+
+
 <li>Danushka Bollegala, Tomoya Machide and Ken-ichi Kawarabayashi:
-<strong>Query Obfuscation by Semantic Decomposition</strong>
+<strong>Query Obfuscation by Semantic Decomposition</strong>,
 Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
 <a href="https://arxiv.org/abs/1909.05819"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('bollegala-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
@@ -26,7 +56,7 @@ Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille
 </pre></div></li>
 
 <li>Keigo Takahashi and Danushka Bollegala:
-<strong>Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models</strong>
+<strong>Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models</strong>,
 Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
 <a href="../papers/takahashi-lrec2022.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('takahashi-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
@@ -42,9 +72,9 @@ Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille
 
 
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
-<strong>Position-based Prompting for Health Outcome Generation</strong>
+<strong>Position-based Prompting for Health Outcome Generation</strong>,
 Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
-<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<!-- <a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
 <a href = "javascript:unhide('abaho-bionlp');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "abaho-bionlp" class="hidden">
 <pre style="text-align: left">
@@ -56,7 +86,7 @@ Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special inte
 </pre></div></li>
 
 <li>Yi Zhou, Masahiro Kaneko and Danushka Bollegala:
-<strong>Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings</strong>
+<strong>Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings</strong>,
 Proc. of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, 2022.
 <a href="https://arxiv.org/abs/2203.07523"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Zhou-ACL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
