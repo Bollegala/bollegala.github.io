@@ -103,7 +103,7 @@ Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Position-based Prompting for Health Outcome Generation</strong>,
 Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
- <a href="https://arxiv.org/abs/2204.03489"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+ <a href="https://arxiv.org/abs/2204.03489"><img src="../images/PDF.png" width="30" height ="10"></a> 
 <a href = "javascript:unhide('abaho-bionlp');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "abaho-bionlp" class="hidden">
 <pre style="text-align: left">
