@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Danushka Bollegala:
+<strong>Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings</strong>,
+Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
+<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('bollegala-ijcai-main2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-ijcai-main2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:IJCAIa:2022,
+	author = {Danushka Bollegala},
+	booktitle = {Proc. of the 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI)},
+	title = {Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings},
+	year = {2022}}
+</pre></div></li>
+
+
 <li>Danushka Bollegala and James O'Neill:
 <strong>A Survey on Word Meta-Embedding Learning</strong>,
 Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
@@ -18,7 +33,7 @@ Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-E
 <a href = "javascript:unhide('bollegala-ijcai2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-ijcai2022" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Bollegala:IJCAI:2022,
+@inproceedings{Bollegala:IJCAIb:2022,
 	author = {Danushka Bollegala and James O'Neill},
 	booktitle = {Proc. of the 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI)},
 	title = {A Survey on Word Meta-Embedding Learning},
@@ -88,7 +103,7 @@ Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille
 <li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
 <strong>Position-based Prompting for Health Outcome Generation</strong>,
 Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
-<!-- <a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+ <a href="https://arxiv.org/abs/2204.03489"><img src="../images/PDF.png" width="30" height ="10"></a> -->
 <a href = "javascript:unhide('abaho-bionlp');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "abaho-bionlp" class="hidden">
 <pre style="text-align: left">
