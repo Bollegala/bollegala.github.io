@@ -14,7 +14,7 @@ title:     publications
 <li>Danushka Bollegala:
 <strong>Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings</strong>,
 Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
-<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href="https://arxiv.org/abs/2204.12386"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('bollegala-ijcai-main2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-ijcai-main2022" class="hidden">
 <pre style="text-align: left">
@@ -29,7 +29,7 @@ Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-E
 <li>Danushka Bollegala and James O'Neill:
 <strong>A Survey on Word Meta-Embedding Learning</strong>,
 Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
-<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href="https://arxiv.org/abs/2204.11660"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('bollegala-ijcai2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-ijcai2022" class="hidden">
 <pre style="text-align: left">
@@ -58,7 +58,7 @@ Proc. of the Annual Conference of the North American Chapter of the Association 
 <li>Huda Hakami, Mona Hakami, Angrosh Mandya and Danushka Bollegala:
 <strong>Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion</strong>,
 Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
-<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href="https://arxiv.org/abs/2204.13097"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('huda-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "huda-naacl2022" class="hidden">
 <pre style="text-align: left">
