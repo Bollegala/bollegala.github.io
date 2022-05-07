@@ -43,7 +43,7 @@ Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-E
 <li>Masahiro Kaneko,  Aizhan Imankulova, Danushka Bollegala and Naoaki Okazaki:
 <strong>Gender Bias in Masked Language Models for Multiple Languages </strong>,
 Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
-<!--<a href=""><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href="https://arxiv.org/abs/2205.00551"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('kaneko-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-naacl2022" class="hidden">
 <pre style="text-align: left">
