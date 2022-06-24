@@ -11,6 +11,19 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Samantha Durdy, Michael Gaultois, Vladimir Gusev, Danushka Bollegala and Matthew J. Rosseinsky:
+<strong>Random projections and Kernelised Leave One Cluster Out Cross-Validation: Universal baselines and evaluation tools for supervised machine learning for materials properties</strong>, arXiv, 2022.
+<a href="https://arxiv.org/abs/2206.08841"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('sam-loco-cv-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "sam-loco-cv-2022" class="hidden">
+<pre style="text-align: left">
+@misc{2206.08841,
+	author = {Samantha Durdy and Michael Gaultois and Vladimir Gusev and Danushka Bollegala and Matthew J. Rosseinsky},
+	title = {{R}andom projections and {K}ernelised {L}eave {O}ne {C}luster {O}ut {C}ross-{V}alidation: {U}niversal baselines and evaluation tools for supervised machine learning for materials properties},
+	year = {2022}}
+  }
+</pre></div></li>
+
 <li>Masahiro Kaneko, Danushka Bollegala, and Naoaki Okazaki:
 <strong>Gender Bias in Meta-Embedding</strong>,
 arXiv, 2022.
