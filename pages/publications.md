@@ -11,6 +11,42 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Tadashi Tsubota, Danushka Bollegala, Yang Zhao, Yingzi Jin, Tomotake Kozu:
+<strong>Improvement of intervention information detection for automated clinical literature screening during systematic review</strong>,
+Journal of Biomedical Informatics, August, 2022.
+<a href="https://doi.org/10.1016/j.jbi.2022.104185"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tsubota-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tsubota-2022" class="hidden">
+<pre style="text-align: left">
+@article{TSUBOTA2022104185,
+	author = {Tadashi Tsubota and Danushka Bollegala and Yang Zhao and Yingzi Jin and Tomotake Kozu},
+	journal = {Journal of Biomedical Informatics},
+	pages = {104185},
+	title = {Improvement of intervention information detection for automated clinical literature screening during systematic review},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Xiaohang Tang, Yi Zhou and Danushka Bollegala:
+<strong>Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation</strong>,
+arXiv, 2022.
+<a href="https://arxiv.org/abs/2208.10734"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('DCWE-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "DCWE-2022" class="hidden">
+<pre style="text-align: left">
+@misc{https://doi.org/10.48550/arxiv.2208.10734,
+  doi = {10.48550/ARXIV.2208.10734},  
+  url = {https://arxiv.org/abs/2208.10734},  
+  author = {Tang, Xiaohang and Zhou, Yi and Bollegala, Danushka},  
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation},  
+  publisher = {arXiv},  
+  year = {2022},  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+</pre></div></li>
+
+
 <li>Samantha Durdy, Michael Gaultois, Vladimir Gusev, Danushka Bollegala and Matthew J. Rosseinsky:
 <strong>Random projections and Kernelised Leave One Cluster Out Cross-Validation: Universal baselines and evaluation tools for supervised machine learning for materials properties</strong>, arXiv, 2022.
 <a href="https://arxiv.org/abs/2206.08841"><img src="../images/PDF.png" width="30" height ="10"></a>
