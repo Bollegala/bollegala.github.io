@@ -19,7 +19,7 @@ title:     publications
 <pre style="text-align: left">
 @misc{2206.08841,
 	author = {Samantha Durdy and Michael Gaultois and Vladimir Gusev and Danushka Bollegala and Matthew J. Rosseinsky},
-	title = {{R}andom projections and {K}ernelised {L}eave {O}ne {C}luster {O}ut {C}ross-{V}alidation: {U}niversal baselines and evaluation tools for supervised machine learning for materials properties},
+	title = {Random projections and Kernelised Leave One Cluster Out Cross-Validation: Universal baselines and evaluation tools for supervised machine learning for materials properties},
 	year = {2022}}
   }
 </pre></div></li>
