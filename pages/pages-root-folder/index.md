@@ -57,6 +57,7 @@ permalink: /index.html
 
 
 <div style="width: 100%; overflow: hidden;">
+<!--
   <div style="width: 420px; float: left;"> 
   <h3>News</h3>
   <ul>
@@ -64,6 +65,7 @@ permalink: /index.html
     <li>2 papers accepted to EMNLP-2021. <strong>Detect and Classify -- Joint Span Detection and Classification for Health Outcomes</strong> with Abaho et al. and <strong>I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews</strong> with O'Neill et al.</li>
   </ul>
   </div>
+  -->
 
   <div style="margin-left: 430px;"> 
     <a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/Bollegala">Tweets by Bollegala</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
