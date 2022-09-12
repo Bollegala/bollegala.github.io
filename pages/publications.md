@@ -11,7 +11,21 @@ title:     publications
 
 <h2>2022</h2>
 
-<li>Tadashi Tsubota, Danushka Bollegala, Yang Zhao, Yingzi Jin, Tomotake Kozu:
+<li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
+<strong>Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks</strong>,
+Proc. of the 29th International Conference on Computational Linguistics (COLING 2022), Gyeongju, Republic of Korea, October, 2022.
+<!-- <a href="https://arxiv.org/abs/2204.12386"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('kaneko-coling2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-coling2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:COLING:2022,
+	author = {Masahiro Kaneko and Danushka Bollegala and Naoaki Okazaki},
+	booktitle = {Proc. of the 29th International Joint Conference on Computational Linguistics (COLING 2022)},
+	title = {Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks},
+	year = {2022}}
+</pre></div></li>
+
+<li>Tadashi Tsubota, Danushka Bollegala, Yang Zhao, Yingzi Jin and Tomotake Kozu:
 <strong>Improvement of intervention information detection for automated clinical literature screening during systematic review</strong>,
 Journal of Biomedical Informatics, August, 2022.
 <a href="https://doi.org/10.1016/j.jbi.2022.104185"><img src="../images/PDF.png" width="30" height ="10"></a>
