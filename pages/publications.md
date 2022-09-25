@@ -36,6 +36,7 @@ Journal of Biomedical Informatics, August, 2022.
 	author = {Tadashi Tsubota and Danushka Bollegala and Yang Zhao and Yingzi Jin and Tomotake Kozu},
 	journal = {Journal of Biomedical Informatics},
 	pages = {104185},
+  doi = {doi.org/10.1016/j.jbi.2022.104185},
 	title = {Improvement of intervention information detection for automated clinical literature screening during systematic review},
 	year = {2022}}
 </pre></div></li>
