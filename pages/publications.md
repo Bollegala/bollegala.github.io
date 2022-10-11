@@ -11,6 +11,37 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Yi Zhou and Danushka Bollegala:
+<strong>On the Curious case of l2 norm of Sense Embeddings</strong>,
+Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+<!-- <a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('Zhou-EMNLP-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-EMNLP-2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou:EMNLP:2022,
+  author = {Yi Zhou and Danushka Bollegala},  
+  title = {On the Curious case of $\ell_2$ norm of Sense Embeddings},
+  booktitle = {Proc. of 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year = {2022}
+}
+</pre></div></li>
+
+
+<li>Masahiro Kaneko, Danushka Bollegala, and Naoaki Okazaki:
+<strong>Gender Bias in Meta-Embedding</strong>, Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+<a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-MEbias-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-MEbias-2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:EMNLP:2022,
+  url = {https://arxiv.org/abs/2205.09867},  
+  author = {Kaneko, Masahiro and Bollegala, Danushka and Okazaki, Naoaki},  
+  title = {Gender Bias in Meta-Embeddings},
+  booktitle = {Proc. of 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year = {2022}
+}
+</pre></div></li>
+
 <li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
 <strong>Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks</strong>,
 Proc. of the 29th International Conference on Computational Linguistics (COLING 2022), Gyeongju, Republic of Korea, October, 2022.
@@ -74,25 +105,6 @@ arXiv, 2022.
   journal = {Digital Discovery},
 	year = {2022}}
   }
-</pre></div></li>
-
-<li>Masahiro Kaneko, Danushka Bollegala, and Naoaki Okazaki:
-<strong>Gender Bias in Meta-Embedding</strong>,
-arXiv, 2022.
-<a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a>
-<a href = "javascript:unhide('kaneko-MEbias-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
-<div id = "kaneko-MEbias-2022" class="hidden">
-<pre style="text-align: left">
-@misc{https://doi.org/10.48550/arxiv.2205.09867,
-  doi = {10.48550/ARXIV.2205.09867},  
-  url = {https://arxiv.org/abs/2205.09867},  
-  author = {Kaneko, Masahiro and Bollegala, Danushka and Okazaki, Naoaki},  
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Gender Bias in Meta-Embeddings},
-  publisher = {arXiv}, 
-  year = {2022},  
-  copyright = {Creative Commons Attribution 4.0 International}
-}
 </pre></div></li>
 
 
