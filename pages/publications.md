@@ -45,15 +45,24 @@ Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing
 <li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
 <strong>Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks</strong>,
 Proc. of the 29th International Conference on Computational Linguistics (COLING 2022), Gyeongju, Republic of Korea, October, 2022.
-<a href="https://arxiv.org/abs/2210.02938"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2022.coling-1.111/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('kaneko-coling2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-coling2022" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Kaneko:COLING:2022,
-	author = {Masahiro Kaneko and Danushka Bollegala and Naoaki Okazaki},
-	booktitle = {Proc. of the 29th International Joint Conference on Computational Linguistics (COLING 2022)},
-	title = {Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks},
-	year = {2022}}
+@inproceedings{kaneko-etal-2022-debiasing,
+    title = "Debiasing Isn{'}t Enough! {--} on the Effectiveness of Debiasing {MLM}s and Their Social Biases in Downstream Tasks",
+    author = "Kaneko, Masahiro  and
+      Bollegala, Danushka  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.111",
+    pages = "1299--1310",
+    abstract = "We study the relationship between task-agnostic intrinsic and task-specific extrinsic social bias evaluation measures for MLMs, and find that there exists only a weak correlation between these two types of evaluation measures. Moreover, we find that MLMs debiased using different methods still re-learn social biases during fine-tuning on downstream tasks. We identify the social biases in both training instances as well as their assigned labels as reasons for the discrepancy between intrinsic and extrinsic bias evaluation measurements. Overall, our findings highlight the limitations of existing MLM bias evaluation measures and raise concerns on the deployment of MLMs in downstream applications using those measures.",
+}
 </pre></div></li>
 
 <li>Tadashi Tsubota, Danushka Bollegala, Yang Zhao, Yingzi Jin and Tomotake Kozu:
