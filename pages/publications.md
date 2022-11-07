@@ -14,7 +14,7 @@ title:     publications
 <li>Yi Zhou and Danushka Bollegala:
 <strong>On the Curious case of l2 norm of Sense Embeddings</strong>,
 Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
-<!-- <a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href="https://arxiv.org/abs/2210.14815"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Zhou-EMNLP-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Zhou-EMNLP-2022" class="hidden">
 <pre style="text-align: left">
