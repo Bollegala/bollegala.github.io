@@ -11,9 +11,25 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Asahi Ushio and Danushka Bollegala:
+<strong>Zero-shot cross-lingual counterfactual detection via automatic extraction and prediction of clue phrases</strong>,
+Proc. of the EMNLP 2022 Workshop on Multilingual Repersentation Learning, Abu Dhabi, December, 2022.
+<a href="https://www.amazon.science/publications/zero-shot-cross-lingual-counterfactual-detection-via-automatic-extraction-and-prediction-of-clue-phrases"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Ushio-EMNLP-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Ushio-EMNLP-2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Ushio:EMNLP:2022,
+  author = {Asahi Ushio and Danushka Bollegala},  
+  title = {Zero-shot cross-lingual counterfactual detection via automatic extraction and prediction of clue phrases},
+  booktitle = {Proc. of  the EMNLP 2022 Workshop on Multilingual Repersentation Learning},
+  year = {2022}
+}
+</pre></div></li>
+
+
 <li>Yi Zhou and Danushka Bollegala:
 <strong>On the Curious case of l2 norm of Sense Embeddings</strong>,
-Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December, 2022.
 <a href="https://arxiv.org/abs/2210.14815"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Zhou-EMNLP-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Zhou-EMNLP-2022" class="hidden">
@@ -28,7 +44,7 @@ Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing
 
 
 <li>Masahiro Kaneko, Danushka Bollegala, and Naoaki Okazaki:
-<strong>Gender Bias in Meta-Embedding</strong>, Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+<strong>Gender Bias in Meta-Embedding</strong>, Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, December, 2022.
 <a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('kaneko-MEbias-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "kaneko-MEbias-2022" class="hidden">
