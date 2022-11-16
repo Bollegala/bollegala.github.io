@@ -11,6 +11,8 @@ title:     publications
 
 <h2>2022</h2>
 
+
+
 <li>Asahi Ushio and Danushka Bollegala:
 <strong>Zero-shot cross-lingual counterfactual detection via automatic extraction and prediction of clue phrases</strong>,
 Proc. of the EMNLP 2022 Workshop on Multilingual Repersentation Learning, Abu Dhabi, December, 2022.
@@ -57,6 +59,22 @@ Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing
   year = {2022}
 }
 </pre></div></li>
+
+<li>Katie Atkinson and Danushka Bollegala:
+<strong>AI for Patent Essentiality Review</strong>
+Social Science Research Network (SSRN), November, 2022.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4277799"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Katie-SSRN-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Katie-SSRN-2022" class="hidden">
+<pre style="text-align: left">
+@misc{Atkinson:SSRN:2022,
+  author = {Katie Atkinson and Danushka Bollegala},  
+  title = {AI for Patent Essentiality Review},
+  howpublished = {Social Science Research Network (SSRN)},
+  year = {2022}
+}
+</pre></div></li>
+
 
 <li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
 <strong>Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks</strong>,
