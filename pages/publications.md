@@ -11,6 +11,21 @@ title:     publications
 
 <h2>2022</h2>
 
+<li>Lauren E Walker and Aseel S Abuzour and Danushka Bollegala and Andrew Clegg and Mark Gabbay and Alan Griffiths and Cecil Kullu and Gary Leeming and Frances S Mair and Simon Maskell and Samuel Relton and Roy A Ruddle and Eduard Shantsila and Matthew Sperrin and Tjeerd Van Staa and Alan Woodall and Iain Buchan:
+<strong>The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity</strong>,
+<a href="https://journals.sagepub.com/doi/10.1177/26335565221145493"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Walker-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Walker-2022" class="hidden">
+<pre style="text-align: left">
+@article{doi:10.1177/26335565221145493,
+	author = {Lauren E Walker and Aseel S Abuzour and Danushka Bollegala and Andrew Clegg and Mark Gabbay and Alan Griffiths and Cecil Kullu and Gary Leeming and Frances S Mair and Simon Maskell and Samuel Relton and Roy A Ruddle and Eduard Shantsila and Matthew Sperrin and Tjeerd Van Staa and Alan Woodall and Iain Buchan},
+	journal = {Journal of Multimorbidity and Comorbidity},
+	pages = {26335565221145493},
+	title = {The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity},
+	volume = {12},
+	year = {2022}}
+</pre></div></li>
+
 
 
 <li>Asahi Ushio and Danushka Bollegala:
