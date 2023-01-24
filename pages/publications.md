@@ -42,6 +42,7 @@ Proceedings of the  17th Conference of the European Chapter of the Association f
 <li> Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo:
 <strong>Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation</strong>,
 Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), UK, May, 2023.
+<a href="https://arxiv.org/abs/2301.06826"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Guanqun-ICRA-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Guanqun-ICRA-2023" class="hidden">
 <pre style="text-align: left">
