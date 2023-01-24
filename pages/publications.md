@@ -9,9 +9,53 @@ title:     publications
 
 <ol reversed>
 
+<h2>2023</h2>
+
+<li>Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh and Satoshi Nakamura:
+<strong>Evaluating the Robustness of Discrete Prompts</strong>,
+Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+<a href = "javascript:unhide('Ishibashi-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Ishibashi-EACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Ishibashi:EACL:2023,
+  author = {Yoichi Ishibashi and Danushka Bollegala and Katsuhito Sudoh and Satoshi Nakamura},  
+  title = {Evaluating the Robustness of Discrete Prompts},
+  booktitle = {Proc. of  the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
+<strong>Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples</strong>,
+Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+<a href = "javascript:unhide('Kaneko-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-EACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:EACL:2023,
+  author = {Masahiro Kaneko and Danushka Bollegala and Naoaki Okazaki},  
+  title = {Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples},
+  booktitle = {Proc. of  the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
+<li> Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo:
+<strong>Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation</strong>,
+Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), UK, May, 2023.
+<a href = "javascript:unhide('Guanqun-ICRA-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Guanqun-ICRA-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Guanqun:ICRA:2023,
+  author = {Guanqun Cao and Jiaqi Jiang and Ningtao Mao and Danushka Bollegala and Min Li and Shan Luo},  
+  title = {Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation},
+  booktitle = {Proc. of  the IEEE International Conference on Robotics and Automation (ICRA 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
 <h2>2022</h2>
 
-<li>Lauren E Walker and Aseel S Abuzour and Danushka Bollegala and Andrew Clegg and Mark Gabbay and Alan Griffiths and Cecil Kullu and Gary Leeming and Frances S Mair and Simon Maskell and Samuel Relton and Roy A Ruddle and Eduard Shantsila and Matthew Sperrin and Tjeerd Van Staa and Alan Woodall and Iain Buchan:
+<li>Lauren E Walker, Aseel S Abuzour, Danushka Bollegala, Andrew Clegg, Mark Gabbay, Alan Griffiths, Cecil Kullu, Gary Leeming, Frances S Mair, Simon Maskell, Samuel Relton, Roy A Ruddle, Eduard Shantsila, Matthew Sperrin, Tjeerd Van Staa, Alan Woodall and Iain Buchan:
 <strong>The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity</strong>,
 <a href="https://journals.sagepub.com/doi/10.1177/26335565221145493"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Walker-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
