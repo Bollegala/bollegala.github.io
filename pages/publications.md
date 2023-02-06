@@ -28,6 +28,7 @@ Proceedings of the  17th Conference of the European Chapter of the Association f
 <li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
 <strong>Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples</strong>,
 Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+<a href="https://arxiv.org/abs/2301.12074"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Kaneko-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Kaneko-EACL-2023" class="hidden">
 <pre style="text-align: left">
