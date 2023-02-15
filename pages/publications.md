@@ -14,6 +14,7 @@ title:     publications
 <li>Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh and Satoshi Nakamura:
 <strong>Evaluating the Robustness of Discrete Prompts</strong>,
 Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+<a href="https://arxiv.org/abs/2302.05619"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Ishibashi-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Ishibashi-EACL-2023" class="hidden">
 <pre style="text-align: left">
