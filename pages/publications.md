@@ -231,7 +231,7 @@ Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-E
 <li>Danushka Bollegala and James O'Neill:
 <strong>A Survey on Word Meta-Embedding Learning</strong>,
 Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
-<a href="https://arxiv.org/abs/2204.11660"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://www.ijcai.org/proceedings/2022/0758.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('bollegala-ijcai2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "bollegala-ijcai2022" class="hidden">
 <pre style="text-align: left">
@@ -1205,16 +1205,22 @@ Journal of Cheminformatics, 2020.
 
 <li>Cong Bao and Danushka Bollegala:
   <strong>Learning Word Meta-Embeddings by Autoencoding</strong> Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 1650-1661, 2018.
-  <a href="../papers/aeme.pdf"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
+  <a href="https://aclanthology.org/C18-1140/"><img src="../images/PDF.png" alt="lle 2017" width="30" height ="10"></a>
   <a href = "javascript:unhide('cong-coling-18');" class="bibtex"><img src="../images/bib.png" alt="pairdiff 2018" width="30" height ="10"></a>
 <div id = "cong-coling-18" class="hidden">
 <pre style="text-align: left">
-@inproceedings{Cong:COLING:2018,
-   author = {Cong Bao and Danushka Bollegala},
-    title = {Learning Word Meta-Embeddings by Autoencoding},
-  booktitle = {Proc. of the 27th International Conference on Computational Linguistics (COLING)},
-  pages = {1650--1661},
-  year = {2018}
+@inproceedings{bollegala-bao-2018-learning,
+    title = "Learning Word Meta-Embeddings by Autoencoding",
+    author = "Bollegala, Danushka  and
+      Bao, Cong",
+    booktitle = "Proceedings of the 27th International Conference on Computational Linguistics",
+    month = aug,
+    year = "2018",
+    address = "Santa Fe, New Mexico, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/C18-1140",
+    pages = "1650--1661",
+    abstract = "Distributed word embeddings have shown superior performances in numerous Natural Language Processing (NLP) tasks. However, their performances vary significantly across different tasks, implying that the word embeddings learnt by those methods capture complementary aspects of lexical semantics. Therefore, we believe that it is important to combine the existing word embeddings to produce more accurate and complete meta-embeddings of words. We model the meta-embedding learning problem as an autoencoding problem, where we would like to learn a meta-embedding space that can accurately reconstruct all source embeddings simultaneously. Thereby, the meta-embedding space is enforced to capture complementary information in different source embeddings via a coherent common embedding space. We propose three flavours of autoencoded meta-embeddings motivated by different requirements that must be satisfied by a meta-embedding. Our experimental results on a series of benchmark evaluations show that the proposed autoencoded meta-embeddings outperform the existing state-of-the-art meta-embeddings in multiple tasks.",
 }
 </pre></div></li>
 
