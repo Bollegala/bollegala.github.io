@@ -196,12 +196,18 @@ Journal of Artificial Intelligence Research (JAIR), Information Processing and M
 Invited Talks
 ==============
 
+1. *Social Biases in Generative AI systems*, Keynote talk given at the [Digital Theme UK-Ukraine Twinning Initiative](https://www.digital-ukraine.co.uk/) (2023.03)
+
+1. Invited talk at the Open Data Science Conference (ODSC), London. (2022.06)
+
+1. *AI for HR -- tools and biases*, Keynote talk at the [World Human Resource Conference](https://wfpma.org/world-congress/), Colombo. (2022.05)
+
 1. Keynote at the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING) on 
-    *Overcoming the limitations in Lexical Representations via Meta-embedding Learning*
+    *Overcoming the limitations in Lexical Representations via Meta-embedding Learning* (2019.10)
 
 1. Keynote 2018 National Human Resource Conference of the Institute of Personnel Management (IPM) Sri Lanka on
-    *On Changing Human Resource Landscape in the Digital World*
-    <iframe width="448" height="252" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    *On Changing Human Resource Landscape in the Digital World* <br/>
+    <iframe width="448" height="252" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> (2019.06)
 
 
 1. EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
