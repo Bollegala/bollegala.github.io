@@ -8,7 +8,7 @@ title:  CV
 <h2>My most recent CV is <a href="../CV/CV.pdf">here</a></h2>
 
 <h2> Short Bio </h2>
-Danushka Bollegala is a Professor in the Department of Computer Science, University of Liverpool, UK. He obtained his PhD from the University of Tokyo in 2009 and worked as an Assistant Professor before moving to the UK. He has worked on various problems related to Natural Language Processing and Machine Learning. He has received numerous awards for his research excellence such as the IEEE Young Author Award, best paper awards at GECCO and PRICAI. His research has been supported by various research council and industrial grants such as EU, DSTL, Innovate UK, JSPS, Google and MSRA. He is an Amazon Scholar.
+Danushka Bollegala is a Professor (Level 2) in the Department of Computer Science, University of Liverpool, UK. He obtained his PhD from the University of Tokyo in 2009 and worked as an Assistant Professor before moving to the UK. He has worked on various problems related to Natural Language Processing and Machine Learning. He has received numerous awards for his research excellence such as the IEEE Young Author Award, best paper awards at GECCO and PRICAI. His research has been supported by various research council and industrial grants such as EU, DSTL, Innovate UK, JSPS, Google and MSRA. He is an Amazon Scholar.
 
 
 <h2>Education</h2>
@@ -133,6 +133,8 @@ Awards
 
 Funding
 ========
+1. *DynAIRx: AIs for dynamic prescribing optimisation and care integration in multimorbidity*, National Institute for Health Research (NIHR), Co-I (GBP £2,807,430), 2022-2024.
+
 1. *Deep Learning of Procedural Natural Language Understanding*, PhD Studentship, University of Liverpool, PI (GBP 60k), 2017-2020.
 
 1. *Legal Advisor Dialgoue Engine*, LexSnap, PI (GBP 12k), 2017-2018.
@@ -176,6 +178,8 @@ Funding
 
 Service Activities
 ====================
+* Programme Chair: System Demonstrations at [ACL 2023](https://2023.aclweb.org/committees/organization/).
+
 * Area Chair: EMNLP 2019, Machine Learning.
 
 * Area Chair: COLING 2014, Information Extraction and Database Linking Track
@@ -192,47 +196,45 @@ Journal of Artificial Intelligence Research (JAIR), Information Processing and M
 Invited Talks
 ==============
 
-<div class="itemizedlist"><ol class="itemizedlist" type="disc">
+1. Keynote at the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING) on 
+    *Overcoming the limitations in Lexical Representations via Meta-embedding Learning*
 
-<li> Keynote at the 16th International Conference of the Pacific Association for Computational Linguistics (PACLING) on 
-    <strong>   Overcoming the limitations in Lexical Representations via Meta-embedding Learning</strong></li>
-
-<li> Keynote 2018 National Human Resource Conference of the Institute of Personnel Management (IPM) Sri Lanka on
-    <strong>On Changing Human Resource Landscape in the Digital World</strong>
-    <iframe width="448" height="252" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+1. Keynote 2018 National Human Resource Conference of the Institute of Personnel Management (IPM) Sri Lanka on
+    *On Changing Human Resource Landscape in the Digital World*
+    <iframe width="448" height="252" src="https://www.youtube.com/embed/hv_Le6de6Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<li> EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
-<strong>Natural Language Processing for Healthcare Informatics.</strong></li>
+1. EPSRC Liverpool Centre for Mathematics in Healthcare IMAGING AND DATA INTEGRATION EVENT on
+*Natural Language Processing for Healthcare Informatics.*
 
-<li>Scientific Computing Center at Hartree Supercomputing Center, Darsebury, UK. on <strong>Learning the Meanings of Words from Big Data.</strong></li>
+1. Scientific Computing Center at Hartree Supercomputing Center, Darsebury, UK. on *Learning the Meanings of Words from Big Data.*
 
-<li>Invited talk on <strong>Big Data and IT Capabilities</strong>, Her Magesties Revenue and Customs (HMRC), Liverpool. (2016.07)</li>
+1. Invited talk on *Big Data and IT Capabilities*, Her Magesties Revenue and Customs (HMRC), Liverpool. (2016.07)
 
-<li>Talk on <strong>Joint Word and Relation Representation Learning</strong>, Workshop Knowledge Representation, Liverpool. (2016.06)</li>
+1. *Joint Word and Relation Representation Learning*, Workshop Knowledge Representation, Liverpool. (2016.06)
 
-<li>Talk on distributed embedding methods at Natural Language Group seminar at University of Sheffield. (2016.01) </li>
+1. *Distributed embedding methods* at Natural Language Group seminar at University of Sheffield. (2016.01)
 
-<li>Keynote speech at APSITT, Colombo, Sri Lanka. Talk title deep learning for AI (2015.8)</li>
+1. *Deep learning for AI* Keynote speech at APSITT, Colombo, Sri Lanka. (2015.8)
 
-<li>Talk given at Microsoft Research Asia (Beijing) during my stay as a visiting researcher <a href="../slides/MSRA_2012_Oct_29.pdf">slides</a> (2012.10)</li>
+1. Talk given at Microsoft Research Asia (Beijing) during my stay as a visiting researcher <a href="../slides/MSRA_2012_Oct_29.pdf">slides</a> (2012.10)
 
-<li>The 26th Annual National Conference on Artificial Intelligence, Workshop on Semantics and Computing <strong><a href="papers/jsai2012.pdf">      Relation Extraction and Relational Search on the Web</a></strong>, <a href="../slides/jsai2012RE.pdf"><img src="../images/PDF.png" width="30" height="10"/></a> (2012.06) </li>
+1. The 26th Annual National Conference on Artificial Intelligence, Workshop on Semantics and Computing <strong><a href="papers/jsai2012.pdf">      Relation Extraction and Relational Search on the Web</a></strong>, <a href="../slides/jsai2012RE.pdf"><img src="../images/PDF.png" width="30" height="10"/></a> (2012.06) 
 
-<li>The 14th Information-Based Induction Sciences Workshop <a href="http://ibisml.org/ibis2011/">(IBIS 2011)</a>, Relational Data and Tensor Decomposition Invited Session, Nara, Japan. <strong>Relation Extraction from the Web</strong>. <a href="../papers/IBIS_2011.pdf"><img src="../images/PDF.png" width="30"       height="10"/></a>(2011.11) </li>     
+1. The 14th Information-Based Induction Sciences Workshop <a href="http://ibisml.org/ibis2011/">(IBIS 2011)</a>, Relational Data and Tensor Decomposition Invited Session, Nara, Japan. <strong>Relation Extraction from the Web</strong>. <a href="../papers/IBIS_2011.pdf"><img src="../images/PDF.png" width="30"       height="10"/></a>(2011.11)  
 
-<li>Google Inc., Mountain View, California, USA. <strong>Cross-Language Latent Relational Web Search</strong> (with Nguyen Duc). (2011.08)</li>   
+1. Google Inc., Mountain View, California, USA. <strong>Cross-Language Latent Relational Web Search</strong> (with Nguyen Duc). (2011.08) 
 
-<li>TOSHIBA Cambridge Research Laboratory, Cambridge, UK. <strong>Relation Adaptation: Learning to Extract Novel Relations with Minimum Supervision</strong>. (2011.07)</li>   
+1. TOSHIBA Cambridge Research Laboratory, Cambridge, UK. <strong>Relation Adaptation: Learning to Extract Novel Relations with Minimum Supervision</strong>. (2011.07) 
 
-<li>ILCC School of Informatics, University of Edinburgh, UK. <strong>Domain Adaptation for NLP</strong>. (2011.06)</li>   
+1. ILCC School of Informatics, University of Edinburgh, UK. <strong>Domain Adaptation for NLP</strong>. (2011.06) 
 
-<li>Department of Informatics, University of Sussex, UK. <strong>Cross-Domain Sentiment Classification</strong>. (2011.05)</li>   
+1. Department of Informatics, University of Sussex, UK. <strong>Cross-Domain Sentiment Classification</strong>. (2011.05) 
 
-<li><a href="http://research.microsoft.com/apps/video/default.aspx?id=131163">Microsoft Research (Redmond)</a> talk given on <strong>Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web</strong> (2010.05) </li>
+1. <a href="http://research.microsoft.com/apps/video/default.aspx?id=131163">Microsoft Research (Redmond)</a> talk given on <strong>Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web</strong> (2010.05)
 
-<li><a href="http://www.rakuten.co.jp/event/rrds2008/about_en.html">Rakuten Tech Talk</a> given on <strong>Measuring Relational Similarity between Entities using Web Texts.</strong> (2010.03) </li>
+1. <a href="http://www.rakuten.co.jp/event/rrds2008/about_en.html">Rakuten Tech Talk</a> given on <strong>Measuring Relational Similarity between Entities using Web Texts.</strong> (2010.03) 
       
-<li><a href="http://web-gakkai.org/">First Japanese Web Conference Symposium)</a> <strong>Creating AI from the Web</strong> <a href="../slides/webgakkai_2009.ppsx"><img src="../images/ppt.png" alt="webgakkai slides" width="30" height="10"/></a> (2009.12) </li>
-</ol></div>
+1. <a href="http://web-gakkai.org/">First Japanese Web Conference Symposium)</a> <strong>Creating AI from the Web</strong> <a href="../slides/webgakkai_2009.ppsx"><img src="../images/ppt.png" alt="webgakkai slides" width="30" height="10"/></a> (2009.12)
+
 
