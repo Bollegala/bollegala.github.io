@@ -11,9 +11,71 @@ title:     publications
 
 <h2>2023</h2>
 
+<li>Xiohang Tang, Yi Zhou and Danushka Bollegala:
+<strong>Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
+<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tang-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tang-ACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Tang:ACL:2023,
+  author = {Xiohang Tang and Yi Zhou and Danushka Bollegala},  
+  title = {Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation},
+  booktitle = {Proc. of  the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
+<li>Haochen Luo, Yi Zhou and Danushka Bollegala:
+<strong>Together We Make Sense--Learning Meta-Sense Embeddings</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Haochen-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Haochen-ACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Luo:ACL:2023,
+  author = {Haochen Luo and Yi Zhou and Danushka Bollegala},  
+  title = {Together We Make Sense--Learning Meta-Sense Embeddings},
+  booktitle = {Proc. of  the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-ACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida:ACL:2023,
+  author = {Taichi Aida and Danushka Bollegala},  
+  title = {Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings},
+  booktitle = {Proc. of  the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023)},
+  year = {2023}
+}
+</pre></div></li>
+
+<li>Saeth Wannasuphoprasit, Yi Zhou and Danushka Bollegala:
+<strong>Solving Cosine Similarity Underestimation between High Frequency Words by l2 Norm Discounting </strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023 Short Papers), Toronto, Canada, July, 2023.
+<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Saeth-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Saeth-ACL-2023" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Saeth:ACL:2023,
+  author = {Saeth Wannasuphoprasit and Yi Zhou and Danushka Bollegala},  
+  title = {Solving Cosine Similarity Underestimation between High Frequency Words by l2 Norm Discounting },
+  booktitle = {Proc. of  the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023 Short Papers)},
+  year = {2023}
+}
+</pre></div></li>
+
+
+
 <li>Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh and Satoshi Nakamura:
 <strong>Evaluating the Robustness of Discrete Prompts</strong>,
-Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023.
 <a href="https://arxiv.org/abs/2302.05619"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Ishibashi-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Ishibashi-EACL-2023" class="hidden">
@@ -28,7 +90,7 @@ Proceedings of the  17th Conference of the European Chapter of the Association f
 
 <li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
 <strong>Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples</strong>,
-Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2022.
+Proceedings of the  17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023.
 <a href="https://arxiv.org/abs/2301.12074"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Kaneko-EACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Kaneko-EACL-2023" class="hidden">
