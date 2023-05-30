@@ -447,7 +447,7 @@ Knowledge-Based Intelligent Systems in E-Health and Medical Communication Servic
 <li>Yi Zhou and Danushka Bollegala:
 <strong>Learning Sense-Specific Static Embeddings using Contextualised Word Embeddings as a Proxy</strong>,
 Proc. of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), November, 2021.
-<a href="https://aclanthology.org/2021.paclic-1.2/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://aclanthology.org/2021.paclic-1.52/"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('paclic-jodie-2021');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "paclic-jodie-2021" class="hidden">
 <pre style="text-align: left">
