@@ -14,7 +14,7 @@ title:     publications
 <li>Xiohang Tang, Yi Zhou and Danushka Bollegala:
 <strong>Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation</strong>,
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada, July, 2023.
-<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://arxiv.org/abs/2208.10734"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Tang-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Tang-ACL-2023" class="hidden">
 <pre style="text-align: left">
@@ -29,7 +29,7 @@ Proceedings of the 61st Annual Meeting of the Association for Computational Ling
 <li>Haochen Luo, Yi Zhou and Danushka Bollegala:
 <strong>Together We Make Sense--Learning Meta-Sense Embeddings</strong>,
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
-<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://arxiv.org/abs/2305.19092"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Haochen-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Haochen-ACL-2023" class="hidden">
 <pre style="text-align: left">
@@ -44,7 +44,7 @@ Proceedings of the 61st Annual Meeting of the Association for Computational Ling
 <li>Taichi Aida and Danushka Bollegala:
 <strong>Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings</strong>,
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
-<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://arxiv.org/abs/2305.08654"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Aida-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Aida-ACL-2023" class="hidden">
 <pre style="text-align: left">
@@ -59,7 +59,7 @@ Proceedings of the 61st Annual Meeting of the Association for Computational Ling
 <li>Saeth Wannasuphoprasit, Yi Zhou and Danushka Bollegala:
 <strong>Solving Cosine Similarity Underestimation between High Frequency Words by l2 Norm Discounting </strong>,
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023 Short Papers), Toronto, Canada, July, 2023.
-<a href=""><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href="https://arxiv.org/abs/2305.10610"><img src="../images/PDF.png" width="30" height ="10"></a>
 <a href = "javascript:unhide('Saeth-ACL-2023');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
 <div id = "Saeth-ACL-2023" class="hidden">
 <pre style="text-align: left">
