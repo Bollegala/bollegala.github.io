@@ -8,7 +8,7 @@ const documentBody = document.getElementsByTagName('body')[0];
 
 function setThemeFromCookie() {
 	// Check if the cookie is set 
-	if (typeof Cookies.get('mode') !== "undefined" ) {
+	if (typeof Cookies.get('mode') == "undefined" ) {
 		documentBody.classList.add('dark-mode');
 		modeToggler.checked = true; // toggle change
 		
