@@ -1,12 +1,67 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Bollegala, Danushka at 2023-09-04 16:14:36 +0100 
+%% Created for Bollegala, Danushka at 2025-02-27 20:41:58 +0000 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{Zhao:2024c,
+	abstract = {OBJECTIVE: As new knowledge is produced at a rapid pace in the
+               biomedical field, existing biomedical Knowledge Graphs (KGs)
+               cannot be manually updated in a timely manner. Previous work in
+               Natural Language Processing (NLP) has leveraged link prediction
+               to infer the missing knowledge in general-purpose KGs. Inspired
+               by this, we propose to apply link prediction to existing
+               biomedical KGs to infer missing knowledge. Although Knowledge
+               Graph Embedding (KGE) methods are effective in link prediction
+               tasks, they are less capable of capturing relations between
+               communities of entities with specific attributes (Fanourakis et
+               al., 2023). METHODS: To address this challenge, we proposed an
+               entity distance-based method for abstracting a Community
+               Knowledge Graph (CKG) from a simplified version of the
+               pre-existing PubMed Knowledge Graph (PKG) (Xu et al., 2020). For
+               link prediction on the abstracted CKG, we proposed an extension
+               approach for the existing KGE models by linking the information
+               in the PKG to the abstracted CKG. The applicability of this
+               extension was proved by employing six well-known KGE models:
+               TransE, TransH, DistMult, ComplEx, SimplE, and RotatE. Evaluation
+               metrics including Mean Rank (MR), Mean Reciprocal Rank (MRR), and
+               Hits@k were used to assess the link prediction performance. In
+               addition, we presented a backtracking process that traces the
+               results of CKG link prediction back to the PKG scale for further
+               comparison. RESULTS: Six different CKGs were abstracted from the
+               PKG by using embeddings of the six KGE methods. The results of
+               link prediction in these abstracted CKGs indicate that our
+               proposed extension can improve the existing KGE methods,
+               achieving a top-10 accuracy of 0.69 compared to 0.5 for TransE,
+               0.7 compared to 0.54 for TransH, 0.67 compared to 0.6 for
+               DistMult, 0.73 compared to 0.57 for ComplEx, 0.73 compared to
+               0.63 for SimplE, and 0.85 compared to 0.76 for RotatE on their
+               CKGs, respectively. These improved performances also highlight
+               the wide applicability of the extension approach. CONCLUSION:
+               This study proposed novel insights into abstracting CKGs from the
+               PKG. The extension approach indicated enhanced performance of the
+               existing KGE methods and has applicability. As an interesting
+               future extension, we plan to conduct link prediction for entities
+               that are newly introduced to the PKG.},
+	author = {Zhao, Yang and Bollegala, Danushka and Hirose, Shunsuke and Jin, Yingzi and Kozu, Tomotake},
+	date-added = {2025-02-27 20:41:56 +0000},
+	date-modified = {2025-02-27 20:41:56 +0000},
+	journal = {J. Biomed. Inform.},
+	keywords = {Backtracking process; CKG; Entity distance-based method; KGE; Link prediction; PKG},
+	language = {en},
+	month = oct,
+	number = 104725,
+	pages = 104725,
+	publisher = {Elsevier BV},
+	title = {Community knowledge graph abstraction for enhanced link prediction: A study on {PubMed} knowledge graph},
+	url = {http://dx.doi.org/10.1016/j.jbi.2024.104725},
+	volume = 158,
+	year = 2024,
+	bdsk-url-1 = {http://dx.doi.org/10.1016/j.jbi.2024.104725}}
 
 @misc{2305.16372,
 	abstract = {Clustering is a common task in machine learning, but clusters of unlabelled data can be hard to quantify. The application of clustering algorithms in chemistry is often dependant on material representation. Ascertaining the effects of different representations, clustering algorithms, or data transformations on the resulting clusters is difficult due to the dimensionality of these data. We present a thorough analysis of measures for isotropy of a cluster, including a novel implantation based on an existing derivation. Using fractional anisotropy, a common method used in medical imaging for comparison, we then expand these measures to examine the average isotropy of a set of clusters. A use case for such measures is demonstrated by quantifying the effects of kernel approximation functions on different representations of the Inorganic Crystal Structure Database. Broader applicability of these methods is demonstrated in analysing learnt embedding of the MNIST dataset. Random clusters are explored to examine the differences between isotropy measures presented, and to see how each method scales with the dimensionality. Python implementations of these measures are provided for use by the community.},
@@ -18,7 +73,7 @@
 	title = {{M}etrics for quantifying isotropy in high dimensional unsupervised clustering tasks in a materials context},
 	url = {http://arxiv.org/abs/2305.16372},
 	year = {2023},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAzLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvUGFwZXJzLzIzMDUuMTYzNzIucGRmTxEBjgAAAAABjgACAAAMTWFjaW50b3NoIEhEAAAAAAAAAAAAAAAAAAAA4O/kHkJEAAH/////DjIzMDUuMTYzNzIucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////hGfvjAAAAAAAAAAAAAgAEAAAKIGN1AAAAAAAAAAAAAAAAAAZQYXBlcnMAAgBLLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6UGFwZXJzOjIzMDUuMTYzNzIucGRmAAAOAB4ADgAyADMAMAA1AC4AMQA2ADMANwAyAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBJVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzL1BhcGVycy8yMzA1LjE2MzcyLnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAWgAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAHs},
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAzLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvUGFwZXJzLzIzMDUuMTYzNzIucGRmTxEBjgAAAAABjgACAAAMTWFjaW50b3NoIEhEAAAAAAAAAAAAAAAAAAAA48f3j0JEAAH/////DjIzMDUuMTYzNzIucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////hGfvjAAAAAAAAAAAAAgAEAAAKIGN1AAAAAAAAAAAAAAAAAAZQYXBlcnMAAgBLLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6UGFwZXJzOjIzMDUuMTYzNzIucGRmAAAOAB4ADgAyADMAMAA1AC4AMQA2ADMANwAyAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBJVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzL1BhcGVycy8yMzA1LjE2MzcyLnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAWgAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAHs},
 	bdsk-url-1 = {http://arxiv.org/abs/2305.16372}}
 
 @article{Atkinson_2022,
@@ -427,7 +482,7 @@
 	title = {A bottom-up approach to sentence ordering for multi-document summarization},
 	volume = {46},
 	year = {2010},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA7Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9pcG1fc2VudG9yZF9wcmVwcmludC5wZGZPEQGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADg7+QeQkQAAf////8YaXBtX3NlbnRvcmRfcHJlcHJpbnQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////86HkJsAAAAAAAAAAAACAAQAAAogY3UAAAAAAAAAAAAAAAAABDIwMTMAAgBTLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6MjAxMzppcG1fc2VudG9yZF9wcmVwcmludC5wZGYAAA4AMgAYAGkAcABtAF8AcwBlAG4AdABvAHIAZABfAHAAcgBlAHAAcgBpAG4AdAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAUVVzZXJzL2RhbnVib2wvU3lub2xvZ3lEcml2ZS9SZXNlYXJjaC9SZXNlYXJjaFBhcGVycy8yMDEzL2lwbV9zZW50b3JkX3ByZXByaW50LnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAYgAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAIW}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA7Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9pcG1fc2VudG9yZF9wcmVwcmludC5wZGZPEQGwAAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADjx/ePQkQAAf////8YaXBtX3NlbnRvcmRfcHJlcHJpbnQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////86HkJsAAAAAAAAAAAACAAQAAAogY3UAAAAAAAAAAAAAAAAABDIwMTMAAgBTLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6MjAxMzppcG1fc2VudG9yZF9wcmVwcmludC5wZGYAAA4AMgAYAGkAcABtAF8AcwBlAG4AdABvAHIAZABfAHAAcgBlAHAAcgBpAG4AdAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAUVVzZXJzL2RhbnVib2wvU3lub2xvZ3lEcml2ZS9SZXNlYXJjaC9SZXNlYXJjaFBhcGVycy8yMDEzL2lwbV9zZW50b3JkX3ByZXByaW50LnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAYgAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAIW}}
 
 @article{Bollegala:TKDE:2011,
 	author = {Bollegala, Danushka and Matsuo, Yutaka and Ishizuka, Mitsuru},
@@ -441,7 +496,7 @@
 	title = {Automatic Discovery of Personal Name Aliases from the Web},
 	volume = {23},
 	year = {2011},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAxLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX2FsaWFzLnBkZk8RAYgAAAAAAYgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAODv5B5CRAAB/////w5US0RFX2FsaWFzLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zod4EAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEkvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfYWxpYXMucGRmAAAOAB4ADgBUAEsARABFAF8AYQBsAGkAYQBzAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBHVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvVEtERV9hbGlhcy5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAFgAAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAB5A==}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAxLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX2FsaWFzLnBkZk8RAYgAAAAAAYgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAOPH949CRAAB/////w5US0RFX2FsaWFzLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zod4EAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEkvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfYWxpYXMucGRmAAAOAB4ADgBUAEsARABFAF8AYQBsAGkAYQBzAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBHVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvVEtERV9hbGlhcy5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAFgAAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAB5A==}}
 
 @article{Bollegala:IS:2012,
 	author = {Bollegala, Danushka and Okazaki, Naoaki and Ishizuka, Mitsuru},
@@ -477,7 +532,7 @@
 	title = {Cross-Language Latent Relational Search between Japanese and English Languages using a Web Corpus},
 	volume = {11},
 	year = {2012},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAxLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9UQUxJUF8yMDEyLnBkZk8RAYgAAAAAAYgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAODv5B5CRAAB/////w5UQUxJUF8yMDEyLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zodG2AAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEkvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRBTElQXzIwMTIucGRmAAAOAB4ADgBUAEEATABJAFAAXwAyADAAMQAyAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBHVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvVEFMSVBfMjAxMi5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAFgAAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAB5A==}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAxLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9UQUxJUF8yMDEyLnBkZk8RAYgAAAAAAYgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAOPH949CRAAB/////w5UQUxJUF8yMDEyLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zodG2AAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEkvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRBTElQXzIwMTIucGRmAAAOAB4ADgBUAEEATABJAFAAXwAyADAAMQAyAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBHVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvVEFMSVBfMjAxMi5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAFgAAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAB5A==}}
 
 @article{Bollegala:PLOS:2013,
 	author = {Bollegala, Danushka and Shutova, Ekaterina},
@@ -503,7 +558,7 @@
 	title = {Improving Relational Similarity Measurement using Symmetries in Proportional Word Analogies},
 	volume = {49},
 	year = {2013},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA1Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9yZWxzeW1faXBtMjAxMi5wZGZPEQGYAAAAAAGYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADg7+QeQkQAAf////8ScmVsc3ltX2lwbTIwMTIucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////86HOsUAAAAAAAAAAAACAAQAAAogY3UAAAAAAAAAAAAAAAAABDIwMTMAAgBNLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6MjAxMzpyZWxzeW1faXBtMjAxMi5wZGYAAA4AJgASAHIAZQBsAHMAeQBtAF8AaQBwAG0AMgAwADEAMgAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAS1VzZXJzL2RhbnVib2wvU3lub2xvZ3lEcml2ZS9SZXNlYXJjaC9SZXNlYXJjaFBhcGVycy8yMDEzL3JlbHN5bV9pcG0yMDEyLnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAXAAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAH4}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA1Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9yZWxzeW1faXBtMjAxMi5wZGZPEQGYAAAAAAGYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADjx/ePQkQAAf////8ScmVsc3ltX2lwbTIwMTIucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////86HOsUAAAAAAAAAAAACAAQAAAogY3UAAAAAAAAAAAAAAAAABDIwMTMAAgBNLzpVc2VyczpkYW51Ym9sOlN5bm9sb2d5RHJpdmU6UmVzZWFyY2g6UmVzZWFyY2hQYXBlcnM6MjAxMzpyZWxzeW1faXBtMjAxMi5wZGYAAA4AJgASAHIAZQBsAHMAeQBtAF8AaQBwAG0AMgAwADEAMgAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAS1VzZXJzL2RhbnVib2wvU3lub2xvZ3lEcml2ZS9SZXNlYXJjaC9SZXNlYXJjaFBhcGVycy8yMDEzL3JlbHN5bV9pcG0yMDEyLnBkZgAAEwABLwAAFQACAA7//wAAAAgADQAaACQAXAAAAAAAAAIBAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAH4}}
 
 @article{Khan:ASE:2013,
 	author = {Khan, Muhammad Asif Hossain and Bollegala, Danushka and Li, Guangwen and Sezaki, Kaoru},
@@ -516,7 +571,7 @@
 	title = {Delineating Real-Time Events by Identifying Relevant Tweets with Popular Discussion Points},
 	volume = {2},
 	year = {2013},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA3Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9LSEFOX0FTRV9KT1VSTkFMLnBkZk8RAaAAAAAAAaAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAODv5B5CRAAB/////xRLSEFOX0FTRV9KT1VSTkFMLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoRdWAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAE8vOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOktIQU5fQVNFX0pPVVJOQUwucGRmAAAOACoAFABLAEgAQQBOAF8AQQBTAEUAXwBKAE8AVQBSAE4AQQBMAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBNVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvS0hBTl9BU0VfSk9VUk5BTC5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAF4AAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAACAg==}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA3Li4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9LSEFOX0FTRV9KT1VSTkFMLnBkZk8RAaAAAAAAAaAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAOPH949CRAAB/////xRLSEFOX0FTRV9KT1VSTkFMLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoRdWAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAE8vOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOktIQU5fQVNFX0pPVVJOQUwucGRmAAAOACoAFABLAEgAQQBOAF8AQQBTAEUAXwBKAE8AVQBSAE4AQQBMAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBNVXNlcnMvZGFudWJvbC9TeW5vbG9neURyaXZlL1Jlc2VhcmNoL1Jlc2VhcmNoUGFwZXJzLzIwMTMvS0hBTl9BU0VfSk9VUk5BTC5wZGYAABMAAS8AABUAAgAO//8AAAAIAA0AGgAkAF4AAAAAAAACAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAACAg==}}
 
 @article{Bollegala:TKDE:RA:2013,
 	author = {Bollegala, Danushka and Matsuo, Yutaka and Ishizuka, Mitsuru},
@@ -529,7 +584,7 @@
 	title = {Minimally Supervised Novel Relation Extraction using Latent Relational Mapping},
 	volume = {25},
 	year = {2013},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAuLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1JBLnBkZk8RAXoAAAAAAXoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAODv5B5CRAAB/////wtUS0RFX1JBLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoc8pAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEYvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfUkEucGRmAA4AGAALAFQASwBEAEUAXwBSAEEALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAERVc2Vycy9kYW51Ym9sL1N5bm9sb2d5RHJpdmUvUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1JBLnBkZgATAAEvAAAVAAIADv//AAAACAANABoAJABVAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAdM=}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAuLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1JBLnBkZk8RAXoAAAAAAXoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAOPH949CRAAB/////wtUS0RFX1JBLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoc8pAAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEYvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfUkEucGRmAA4AGAALAFQASwBEAEUAXwBSAEEALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAERVc2Vycy9kYW51Ym9sL1N5bm9sb2d5RHJpdmUvUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1JBLnBkZgATAAEvAAAVAAIADv//AAAACAANABoAJABVAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAdM=}}
 
 @article{Bollegala:TKDE:2013,
 	author = {Bollegala, Danushka and Weir, David and Carroll, John},
@@ -542,7 +597,7 @@
 	title = {Cross-Domain Sentiment Classification using a Sentiment Sensitive Thesaurus},
 	volume = {25},
 	year = {2013},
-	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAuLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1NBLnBkZk8RAXoAAAAAAXoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAODv5B5CRAAB/////wtUS0RFX1NBLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoc7/wAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEYvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfU0EucGRmAA4AGAALAFQASwBEAEUAXwBTAEEALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAERVc2Vycy9kYW51Ym9sL1N5bm9sb2d5RHJpdmUvUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1NBLnBkZgATAAEvAAAVAAIADv//AAAACAANABoAJABVAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAdM=}}
+	bdsk-file-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxAuLi4vLi4vUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1NBLnBkZk8RAXoAAAAAAXoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAOPH949CRAAB/////wtUS0RFX1NBLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////zoc7/wAAAAAAAAAAAAIABAAACiBjdQAAAAAAAAAAAAAAAAAEMjAxMwACAEYvOlVzZXJzOmRhbnVib2w6U3lub2xvZ3lEcml2ZTpSZXNlYXJjaDpSZXNlYXJjaFBhcGVyczoyMDEzOlRLREVfU0EucGRmAA4AGAALAFQASwBEAEUAXwBTAEEALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAERVc2Vycy9kYW51Ym9sL1N5bm9sb2d5RHJpdmUvUmVzZWFyY2gvUmVzZWFyY2hQYXBlcnMvMjAxMy9US0RFX1NBLnBkZgATAAEvAAAVAAIADv//AAAACAANABoAJABVAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAdM=}}
 
 @article{Bollegala:TKDE:2015,
 	author = {Bollegala, Danushka and Mu, Tingting and Goulermas, Yannis},
